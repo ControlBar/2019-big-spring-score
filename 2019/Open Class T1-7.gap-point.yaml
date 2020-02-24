@@ -1,0 +1,4195 @@
+validityWorking:
+- time:
+    nominalTime: 2.000000 h
+    ssBestTime: 2.418037 h
+    gsBestTime: 2.440464 h
+    nominalDistance: 80.0 km
+    reachMax:
+      extra: 139.666625 km
+      flown: 139.666625 km
+  launch:
+    nominalLaunch: 0.96
+    flying: 16
+    present: 16
+  distance:
+    sum: 538.7 km
+    flying: 16
+    area: 54.33332813
+    nominalGoal: 0.25
+    nominalDistance: 80.0 km
+    minimumDistance: 5.000 km
+    reachMax:
+      extra: 139.666625 km
+      flown: 139.666625 km
+  stop: null
+- time:
+    nominalTime: 2.000000 h
+    ssBestTime: 2.680421 h
+    gsBestTime: 2.738230 h
+    nominalDistance: 80.0 km
+    reachMax:
+      extra: 151.866614 km
+      flown: 151.866614 km
+  launch:
+    nominalLaunch: 0.96
+    flying: 14
+    present: 15
+  distance:
+    sum: 587.5 km
+    flying: 14
+    area: 55.85832675
+    nominalGoal: 0.25
+    nominalDistance: 80.0 km
+    minimumDistance: 5.000 km
+    reachMax:
+      extra: 151.866614 km
+      flown: 151.866614 km
+  stop: null
+- time:
+    nominalTime: 2.000000 h
+    ssBestTime: 1.644329 h
+    gsBestTime: 1.696754 h
+    nominalDistance: 80.0 km
+    reachMax:
+      extra: 99.410831 km
+      flown: 99.410831 km
+  launch:
+    nominalLaunch: 0.96
+    flying: 15
+    present: 16
+  distance:
+    sum: 993.3 km
+    flying: 15
+    area: 49.30135388
+    nominalGoal: 0.25
+    nominalDistance: 80.0 km
+    minimumDistance: 5.000 km
+    reachMax:
+      extra: 99.410831 km
+      flown: 99.410831 km
+  stop: null
+- time:
+    nominalTime: 2.000000 h
+    ssBestTime: 2.891146 h
+    gsBestTime: 3.444392 h
+    nominalDistance: 80.0 km
+    reachMax:
+      extra: 117.962697 km
+      flown: 117.962697 km
+  launch:
+    nominalLaunch: 0.96
+    flying: 12
+    present: 15
+  distance:
+    sum: 415.0 km
+    flying: 12
+    area: 51.62033713
+    nominalGoal: 0.25
+    nominalDistance: 80.0 km
+    minimumDistance: 5.000 km
+    reachMax:
+      extra: 117.962697 km
+      flown: 117.962697 km
+  stop: null
+- time:
+    nominalTime: 2.000000 h
+    ssBestTime: 1.888985 h
+    gsBestTime: 1.929838 h
+    nominalDistance: 80.0 km
+    reachMax:
+      extra: 73.210391 km
+      flown: 73.210391 km
+  launch:
+    nominalLaunch: 0.96
+    flying: 16
+    present: 16
+  distance:
+    sum: 566.0 km
+    flying: 16
+    area: 46.875
+    nominalGoal: 0.25
+    nominalDistance: 80.0 km
+    minimumDistance: 5.000 km
+    reachMax:
+      extra: 73.210391 km
+      flown: 73.210391 km
+  stop: null
+- null
+- time:
+    nominalTime: 2.000000 h
+    ssBestTime: 1.965079 h
+    gsBestTime: 1.973040 h
+    nominalDistance: 80.0 km
+    reachMax:
+      extra: 64.324047 km
+      flown: 64.324047 km
+  launch:
+    nominalLaunch: 0.96
+    flying: 16
+    present: 16
+  distance:
+    sum: 420.4 km
+    flying: 16
+    area: 46.875
+    nominalGoal: 0.25
+    nominalDistance: 80.0 km
+    minimumDistance: 5.000 km
+    reachMax:
+      extra: 64.324047 km
+      flown: 64.324047 km
+  stop: null
+validity:
+- time: 1
+  launch: 1
+  distance: 0.61963177
+  task: 0.61963177
+  stop: null
+- time: 1
+  launch: 0.99698688
+  distance: 0.75121996
+  task: 0.74895644
+  stop: null
+- time: 0.96850242
+  launch: 0.99774408
+  distance: 1
+  task: 0.96631756
+  stop: null
+- time: 1
+  launch: 0.92319444
+  distance: 0.66992149
+  task: 0.6184678
+  stop: null
+- time: 0.99603352
+  launch: 1
+  distance: 0.75469321
+  task: 0.75169974
+  stop: null
+- null
+- time: 0.99869402
+  launch: 1
+  distance: 0.56048596
+  task: 0.55975397
+  stop: null
+allocation:
+- goalRatio: 0.25
+  weight:
+    effort: 0.29082031
+    arrival: 0.10458984
+    time: 0.24055664
+    reach: 0.29082031
+    distance: 0.58164062
+    leading: 7.321289e-2
+  points:
+    effort: 180.202
+    arrival: 64.8
+    time: 149.1
+    reach: 180.202
+    distance: 360.403
+    leading: 45.4
+  taskPoints: 619.632
+- goalRatio: 0.28571429
+  weight:
+    effort: 0.27521574
+    arrival: 0.11239213
+    time: 0.2585019
+    reach: 0.27521574
+    distance: 0.55043149
+    leading: 7.867449e-2
+  points:
+    effort: 206.125
+    arrival: 84.2
+    time: 193.6
+    reach: 206.125
+    distance: 412.249
+    leading: 58.9
+  taskPoints: 748.956
+- goalRatio: 0.6
+  weight:
+    effort: 0.195444
+    arrival: 0.152278
+    time: 0.3502394
+    reach: 0.195444
+    distance: 0.390888
+    leading: 0.1065946
+  points:
+    effort: 188.861
+    arrival: 147.1
+    time: 338.4
+    reach: 188.861
+    distance: 377.722
+    leading: 103
+  taskPoints: 966.318
+- goalRatio: 0.25
+  weight:
+    effort: 0.29082031
+    arrival: 0.10458984
+    time: 0.24055664
+    reach: 0.29082031
+    distance: 0.58164062
+    leading: 7.321289e-2
+  points:
+    effort: 179.863
+    arrival: 64.7
+    time: 148.8
+    reach: 179.863
+    distance: 359.726
+    leading: 45.3
+  taskPoints: 618.468
+- goalRatio: 0.4375
+  weight:
+    effort: 0.22514294
+    arrival: 0.13742853
+    time: 0.31608561
+    reach: 0.22514294
+    distance: 0.45028589
+    leading: 9.619997e-2
+  points:
+    effort: 169.24
+    arrival: 103.3
+    time: 237.6
+    reach: 169.24
+    distance: 338.48
+    leading: 72.3
+  taskPoints: 751.7
+- null
+- goalRatio: 0.1875
+  weight:
+    effort: 0.32208289
+    arrival: 8.895856e-2
+    time: 0.20460468
+    reach: 0.32208289
+    distance: 0.64416577
+    leading: 6.227099e-2
+  points:
+    effort: 180.287
+    arrival: 49.8
+    time: 114.5
+    reach: 180.287
+    distance: 360.574
+    leading: 34.9
+  taskPoints: 559.754
+score:
+- - - - '104'
+      - Willy Dydo
+    - place: '1'
+      total: 592.141
+      jump: null
+      penalties: []
+      breakdown:
+        effort: 180.202
+        arrival: 64.8
+        time: 121.6
+        reach: 180.202
+        distance: 360.403
+        leading: 45.4
+      demeritFrac: 0
+      demeritPoint: 0
+      velocity:
+        ss: 2019-08-11T20:04:22.595801172118Z
+        gs: 2019-08-11T20:00:00Z
+        es: 2019-08-11T22:33:51.103670642126Z
+        ssDistance: 133.445 km
+        ssElapsed: 2.491252 h
+        gsElapsed: 2.564195 h
+        ssVelocity: 53.57 km / h
+        gsVelocity: 52.04 km / h
+      reach:
+        extra: 139.667 km
+        flown: 139.667 km
+      demeritReset: 0
+      penaltiesJump: []
+      penaltyReason: ''
+      subtotal: 592.141
+      landedMade: 139.667 km
+      stoppedAlt: null
+  - - - '110'
+      - Kevin Carter
+    - place: '2'
+      total: 548.496
+      jump: null
+      penalties: []
+      breakdown:
+        effort: 180.202
+        arrival: 27.2
+        time: 149.1
+        reach: 180.202
+        distance: 360.403
+        leading: 11.8
+      demeritFrac: 0
+      demeritPoint: 0
+      velocity:
+        ss: 2019-08-11T20:31:20.736500482866Z
+        gs: 2019-08-11T20:30:00Z
+        es: 2019-08-11T22:56:25.670937051871Z
+        ssDistance: 133.445 km
+        ssElapsed: 2.418037 h
+        gsElapsed: 2.440464 h
+        ssVelocity: 55.19 km / h
+        gsVelocity: 54.68 km / h
+      reach:
+        extra: 139.667 km
+        flown: 139.667 km
+      demeritReset: 0
+      penaltiesJump: []
+      penaltyReason: ''
+      subtotal: 548.496
+      landedMade: 139.667 km
+      stoppedAlt: null
+  - - - '102'
+      - Vic Hare
+    - place: '3'
+      total: 505.987
+      jump: null
+      penalties: []
+      breakdown:
+        effort: 180.202
+        arrival: 17.9
+        time: 118.2
+        reach: 180.202
+        distance: 360.403
+        leading: 9.4
+      demeritFrac: 0
+      demeritPoint: 0
+      velocity:
+        ss: 2019-08-11T20:31:24.16556881622Z
+        gs: 2019-08-11T20:30:00Z
+        es: 2019-08-11T23:05:14.135892908358Z
+        ssDistance: 133.445 km
+        ssElapsed: 2.563881 h
+        gsElapsed: 2.587260 h
+        ssVelocity: 52.05 km / h
+        gsVelocity: 51.58 km / h
+      reach:
+        extra: 139.667 km
+        flown: 139.667 km
+      demeritReset: 0
+      penaltiesJump: []
+      penaltyReason: ''
+      subtotal: 505.987
+      landedMade: 139.667 km
+      stoppedAlt: null
+  - - - '113'
+      - Rodolfo Gotes
+    - place: '4'
+      total: 468.358
+      jump: null
+      penalties: []
+      breakdown:
+        effort: 180.202
+        arrival: 16.2
+        time: 63.5
+        reach: 180.202
+        distance: 360.403
+        leading: 28.2
+      demeritFrac: 0
+      demeritPoint: 0
+      velocity:
+        ss: 2019-08-11T20:05:12.423559492217Z
+        gs: 2019-08-11T20:00:00Z
+        es: 2019-08-11T23:07:10.0751750002Z
+        ssDistance: 133.445 km
+        ssElapsed: 3.032681 h
+        gsElapsed: 3.119465 h
+        ssVelocity: 44.00 km / h
+        gsVelocity: 42.78 km / h
+      reach:
+        extra: 139.667 km
+        flown: 139.667 km
+      demeritReset: 0
+      penaltiesJump: []
+      penaltyReason: ''
+      subtotal: 468.358
+      landedMade: 139.667 km
+      stoppedAlt: null
+  - - - '105'
+      - David Proctor
+    - place: '5'
+      total: 183.777
+      jump: null
+      penalties:
+      - penalty-points: 146.5
+      breakdown:
+        effort: 180.202
+        arrival: 0
+        time: 0
+        reach: 150.075
+        distance: 330.277
+        leading: 0
+      demeritFrac: 0
+      demeritPoint: 146.5
+      velocity: null
+      reach:
+        extra: 116.317 km
+        flown: 116.317 km
+      demeritReset: 0
+      penaltiesJump: []
+      penaltyReason: Jump the gun by 293 seconds
+      subtotal: 330.277
+      landedMade: 116.317 km
+      stoppedAlt: null
+  - - - '103'
+      - ! 'Antonio  Mendoza '
+    - place: 6=
+      total: 28.229
+      jump: null
+      penalties: []
+      breakdown:
+        effort: 21.778
+        arrival: 0
+        time: 0
+        reach: 6.451
+        distance: 28.229
+        leading: 0
+      demeritFrac: 0
+      demeritPoint: 0
+      velocity: null
+      reach:
+        extra: 0.000 km
+        flown: 0.000 km
+      demeritReset: 0
+      penaltiesJump: []
+      penaltyReason: ''
+      subtotal: 28.229
+      landedMade: 0.000 km
+      stoppedAlt: null
+  - - - '109'
+      - Rich Reinauer
+    - place: 6=
+      total: 28.229
+      jump: null
+      penalties: []
+      breakdown:
+        effort: 21.778
+        arrival: 0
+        time: 0
+        reach: 6.451
+        distance: 28.229
+        leading: 0
+      demeritFrac: 0
+      demeritPoint: 0
+      velocity: null
+      reach:
+        extra: 0.000 km
+        flown: 0.000 km
+      demeritReset: 0
+      penaltiesJump: []
+      penaltyReason: ''
+      subtotal: 28.229
+      landedMade: 0.000 km
+      stoppedAlt: null
+- - - - '113'
+      - Rodolfo Gotes
+    - place: '1'
+      total: 741.536
+      jump: null
+      penalties: []
+      breakdown:
+        effort: 206.125
+        arrival: 82.7
+        time: 187.7
+        reach: 206.125
+        distance: 412.249
+        leading: 58.9
+      demeritFrac: 0
+      demeritPoint: 0
+      velocity:
+        ss: 2019-08-12T19:34:00.08069442476Z
+        gs: 2019-08-12T19:30:00Z
+        es: 2019-08-12T22:14:49.59808881782Z
+        ssDistance: 150.304 km
+        ssElapsed: 2.680421 h
+        gsElapsed: 2.747111 h
+        ssVelocity: 56.07 km / h
+        gsVelocity: 54.71 km / h
+      reach:
+        extra: 151.867 km
+        flown: 151.867 km
+      demeritReset: 0
+      penaltiesJump: []
+      penaltyReason: ''
+      subtotal: 741.536
+      landedMade: 151.867 km
+      stoppedAlt: null
+  - - - '104'
+      - Willy Dydo
+    - place: '2'
+      total: 737.038
+      jump: null
+      penalties: []
+      breakdown:
+        effort: 206.125
+        arrival: 84.2
+        time: 193.6
+        reach: 206.125
+        distance: 412.249
+        leading: 47
+      demeritFrac: 0
+      demeritPoint: 0
+      velocity:
+        ss: 2019-08-12T19:30:55.957146290476Z
+        gs: 2019-08-12T19:30:00Z
+        es: 2019-08-12T22:14:17.62864645431Z
+        ssDistance: 150.304 km
+        ssElapsed: 2.722687 h
+        gsElapsed: 2.738230 h
+        ssVelocity: 55.20 km / h
+        gsVelocity: 54.89 km / h
+      reach:
+        extra: 151.867 km
+        flown: 151.867 km
+      demeritReset: 0
+      penaltiesJump: []
+      penaltyReason: ''
+      subtotal: 737.038
+      landedMade: 151.867 km
+      stoppedAlt: null
+  - - - '102'
+      - Vic Hare
+    - place: '3'
+      total: 639.846
+      jump: null
+      penalties: []
+      breakdown:
+        effort: 206.125
+        arrival: 47.3
+        time: 137
+        reach: 206.125
+        distance: 412.249
+        leading: 43.3
+      demeritFrac: 0
+      demeritPoint: 0
+      velocity:
+        ss: 2019-08-12T19:30:55.901656299146Z
+        gs: 2019-08-12T19:30:00Z
+        es: 2019-08-12T22:30:00.674913432078Z
+        ssDistance: 150.304 km
+        ssElapsed: 2.984659 h
+        gsElapsed: 3.000187 h
+        ssVelocity: 50.36 km / h
+        gsVelocity: 50.10 km / h
+      reach:
+        extra: 151.867 km
+        flown: 151.867 km
+      demeritReset: 0
+      penaltiesJump: []
+      penaltyReason: ''
+      subtotal: 639.846
+      landedMade: 151.867 km
+      stoppedAlt: null
+  - - - '110'
+      - Kevin Carter
+    - place: '4'
+      total: 518.193
+      jump: null
+      penalties: []
+      breakdown:
+        effort: 206.125
+        arrival: 6.2
+        time: 67.5
+        reach: 206.125
+        distance: 412.249
+        leading: 32.2
+      demeritFrac: 0
+      demeritPoint: 0
+      velocity:
+        ss: 2019-08-12T19:30:52.884520096555Z
+        gs: 2019-08-12T19:30:00Z
+        es: 2019-08-12T23:06:29.127408571847Z
+        ssDistance: 150.304 km
+        ssElapsed: 3.593401 h
+        gsElapsed: 3.608091 h
+        ssVelocity: 41.83 km / h
+        gsVelocity: 41.66 km / h
+      reach:
+        extra: 151.867 km
+        flown: 151.867 km
+      demeritReset: 0
+      penaltiesJump: []
+      penaltyReason: ''
+      subtotal: 518.193
+      landedMade: 151.867 km
+      stoppedAlt: null
+- - - - '106'
+      - Bruce Barmakian
+    - place: '1'
+      total: 858.966
+      jump: null
+      penalties: []
+      breakdown:
+        effort: 188.861
+        arrival: 117.7
+        time: 338.4
+        reach: 188.861
+        distance: 377.722
+        leading: 25.1
+      demeritFrac: 0
+      demeritPoint: 0
+      velocity:
+        ss: 2019-08-13T20:03:08.73075554528Z
+        gs: 2019-08-13T20:00:00Z
+        es: 2019-08-13T21:41:48.314848833089Z
+        ssDistance: 93.792 km
+        ssElapsed: 1.644329 h
+        gsElapsed: 1.696754 h
+        ssVelocity: 57.04 km / h
+        gsVelocity: 55.28 km / h
+      reach:
+        extra: 99.411 km
+        flown: 99.411 km
+      demeritReset: 0
+      penaltiesJump: []
+      penaltyReason: ''
+      subtotal: 858.966
+      landedMade: 99.411 km
+      stoppedAlt: null
+  - - - '113'
+      - Rodolfo Gotes
+    - place: '2'
+      total: 812.406
+      jump: null
+      penalties: []
+      breakdown:
+        effort: 188.861
+        arrival: 146.2
+        time: 185.5
+        reach: 188.861
+        distance: 377.722
+        leading: 103
+      demeritFrac: 0
+      demeritPoint: 0
+      velocity:
+        ss: 2019-08-13T19:30:27.693749687897Z
+        gs: 2019-08-13T19:30:00Z
+        es: 2019-08-13T21:35:32.567502548386Z
+        ssDistance: 93.792 km
+        ssElapsed: 2.084687 h
+        gsElapsed: 2.092380 h
+        ssVelocity: 44.99 km / h
+        gsVelocity: 44.83 km / h
+      reach:
+        extra: 99.411 km
+        flown: 99.411 km
+      demeritReset: 0
+      penaltiesJump: []
+      penaltyReason: ''
+      subtotal: 812.406
+      landedMade: 99.411 km
+      stoppedAlt: null
+  - - - '102'
+      - Vic Hare
+    - place: '3'
+      total: 810.861
+      jump: null
+      penalties: []
+      breakdown:
+        effort: 188.861
+        arrival: 147.1
+        time: 186.4
+        reach: 188.861
+        distance: 377.722
+        leading: 99.6
+      demeritFrac: 0
+      demeritPoint: 0
+      velocity:
+        ss: 2019-08-13T19:30:41.602394112713Z
+        gs: 2019-08-13T19:30:00Z
+        es: 2019-08-13T21:35:20.432535984541Z
+        ssDistance: 93.792 km
+        ssElapsed: 2.077453 h
+        gsElapsed: 2.089009 h
+        ssVelocity: 45.15 km / h
+        gsVelocity: 44.90 km / h
+      reach:
+        extra: 99.411 km
+        flown: 99.411 km
+      demeritReset: 0
+      penaltiesJump: []
+      penaltyReason: ''
+      subtotal: 810.861
+      landedMade: 99.411 km
+      stoppedAlt: null
+  - - - '115'
+      - Erick Salgado
+    - place: '4'
+      total: 775.074
+      jump: null
+      penalties: []
+      breakdown:
+        effort: 188.861
+        arrival: 137.9
+        time: 178.2
+        reach: 188.861
+        distance: 377.722
+        leading: 81.3
+      demeritFrac: 0
+      demeritPoint: 0
+      velocity:
+        ss: 2019-08-13T19:31:14.035043329416Z
+        gs: 2019-08-13T19:30:00Z
+        es: 2019-08-13T21:37:16.575536198072Z
+        ssDistance: 93.792 km
+        ssElapsed: 2.100706 h
+        gsElapsed: 2.121271 h
+        ssVelocity: 44.65 km / h
+        gsVelocity: 44.22 km / h
+      reach:
+        extra: 99.411 km
+        flown: 99.411 km
+      demeritReset: 0
+      penaltiesJump: []
+      penaltyReason: ''
+      subtotal: 775.074
+      landedMade: 99.411 km
+      stoppedAlt: null
+  - - - '116'
+      - Roger Irby
+    - place: '5'
+      total: 642.378
+      jump: null
+      penalties: []
+      breakdown:
+        effort: 188.861
+        arrival: 76.3
+        time: 117.5
+        reach: 188.861
+        distance: 377.722
+        leading: 70.8
+      demeritFrac: 0
+      demeritPoint: 0
+      velocity:
+        ss: 2019-08-13T19:31:06.746741371125Z
+        gs: 2019-08-13T19:30:00Z
+        es: 2019-08-13T21:53:01.350400395333Z
+        ssDistance: 93.792 km
+        ssElapsed: 2.365168 h
+        gsElapsed: 2.383708 h
+        ssVelocity: 39.66 km / h
+        gsVelocity: 39.35 km / h
+      reach:
+        extra: 99.411 km
+        flown: 99.411 km
+      demeritReset: 0
+      penaltiesJump: []
+      penaltyReason: ''
+      subtotal: 642.378
+      landedMade: 99.411 km
+      stoppedAlt: null
+  - - - '109'
+      - Rich Reinauer
+    - place: '6'
+      total: 632.249
+      jump: null
+      penalties: []
+      breakdown:
+        effort: 188.861
+        arrival: 67.3
+        time: 162.9
+        reach: 188.861
+        distance: 377.722
+        leading: 24.3
+      demeritFrac: 0
+      demeritPoint: 0
+      velocity:
+        ss: 2019-08-13T19:46:20.358857920447Z
+        gs: 2019-08-13T19:45:00Z
+        es: 2019-08-13T21:55:59.54475197559Z
+        ssDistance: 93.792 km
+        ssElapsed: 2.160885 h
+        gsElapsed: 2.183207 h
+        ssVelocity: 43.40 km / h
+        gsVelocity: 42.96 km / h
+      reach:
+        extra: 99.411 km
+        flown: 99.411 km
+      demeritReset: 0
+      penaltiesJump: []
+      penaltyReason: ''
+      subtotal: 632.249
+      landedMade: 99.411 km
+      stoppedAlt: null
+  - - - '101'
+      - Davis Straub
+    - place: '7'
+      total: 579.4
+      jump: null
+      penalties: []
+      breakdown:
+        effort: 188.861
+        arrival: 49.2
+        time: 83.6
+        reach: 188.861
+        distance: 377.722
+        leading: 68.9
+      demeritFrac: 0
+      demeritPoint: 0
+      velocity:
+        ss: 2019-08-13T19:30:33.243780000806Z
+        gs: 2019-08-13T19:30:00Z
+        es: 2019-08-13T22:02:52.714497409016Z
+        ssDistance: 93.792 km
+        ssElapsed: 2.538742 h
+        gsElapsed: 2.547976 h
+        ssVelocity: 36.94 km / h
+        gsVelocity: 36.81 km / h
+      reach:
+        extra: 99.411 km
+        flown: 99.411 km
+      demeritReset: 0
+      penaltiesJump: []
+      penaltyReason: ''
+      subtotal: 579.4
+      landedMade: 99.411 km
+      stoppedAlt: null
+  - - - '108'
+      - Gary Anderson
+    - place: '8'
+      total: 557.393
+      jump: null
+      penalties: []
+      breakdown:
+        effort: 188.861
+        arrival: 41
+        time: 71.6
+        reach: 188.861
+        distance: 377.722
+        leading: 67.1
+      demeritFrac: 0
+      demeritPoint: 0
+      velocity:
+        ss: 2019-08-13T19:30:47.747524190586Z
+        gs: 2019-08-13T19:30:00Z
+        es: 2019-08-13T22:06:32.02442130865Z
+        ssDistance: 93.792 km
+        ssElapsed: 2.595632 h
+        gsElapsed: 2.608896 h
+        ssVelocity: 36.13 km / h
+        gsVelocity: 35.95 km / h
+      reach:
+        extra: 99.411 km
+        flown: 99.411 km
+      demeritReset: 0
+      penaltiesJump: []
+      penaltyReason: ''
+      subtotal: 557.393
+      landedMade: 99.411 km
+      stoppedAlt: null
+  - - - '105'
+      - David Proctor
+    - place: '9'
+      total: 494.696
+      jump: null
+      penalties: []
+      breakdown:
+        effort: 188.861
+        arrival: 32.9
+        time: 58
+        reach: 188.861
+        distance: 377.722
+        leading: 26.1
+      demeritFrac: 0
+      demeritPoint: 0
+      velocity:
+        ss: 2019-08-13T19:36:16.551121508944Z
+        gs: 2019-08-13T19:30:00Z
+        es: 2019-08-13T22:10:44.548461277466Z
+        ssDistance: 93.792 km
+        ssElapsed: 2.574444 h
+        gsElapsed: 2.679041 h
+        ssVelocity: 36.43 km / h
+        gsVelocity: 35.01 km / h
+      reach:
+        extra: 99.411 km
+        flown: 99.411 km
+      demeritReset: 0
+      penaltiesJump: []
+      penaltyReason: ''
+      subtotal: 494.696
+      landedMade: 99.411 km
+      stoppedAlt: null
+  - - - '112'
+      - Nathan Wreyford
+    - place: '10'
+      total: 363.914
+      jump: null
+      penalties: []
+      breakdown:
+        effort: 188.861
+        arrival: 0
+        time: 0
+        reach: 175.053
+        distance: 363.914
+        leading: 0
+      demeritFrac: 0
+      demeritPoint: 0
+      velocity:
+        ss: 2019-08-13T20:07:16.562189065689Z
+        gs: 2019-08-13T20:00:00Z
+        es: null
+        ssDistance: null
+        ssElapsed: null
+        gsElapsed: null
+        ssVelocity: null
+        gsVelocity: null
+      reach:
+        extra: 92.143 km
+        flown: 92.143 km
+      demeritReset: 0
+      penaltiesJump: []
+      penaltyReason: ''
+      subtotal: 363.914
+      landedMade: 91.775 km
+      stoppedAlt: 830.000 m
+  - - - '104'
+      - Willy Dydo
+    - place: '11'
+      total: 204.605
+      jump: null
+      penalties: []
+      breakdown:
+        effort: 118.525
+        arrival: 0
+        time: 0
+        reach: 75.257
+        distance: 193.781
+        leading: 10.8
+      demeritFrac: 0
+      demeritPoint: 0
+      velocity:
+        ss: 2019-08-13T19:30:16.461932461517Z
+        gs: 2019-08-13T19:30:00Z
+        es: null
+        ssDistance: null
+        ssElapsed: null
+        gsElapsed: null
+        ssVelocity: null
+        gsVelocity: null
+      reach:
+        extra: 39.613 km
+        flown: 39.613 km
+      demeritReset: 0
+      penaltiesJump: []
+      penaltyReason: ''
+      subtotal: 204.605
+      landedMade: 39.314 km
+      stoppedAlt: 802.000 m
+  - - - '103'
+      - ! 'Antonio  Mendoza '
+    - place: '12'
+      total: 134.806
+      jump: null
+      penalties: []
+      breakdown:
+        effort: 83.893
+        arrival: 0
+        time: 0
+        reach: 50.912
+        distance: 134.806
+        leading: 0
+      demeritFrac: 0
+      demeritPoint: 0
+      velocity:
+        ss: 2019-08-13T19:31:49.65794924225Z
+        gs: 2019-08-13T19:30:00Z
+        es: null
+        ssDistance: null
+        ssElapsed: null
+        gsElapsed: null
+        ssVelocity: null
+        gsVelocity: null
+      reach:
+        extra: 26.799 km
+        flown: 26.799 km
+      demeritReset: 0
+      penaltiesJump: []
+      penaltyReason: ''
+      subtotal: 134.806
+      landedMade: 26.470 km
+      stoppedAlt: 772.000 m
+  - - - '107'
+      - Tom McGowan
+    - place: '13'
+      total: 10.304
+      jump: null
+      penalties: []
+      breakdown:
+        effort: 0.805
+        arrival: 0
+        time: 0
+        reach: 9.499
+        distance: 10.304
+        leading: 0
+      demeritFrac: 0
+      demeritPoint: 0
+      velocity:
+        ss: null
+        gs: null
+        es: null
+        ssDistance: null
+        ssElapsed: null
+        gsElapsed: null
+        ssVelocity: null
+        gsVelocity: null
+      reach:
+        extra: 1.760 km
+        flown: 1.760 km
+      demeritReset: 0
+      penaltiesJump: []
+      penaltyReason: ''
+      subtotal: 10.304
+      landedMade: 0.158 km
+      stoppedAlt: 752.000 m
+- - - - '106'
+      - Bruce Barmakian
+    - place: '1'
+      total: 618.468
+      jump: null
+      penalties: []
+      breakdown:
+        effort: 179.863
+        arrival: 64.7
+        time: 148.8
+        reach: 179.863
+        distance: 359.726
+        leading: 45.3
+      demeritFrac: 0
+      demeritPoint: 0
+      velocity:
+        ss: 2019-08-14T20:00:24.177679491738Z
+        gs: 2019-08-14T20:00:00Z
+        es: 2019-08-14T23:26:39.81130854949Z
+        ssDistance: 112.410 km
+        ssElapsed: 3.437676 h
+        gsElapsed: 3.444392 h
+        ssVelocity: 32.70 km / h
+        gsVelocity: 32.64 km / h
+      reach:
+        extra: 117.963 km
+        flown: 117.963 km
+      demeritReset: 0
+      penaltiesJump: []
+      penaltyReason: ''
+      subtotal: 618.468
+      landedMade: 117.963 km
+      stoppedAlt: null
+  - - - '113'
+      - Rodolfo Gotes
+    - place: '2'
+      total: 511.28
+      jump: null
+      penalties: []
+      breakdown:
+        effort: 179.863
+        arrival: 23.2
+        time: 92.2
+        reach: 179.863
+        distance: 359.726
+        leading: 36.1
+      demeritFrac: 0
+      demeritPoint: 0
+      velocity:
+        ss: 2019-08-14T20:00:09.348589016875Z
+        gs: 2019-08-14T20:00:00Z
+        es: 2019-08-14T23:52:44.811496517898Z
+        ssDistance: 112.410 km
+        ssElapsed: 3.876517 h
+        gsElapsed: 3.879114 h
+        ssVelocity: 29.00 km / h
+        gsVelocity: 28.98 km / h
+      reach:
+        extra: 117.963 km
+        flown: 117.963 km
+      demeritReset: 0
+      penaltiesJump: []
+      penaltyReason: ''
+      subtotal: 511.28
+      landedMade: 117.963 km
+      stoppedAlt: null
+  - - - '115'
+      - Erick Salgado
+    - place: '3'
+      total: 449.864
+      jump: null
+      penalties: []
+      breakdown:
+        effort: 179.863
+        arrival: 2.1
+        time: 84.9
+        reach: 179.863
+        distance: 359.726
+        leading: 3.1
+      demeritFrac: 0
+      demeritPoint: 0
+      velocity:
+        ss: 2019-08-14T21:34:30.24483776829Z
+        gs: 2019-08-14T20:30:00Z
+        es: 2019-08-15T00:27:58.371595790295Z
+        ssDistance: 112.410 km
+        ssElapsed: 2.891146 h
+        gsElapsed: 3.966214 h
+        ssVelocity: 38.88 km / h
+        gsVelocity: 28.34 km / h
+      reach:
+        extra: 117.963 km
+        flown: 117.963 km
+      demeritReset: 0
+      penaltiesJump: []
+      penaltyReason: ''
+      subtotal: 449.864
+      landedMade: 117.963 km
+      stoppedAlt: null
+  - - - '101'
+      - Davis Straub
+    - place: '4'
+      total: 251.832
+      jump: null
+      penalties: []
+      breakdown:
+        effort: 179.863
+        arrival: 0
+        time: 0
+        reach: 67.753
+        distance: 247.616
+        leading: 4.2
+      demeritFrac: 0
+      demeritPoint: 0
+      velocity:
+        ss: 2019-08-14T20:00:24.075598654484Z
+        gs: 2019-08-14T20:00:00Z
+        es: null
+        ssDistance: null
+        ssElapsed: null
+        gsElapsed: null
+        ssVelocity: null
+        gsVelocity: null
+      reach:
+        extra: 44.436 km
+        flown: 44.436 km
+      demeritReset: 0
+      penaltiesJump: []
+      penaltyReason: ''
+      subtotal: 251.832
+      landedMade: 44.259 km
+      stoppedAlt: 785.000 m
+  - - - '110'
+      - Kevin Carter
+    - place: '5'
+      total: 192.989
+      jump: null
+      penalties: []
+      breakdown:
+        effort: 148.79
+        arrival: 0
+        time: 0
+        reach: 44.199
+        distance: 192.989
+        leading: 0
+      demeritFrac: 0
+      demeritPoint: 0
+      velocity:
+        ss: 2019-08-14T20:00:30.559949001168Z
+        gs: 2019-08-14T20:00:00Z
+        es: null
+        ssDistance: null
+        ssElapsed: null
+        gsElapsed: null
+        ssVelocity: null
+        gsVelocity: null
+      reach:
+        extra: 28.988 km
+        flown: 28.988 km
+      demeritReset: 0
+      penaltiesJump: []
+      penaltyReason: ''
+      subtotal: 192.989
+      landedMade: 28.673 km
+      stoppedAlt: 736.000 m
+  - - - '104'
+      - Willy Dydo
+    - place: '6'
+      total: 120.202
+      jump: null
+      penalties: []
+      breakdown:
+        effort: 96.206
+        arrival: 0
+        time: 0
+        reach: 23.996
+        distance: 120.202
+        leading: 0
+      demeritFrac: 0
+      demeritPoint: 0
+      velocity:
+        ss: 2019-08-14T20:07:52.893080008255Z
+        gs: 2019-08-14T20:00:00Z
+        es: null
+        ssDistance: null
+        ssElapsed: null
+        gsElapsed: null
+        ssVelocity: null
+        gsVelocity: null
+      reach:
+        extra: 15.738 km
+        flown: 15.738 km
+      demeritReset: 0
+      penaltiesJump: []
+      penaltyReason: ''
+      subtotal: 120.202
+      landedMade: 15.490 km
+      stoppedAlt: 725.000 m
+  - - - '102'
+      - Vic Hare
+    - place: '7'
+      total: 51.797
+      jump: null
+      penalties: []
+      breakdown:
+        effort: 41.231
+        arrival: 0
+        time: 0
+        reach: 10.566
+        distance: 51.797
+        leading: 0
+      demeritFrac: 0
+      demeritPoint: 0
+      velocity:
+        ss: 2019-08-14T20:00:22.262136551422Z
+        gs: 2019-08-14T20:00:00Z
+        es: null
+        ssDistance: null
+        ssElapsed: null
+        gsElapsed: null
+        ssVelocity: null
+        gsVelocity: null
+      reach:
+        extra: 6.930 km
+        flown: 6.930 km
+      demeritReset: 0
+      penaltiesJump: []
+      penaltyReason: ''
+      subtotal: 51.797
+      landedMade: 6.244 km
+      stoppedAlt: 699.000 m
+  - - - '108'
+      - Gary Anderson
+    - place: 8=
+      total: 9.217
+      jump: null
+      penalties: []
+      breakdown:
+        effort: 1.593
+        arrival: 0
+        time: 0
+        reach: 7.624
+        distance: 9.217
+        leading: 0
+      demeritFrac: 0
+      demeritPoint: 0
+      velocity:
+        ss: null
+        gs: null
+        es: null
+        ssDistance: null
+        ssElapsed: null
+        gsElapsed: null
+        ssVelocity: null
+        gsVelocity: null
+      reach:
+        extra: 0.922 km
+        flown: 0.922 km
+      demeritReset: 0
+      penaltiesJump: []
+      penaltyReason: ''
+      subtotal: 9.217
+      landedMade: -0.809 km
+      stoppedAlt: 716.000 m
+  - - - '112'
+      - Nathan Wreyford
+    - place: 8=
+      total: 9.217
+      jump: null
+      penalties: []
+      breakdown:
+        effort: 1.593
+        arrival: 0
+        time: 0
+        reach: 7.624
+        distance: 9.217
+        leading: 0
+      demeritFrac: 0
+      demeritPoint: 0
+      velocity:
+        ss: null
+        gs: null
+        es: null
+        ssDistance: null
+        ssElapsed: null
+        gsElapsed: null
+        ssVelocity: null
+        gsVelocity: null
+      reach:
+        extra: -0.592 km
+        flown: -0.592 km
+      demeritReset: 0
+      penaltiesJump: []
+      penaltyReason: ''
+      subtotal: 9.217
+      landedMade: -0.976 km
+      stoppedAlt: 718.000 m
+  - - - '109'
+      - Rich Reinauer
+    - place: 8=
+      total: 9.217
+      jump: null
+      penalties: []
+      breakdown:
+        effort: 1.593
+        arrival: 0
+        time: 0
+        reach: 7.624
+        distance: 9.217
+        leading: 0
+      demeritFrac: 0
+      demeritPoint: 0
+      velocity:
+        ss: null
+        gs: null
+        es: null
+        ssDistance: null
+        ssElapsed: null
+        gsElapsed: null
+        ssVelocity: null
+        gsVelocity: null
+      reach:
+        extra: 1.208 km
+        flown: 1.208 km
+      demeritReset: 0
+      penaltiesJump: []
+      penaltyReason: ''
+      subtotal: 9.217
+      landedMade: -0.591 km
+      stoppedAlt: 801.000 m
+  - - - '116'
+      - Roger Irby
+    - place: 8=
+      total: 9.217
+      jump: null
+      penalties: []
+      breakdown:
+        effort: 1.593
+        arrival: 0
+        time: 0
+        reach: 7.624
+        distance: 9.217
+        leading: 0
+      demeritFrac: 0
+      demeritPoint: 0
+      velocity:
+        ss: null
+        gs: null
+        es: null
+        ssDistance: null
+        ssElapsed: null
+        gsElapsed: null
+        ssVelocity: null
+        gsVelocity: null
+      reach:
+        extra: 1.209 km
+        flown: 1.209 km
+      demeritReset: 0
+      penaltiesJump: []
+      penaltyReason: ''
+      subtotal: 9.217
+      landedMade: -1.017 km
+      stoppedAlt: 698.000 m
+  - - - '107'
+      - Tom McGowan
+    - place: 8=
+      total: 9.217
+      jump: null
+      penalties: []
+      breakdown:
+        effort: 1.593
+        arrival: 0
+        time: 0
+        reach: 7.624
+        distance: 9.217
+        leading: 0
+      demeritFrac: 0
+      demeritPoint: 0
+      velocity:
+        ss: null
+        gs: null
+        es: null
+        ssDistance: null
+        ssElapsed: null
+        gsElapsed: null
+        ssVelocity: null
+        gsVelocity: null
+      reach:
+        extra: 1.199 km
+        flown: 1.199 km
+      demeritReset: 0
+      penaltiesJump: []
+      penaltyReason: ''
+      subtotal: 9.217
+      landedMade: -0.522 km
+      stoppedAlt: 714.000 m
+- - - - '106'
+      - Bruce Barmakian
+    - place: '1'
+      total: 727.266
+      jump: null
+      penalties: []
+      breakdown:
+        effort: 169.24
+        arrival: 103.3
+        time: 237.6
+        reach: 169.24
+        distance: 338.48
+        leading: 47.9
+      demeritFrac: 0
+      demeritPoint: 0
+      velocity:
+        ss: 2019-08-15T18:30:31.822979300044Z
+        gs: 2019-08-15T18:30:00Z
+        es: 2019-08-15T20:25:47.418496755715Z
+        ssDistance: 68.610 km
+        ssElapsed: 1.920999 h
+        gsElapsed: 1.929838 h
+        ssVelocity: 35.72 km / h
+        gsVelocity: 35.55 km / h
+      reach:
+        extra: 73.210 km
+        flown: 73.210 km
+      demeritReset: 0
+      penaltiesJump: []
+      penaltyReason: ''
+      subtotal: 727.266
+      landedMade: 73.210 km
+      stoppedAlt: null
+  - - - '115'
+      - Erick Salgado
+    - place: '2'
+      total: 661.061
+      jump: null
+      penalties: []
+      breakdown:
+        effort: 169.24
+        arrival: 95.8
+        time: 154.5
+        reach: 169.24
+        distance: 338.48
+        leading: 72.3
+      demeritFrac: 0
+      demeritPoint: 0
+      velocity:
+        ss: 2019-08-15T18:18:54.9687343879Z
+        gs: 2019-08-15T18:15:00Z
+        es: 2019-08-15T20:28:01.968037505668Z
+        ssDistance: 68.610 km
+        ssElapsed: 2.151944 h
+        gsElapsed: 2.217213 h
+        ssVelocity: 31.88 km / h
+        gsVelocity: 30.94 km / h
+      reach:
+        extra: 73.210 km
+        flown: 73.210 km
+      demeritReset: 0
+      penaltiesJump: []
+      penaltyReason: ''
+      subtotal: 661.061
+      landedMade: 73.210 km
+      stoppedAlt: null
+  - - - '113'
+      - Rodolfo Gotes
+    - place: '3'
+      total: 653.937
+      jump: null
+      penalties: []
+      breakdown:
+        effort: 169.24
+        arrival: 59.4
+        time: 233.9
+        reach: 169.24
+        distance: 338.48
+        leading: 22.1
+      demeritFrac: 0
+      demeritPoint: 0
+      velocity:
+        ss: 2019-08-15T18:47:36.69918464548Z
+        gs: 2019-08-15T18:45:00Z
+        es: 2019-08-15T20:40:57.04654355346Z
+        ssDistance: 68.610 km
+        ssElapsed: 1.888985 h
+        gsElapsed: 1.932513 h
+        ssVelocity: 36.32 km / h
+        gsVelocity: 35.50 km / h
+      reach:
+        extra: 73.210 km
+        flown: 73.210 km
+      demeritReset: 0
+      penaltiesJump: []
+      penaltyReason: ''
+      subtotal: 653.937
+      landedMade: 73.210 km
+      stoppedAlt: null
+  - - - '101'
+      - Davis Straub
+    - place: '4'
+      total: 615.796
+      jump: null
+      penalties: []
+      breakdown:
+        effort: 169.24
+        arrival: 49.5
+        time: 203.2
+        reach: 169.24
+        distance: 338.48
+        leading: 24.6
+      demeritFrac: 0
+      demeritPoint: 0
+      velocity:
+        ss: 2019-08-15T18:45:30.087070931665Z
+        gs: 2019-08-15T18:45:00Z
+        es: 2019-08-15T20:45:22.871742474319Z
+        ssDistance: 68.610 km
+        ssElapsed: 1.997996 h
+        gsElapsed: 2.006353 h
+        ssVelocity: 34.34 km / h
+        gsVelocity: 34.20 km / h
+      reach:
+        extra: 73.210 km
+        flown: 73.210 km
+      demeritReset: 0
+      penaltiesJump: []
+      penaltyReason: ''
+      subtotal: 615.796
+      landedMade: 73.210 km
+      stoppedAlt: null
+  - - - '112'
+      - Nathan Wreyford
+    - place: '5'
+      total: 518.726
+      jump: null
+      penalties: []
+      breakdown:
+        effort: 169.24
+        arrival: 31.9
+        time: 119.7
+        reach: 169.24
+        distance: 338.48
+        leading: 28.6
+      demeritFrac: 0
+      demeritPoint: 0
+      velocity:
+        ss: 2019-08-15T18:32:36.934672527982Z
+        gs: 2019-08-15T18:30:00Z
+        es: 2019-08-15T20:54:56.206326516205Z
+        ssDistance: 68.610 km
+        ssElapsed: 2.372020 h
+        gsElapsed: 2.415613 h
+        ssVelocity: 28.92 km / h
+        gsVelocity: 28.40 km / h
+      reach:
+        extra: 73.210 km
+        flown: 73.210 km
+      demeritReset: 0
+      penaltiesJump: []
+      penaltyReason: ''
+      subtotal: 518.726
+      landedMade: 73.210 km
+      stoppedAlt: null
+  - - - '109'
+      - Rich Reinauer
+    - place: '6'
+      total: 473.286
+      jump: null
+      penalties: []
+      breakdown:
+        effort: 169.24
+        arrival: 21.2
+        time: 64.3
+        reach: 169.24
+        distance: 338.48
+        leading: 49.3
+      demeritFrac: 0
+      demeritPoint: 0
+      velocity:
+        ss: 2019-08-15T18:19:54.551845818791Z
+        gs: 2019-08-15T18:15:00Z
+        es: 2019-08-15T21:02:42.031012319754Z
+        ssDistance: 68.610 km
+        ssElapsed: 2.713189 h
+        gsElapsed: 2.795009 h
+        ssVelocity: 25.29 km / h
+        gsVelocity: 24.55 km / h
+      reach:
+        extra: 73.210 km
+        flown: 73.210 km
+      demeritReset: 0
+      penaltiesJump: []
+      penaltyReason: ''
+      subtotal: 473.286
+      landedMade: 73.210 km
+      stoppedAlt: null
+  - - - '108'
+      - Gary Anderson
+    - place: '7'
+      total: 427.796
+      jump: null
+      penalties: []
+      breakdown:
+        effort: 169.24
+        arrival: 9.9
+        time: 71.4
+        reach: 169.24
+        distance: 338.48
+        leading: 8
+      demeritFrac: 0
+      demeritPoint: 0
+      velocity:
+        ss: 2019-08-15T18:32:05.300203888627Z
+        gs: 2019-08-15T18:30:00Z
+        es: 2019-08-15T21:14:33.528776185627Z
+        ssDistance: 68.610 km
+        ssElapsed: 2.707841 h
+        gsElapsed: 2.742647 h
+        ssVelocity: 25.34 km / h
+        gsVelocity: 25.02 km / h
+      reach:
+        extra: 73.210 km
+        flown: 73.210 km
+      demeritReset: 0
+      penaltiesJump: []
+      penaltyReason: ''
+      subtotal: 427.796
+      landedMade: 73.210 km
+      stoppedAlt: null
+  - - - '107'
+      - Tom McGowan
+    - place: '8'
+      total: 281.279
+      jump: null
+      penalties: []
+      breakdown:
+        effort: 169.24
+        arrival: 0
+        time: 0
+        reach: 112.039
+        distance: 281.279
+        leading: 0
+      demeritFrac: 0
+      demeritPoint: 0
+      velocity:
+        ss: 2019-08-15T18:52:33.340768840179Z
+        gs: 2019-08-15T18:45:00Z
+        es: null
+        ssDistance: null
+        ssElapsed: null
+        gsElapsed: null
+        ssVelocity: null
+        gsVelocity: null
+      reach:
+        extra: 48.466 km
+        flown: 48.466 km
+      demeritReset: 0
+      penaltiesJump: []
+      penaltyReason: ''
+      subtotal: 281.279
+      landedMade: 48.467 km
+      stoppedAlt: 790.000 m
+  - - - '116'
+      - Roger Irby
+    - place: '9'
+      total: 270.56
+      jump: null
+      penalties: []
+      breakdown:
+        effort: 160.396
+        arrival: 0
+        time: 0
+        reach: 101.819
+        distance: 262.215
+        leading: 8.3
+      demeritFrac: 0
+      demeritPoint: 0
+      velocity:
+        ss: 2019-08-15T18:52:54.79810541103Z
+        gs: 2019-08-15T18:45:00Z
+        es: null
+        ssDistance: null
+        ssElapsed: null
+        gsElapsed: null
+        ssVelocity: null
+        gsVelocity: null
+      reach:
+        extra: 44.045 km
+        flown: 44.045 km
+      demeritReset: 0
+      penaltiesJump: []
+      penaltyReason: ''
+      subtotal: 270.56
+      landedMade: 44.045 km
+      stoppedAlt: 843.000 m
+  - - - '111'
+      - Eduardo Panuco
+    - place: '10'
+      total: 54.052
+      jump: null
+      penalties: []
+      breakdown:
+        effort: 28.542
+        arrival: 0
+        time: 0
+        reach: 25.51
+        distance: 54.052
+        leading: 0
+      demeritFrac: 0
+      demeritPoint: 0
+      velocity:
+        ss: 2019-08-15T18:22:46.802769250475Z
+        gs: 2019-08-15T18:15:00Z
+        es: null
+        ssDistance: null
+        ssElapsed: null
+        gsElapsed: null
+        ssVelocity: null
+        gsVelocity: null
+      reach:
+        extra: 11.035 km
+        flown: 11.035 km
+      demeritReset: 0
+      penaltiesJump: []
+      penaltyReason: ''
+      subtotal: 54.052
+      landedMade: 10.676 km
+      stoppedAlt: 719.000 m
+  - - - '103'
+      - ! 'Antonio  Mendoza '
+    - place: 11=
+      total: 12.362
+      jump: null
+      penalties: []
+      breakdown:
+        effort: 0.804
+        arrival: 0
+        time: 0
+        reach: 11.558
+        distance: 12.362
+        leading: 0
+      demeritFrac: 0
+      demeritPoint: 0
+      velocity:
+        ss: null
+        gs: null
+        es: null
+        ssDistance: null
+        ssElapsed: null
+        gsElapsed: null
+        ssVelocity: null
+        gsVelocity: null
+      reach:
+        extra: 0.062 km
+        flown: 0.062 km
+      demeritReset: 0
+      penaltiesJump: []
+      penaltyReason: ''
+      subtotal: 12.362
+      landedMade: -0.980 km
+      stoppedAlt: 717.000 m
+  - - - '105'
+      - David Proctor
+    - place: 11=
+      total: 12.362
+      jump: null
+      penalties: []
+      breakdown:
+        effort: 0.804
+        arrival: 0
+        time: 0
+        reach: 11.558
+        distance: 12.362
+        leading: 0
+      demeritFrac: 0
+      demeritPoint: 0
+      velocity:
+        ss: null
+        gs: null
+        es: null
+        ssDistance: null
+        ssElapsed: null
+        gsElapsed: null
+        ssVelocity: null
+        gsVelocity: null
+      reach:
+        extra: 0.338 km
+        flown: 0.338 km
+      demeritReset: 0
+      penaltiesJump: []
+      penaltyReason: ''
+      subtotal: 12.362
+      landedMade: -0.781 km
+      stoppedAlt: 697.000 m
+  - - - '114'
+      - Kinsley Sykes
+    - place: 11=
+      total: 12.362
+      jump: null
+      penalties: []
+      breakdown:
+        effort: 0.804
+        arrival: 0
+        time: 0
+        reach: 11.558
+        distance: 12.362
+        leading: 0
+      demeritFrac: 0
+      demeritPoint: 0
+      velocity:
+        ss: null
+        gs: null
+        es: null
+        ssDistance: null
+        ssElapsed: null
+        gsElapsed: null
+        ssVelocity: null
+        gsVelocity: null
+      reach:
+        extra: -0.079 km
+        flown: -0.079 km
+      demeritReset: 0
+      penaltiesJump: []
+      penaltyReason: ''
+      subtotal: 12.362
+      landedMade: -0.438 km
+      stoppedAlt: 714.000 m
+- []
+- - - - '113'
+      - Rodolfo Gotes
+    - place: '1'
+      total: 552.964
+      jump: null
+      penalties: []
+      breakdown:
+        effort: 180.287
+        arrival: 49.8
+        time: 114.5
+        reach: 180.287
+        distance: 360.574
+        leading: 28.1
+      demeritFrac: 0
+      demeritPoint: 0
+      velocity:
+        ss: 2019-08-17T20:00:28.659700561207Z
+        gs: 2019-08-17T20:00:00Z
+        es: 2019-08-17T21:58:22.942736198767Z
+        ssDistance: 59.724 km
+        ssElapsed: 1.965079 h
+        gsElapsed: 1.973040 h
+        ssVelocity: 30.39 km / h
+        gsVelocity: 30.27 km / h
+      reach:
+        extra: 64.324 km
+        flown: 64.324 km
+      demeritReset: 0
+      penaltiesJump: []
+      penaltyReason: ''
+      subtotal: 552.964
+      landedMade: 64.324 km
+      stoppedAlt: null
+  - - - '115'
+      - Erick Salgado
+    - place: '2'
+      total: 521.964
+      jump: null
+      penalties: []
+      breakdown:
+        effort: 180.287
+        arrival: 49
+        time: 77.5
+        reach: 180.287
+        distance: 360.574
+        leading: 34.9
+      demeritFrac: 0
+      demeritPoint: 0
+      velocity:
+        ss: 2019-08-17T19:55:10.344296340196Z
+        gs: 2019-08-17T19:45:00Z
+        es: 2019-08-17T21:58:51.568014385066Z
+        ssDistance: 59.724 km
+        ssElapsed: 2.061451 h
+        gsElapsed: 2.230991 h
+        ssVelocity: 28.97 km / h
+        gsVelocity: 26.77 km / h
+      reach:
+        extra: 64.324 km
+        flown: 64.324 km
+      demeritReset: 0
+      penaltiesJump: []
+      penaltyReason: ''
+      subtotal: 521.964
+      landedMade: 64.324 km
+      stoppedAlt: null
+  - - - '106'
+      - Bruce Barmakian
+    - place: '3'
+      total: 472.191
+      jump: null
+      penalties: []
+      breakdown:
+        effort: 180.287
+        arrival: 27.5
+        time: 55.5
+        reach: 180.287
+        distance: 360.574
+        leading: 28.7
+      demeritFrac: 0
+      demeritPoint: 0
+      velocity:
+        ss: 2019-08-17T19:55:14.011662036347Z
+        gs: 2019-08-17T19:45:00Z
+        es: 2019-08-17T22:14:35.13630382876Z
+        ssDistance: 59.724 km
+        ssElapsed: 2.322535 h
+        gsElapsed: 2.493093 h
+        ssVelocity: 25.72 km / h
+        gsVelocity: 23.96 km / h
+      reach:
+        extra: 64.324 km
+        flown: 64.324 km
+      demeritReset: 0
+      penaltiesJump: []
+      penaltyReason: ''
+      subtotal: 472.191
+      landedMade: 64.324 km
+      stoppedAlt: null
+  - - - '105'
+      - David Proctor
+    - place: '4'
+      total: 345.511
+      jump: null
+      penalties: []
+      breakdown:
+        effort: 180.287
+        arrival: 0
+        time: 0
+        reach: 160.968
+        distance: 341.255
+        leading: 4.3
+      demeritFrac: 0
+      demeritPoint: 0
+      velocity:
+        ss: 2019-08-17T20:14:19.89032765666Z
+        gs: 2019-08-17T20:00:00Z
+        es: null
+        ssDistance: null
+        ssElapsed: null
+        gsElapsed: null
+        ssVelocity: null
+        gsVelocity: null
+      reach:
+        extra: 57.431 km
+        flown: 57.431 km
+      demeritReset: 0
+      penaltiesJump: []
+      penaltyReason: ''
+      subtotal: 345.511
+      landedMade: 57.431 km
+      stoppedAlt: 946.000 m
+  - - - '107'
+      - Tom McGowan
+    - place: '5'
+      total: 325.639
+      jump: null
+      penalties: []
+      breakdown:
+        effort: 174.093
+        arrival: 0
+        time: 0
+        reach: 145.549
+        distance: 319.643
+        leading: 6
+      demeritFrac: 0
+      demeritPoint: 0
+      velocity:
+        ss: 2019-08-17T20:14:45.588890260925Z
+        gs: 2019-08-17T20:00:00Z
+        es: null
+        ssDistance: null
+        ssElapsed: null
+        gsElapsed: null
+        ssVelocity: null
+        gsVelocity: null
+      reach:
+        extra: 51.930 km
+        flown: 51.930 km
+      demeritReset: 0
+      penaltiesJump: []
+      penaltyReason: ''
+      subtotal: 325.639
+      landedMade: 51.930 km
+      stoppedAlt: 1629.000 m
+  - - - '110'
+      - Kevin Carter
+    - place: '6'
+      total: 320.203
+      jump: null
+      penalties: []
+      breakdown:
+        effort: 174.314
+        arrival: 0
+        time: 0
+        reach: 145.888
+        distance: 320.203
+        leading: 0
+      demeritFrac: 0
+      demeritPoint: 0
+      velocity:
+        ss: 2019-08-17T20:30:08.993030226551Z
+        gs: 2019-08-17T20:30:00Z
+        es: null
+        ssDistance: null
+        ssElapsed: null
+        gsElapsed: null
+        ssVelocity: null
+        gsVelocity: null
+      reach:
+        extra: 52.051 km
+        flown: 52.051 km
+      demeritReset: 0
+      penaltiesJump: []
+      penaltyReason: ''
+      subtotal: 320.203
+      landedMade: 52.051 km
+      stoppedAlt: 769.000 m
+  - - - '102'
+      - Vic Hare
+    - place: '7'
+      total: 232.743
+      jump: null
+      penalties: []
+      breakdown:
+        effort: 118.016
+        arrival: 0
+        time: 0
+        reach: 105.705
+        distance: 223.721
+        leading: 9
+      demeritFrac: 0
+      demeritPoint: 0
+      velocity:
+        ss: 2019-08-17T20:15:11.55208662805Z
+        gs: 2019-08-17T20:15:00Z
+        es: null
+        ssDistance: null
+        ssElapsed: null
+        gsElapsed: null
+        ssVelocity: null
+        gsVelocity: null
+      reach:
+        extra: 37.714 km
+        flown: 37.714 km
+      demeritReset: 0
+      penaltiesJump: []
+      penaltyReason: ''
+      subtotal: 232.743
+      landedMade: 35.097 km
+      stoppedAlt: 796.000 m
+  - - - '108'
+      - Gary Anderson
+    - place: 8=
+      total: 183.71
+      jump: null
+      penalties: []
+      breakdown:
+        effort: 97.554
+        arrival: 0
+        time: 0
+        reach: 82.711
+        distance: 180.265
+        leading: 3.4
+      demeritFrac: 0
+      demeritPoint: 0
+      velocity:
+        ss: 2019-08-17T20:09:14.380806076822Z
+        gs: 2019-08-17T20:00:00Z
+        es: null
+        ssDistance: null
+        ssElapsed: null
+        gsElapsed: null
+        ssVelocity: null
+        gsVelocity: null
+      reach:
+        extra: 29.510 km
+        flown: 29.510 km
+      demeritReset: 0
+      penaltiesJump: []
+      penaltyReason: ''
+      subtotal: 183.71
+      landedMade: 29.506 km
+      stoppedAlt: 795.000 m
+  - - - '103'
+      - ! 'Antonio  Mendoza '
+    - place: 8=
+      total: 183.691
+      jump: null
+      penalties: []
+      breakdown:
+        effort: 98.881
+        arrival: 0
+        time: 0
+        reach: 84.81
+        distance: 183.691
+        leading: 0
+      demeritFrac: 0
+      demeritPoint: 0
+      velocity:
+        ss: 2019-08-17T20:21:46.795162684128Z
+        gs: 2019-08-17T20:15:00Z
+        es: null
+        ssDistance: null
+        ssElapsed: null
+        gsElapsed: null
+        ssVelocity: null
+        gsVelocity: null
+      reach:
+        extra: 30.259 km
+        flown: 30.259 km
+      demeritReset: 0
+      penaltiesJump: []
+      penaltyReason: ''
+      subtotal: 183.691
+      landedMade: 29.896 km
+      stoppedAlt: 801.000 m
+  - - - '111'
+      - Eduardo Panuco
+    - place: '10'
+      total: 108.252
+      jump: null
+      penalties: []
+      breakdown:
+        effort: 56.409
+        arrival: 0
+        time: 0
+        reach: 51.843
+        distance: 108.252
+        leading: 0
+      demeritFrac: 0
+      demeritPoint: 0
+      velocity:
+        ss: 2019-08-17T20:12:14.147931821435Z
+        gs: 2019-08-17T20:00:00Z
+        es: null
+        ssDistance: null
+        ssElapsed: null
+        gsElapsed: null
+        ssVelocity: null
+        gsVelocity: null
+      reach:
+        extra: 18.497 km
+        flown: 18.497 km
+      demeritReset: 0
+      penaltiesJump: []
+      penaltyReason: ''
+      subtotal: 108.252
+      landedMade: 18.272 km
+      stoppedAlt: 801.000 m
+  - - - '114'
+      - Kinsley Sykes
+    - place: '11'
+      total: 14.235
+      jump: null
+      penalties: []
+      breakdown:
+        effort: 0.221
+        arrival: 0
+        time: 0
+        reach: 14.014
+        distance: 14.235
+        leading: 0
+      demeritFrac: 0
+      demeritPoint: 0
+      velocity:
+        ss: null
+        gs: null
+        es: null
+        ssDistance: null
+        ssElapsed: null
+        gsElapsed: null
+        ssVelocity: null
+        gsVelocity: null
+      reach:
+        extra: -0.230 km
+        flown: -0.230 km
+      demeritReset: 0
+      penaltiesJump: []
+      penaltyReason: ''
+      subtotal: 14.235
+      landedMade: -0.558 km
+      stoppedAlt: 785.000 m
+scoreDf:
+- - - - '104'
+      - Willy Dydo
+    - place: '1'
+      total: 592.141
+      jump: null
+      penalties: []
+      breakdown:
+        effort: 180.202
+        arrival: 64.8
+        time: 121.6
+        reach: 180.202
+        distance: 360.403
+        leading: 45.4
+      demeritFrac: 0
+      demeritPoint: 0
+      velocity:
+        ss: 2019-08-11T20:04:22.595801172118Z
+        gs: 2019-08-11T20:00:00Z
+        es: 2019-08-11T22:33:51.103670642126Z
+        ssDistance: 133.445 km
+        ssElapsed: 2.491252 h
+        gsElapsed: 2.564195 h
+        ssVelocity: 53.57 km / h
+        gsVelocity: 52.04 km / h
+      reach:
+        extra: 139.667 km
+        flown: 139.667 km
+      demeritReset: 0
+      penaltiesJump: []
+      penaltyReason: ''
+      subtotal: 592.141
+      landedMade: 139.667 km
+      stoppedAlt: null
+  - - - '110'
+      - Kevin Carter
+    - place: '2'
+      total: 548.496
+      jump: null
+      penalties: []
+      breakdown:
+        effort: 180.202
+        arrival: 27.2
+        time: 149.1
+        reach: 180.202
+        distance: 360.403
+        leading: 11.8
+      demeritFrac: 0
+      demeritPoint: 0
+      velocity:
+        ss: 2019-08-11T20:31:20.736500482866Z
+        gs: 2019-08-11T20:30:00Z
+        es: 2019-08-11T22:56:25.670937051871Z
+        ssDistance: 133.445 km
+        ssElapsed: 2.418037 h
+        gsElapsed: 2.440464 h
+        ssVelocity: 55.19 km / h
+        gsVelocity: 54.68 km / h
+      reach:
+        extra: 139.667 km
+        flown: 139.667 km
+      demeritReset: 0
+      penaltiesJump: []
+      penaltyReason: ''
+      subtotal: 548.496
+      landedMade: 139.667 km
+      stoppedAlt: null
+  - - - '102'
+      - Vic Hare
+    - place: '3'
+      total: 505.987
+      jump: null
+      penalties: []
+      breakdown:
+        effort: 180.202
+        arrival: 17.9
+        time: 118.2
+        reach: 180.202
+        distance: 360.403
+        leading: 9.4
+      demeritFrac: 0
+      demeritPoint: 0
+      velocity:
+        ss: 2019-08-11T20:31:24.16556881622Z
+        gs: 2019-08-11T20:30:00Z
+        es: 2019-08-11T23:05:14.135892908358Z
+        ssDistance: 133.445 km
+        ssElapsed: 2.563881 h
+        gsElapsed: 2.587260 h
+        ssVelocity: 52.05 km / h
+        gsVelocity: 51.58 km / h
+      reach:
+        extra: 139.667 km
+        flown: 139.667 km
+      demeritReset: 0
+      penaltiesJump: []
+      penaltyReason: ''
+      subtotal: 505.987
+      landedMade: 139.667 km
+      stoppedAlt: null
+  - - - '113'
+      - Rodolfo Gotes
+    - place: '4'
+      total: 468.358
+      jump: null
+      penalties: []
+      breakdown:
+        effort: 180.202
+        arrival: 16.2
+        time: 63.5
+        reach: 180.202
+        distance: 360.403
+        leading: 28.2
+      demeritFrac: 0
+      demeritPoint: 0
+      velocity:
+        ss: 2019-08-11T20:05:12.423559492217Z
+        gs: 2019-08-11T20:00:00Z
+        es: 2019-08-11T23:07:10.0751750002Z
+        ssDistance: 133.445 km
+        ssElapsed: 3.032681 h
+        gsElapsed: 3.119465 h
+        ssVelocity: 44.00 km / h
+        gsVelocity: 42.78 km / h
+      reach:
+        extra: 139.667 km
+        flown: 139.667 km
+      demeritReset: 0
+      penaltiesJump: []
+      penaltyReason: ''
+      subtotal: 468.358
+      landedMade: 139.667 km
+      stoppedAlt: null
+- - - - '113'
+      - Rodolfo Gotes
+    - place: '1'
+      total: 741.536
+      jump: null
+      penalties: []
+      breakdown:
+        effort: 206.125
+        arrival: 82.7
+        time: 187.7
+        reach: 206.125
+        distance: 412.249
+        leading: 58.9
+      demeritFrac: 0
+      demeritPoint: 0
+      velocity:
+        ss: 2019-08-12T19:34:00.08069442476Z
+        gs: 2019-08-12T19:30:00Z
+        es: 2019-08-12T22:14:49.59808881782Z
+        ssDistance: 150.304 km
+        ssElapsed: 2.680421 h
+        gsElapsed: 2.747111 h
+        ssVelocity: 56.07 km / h
+        gsVelocity: 54.71 km / h
+      reach:
+        extra: 151.867 km
+        flown: 151.867 km
+      demeritReset: 0
+      penaltiesJump: []
+      penaltyReason: ''
+      subtotal: 741.536
+      landedMade: 151.867 km
+      stoppedAlt: null
+  - - - '104'
+      - Willy Dydo
+    - place: '2'
+      total: 737.038
+      jump: null
+      penalties: []
+      breakdown:
+        effort: 206.125
+        arrival: 84.2
+        time: 193.6
+        reach: 206.125
+        distance: 412.249
+        leading: 47
+      demeritFrac: 0
+      demeritPoint: 0
+      velocity:
+        ss: 2019-08-12T19:30:55.957146290476Z
+        gs: 2019-08-12T19:30:00Z
+        es: 2019-08-12T22:14:17.62864645431Z
+        ssDistance: 150.304 km
+        ssElapsed: 2.722687 h
+        gsElapsed: 2.738230 h
+        ssVelocity: 55.20 km / h
+        gsVelocity: 54.89 km / h
+      reach:
+        extra: 151.867 km
+        flown: 151.867 km
+      demeritReset: 0
+      penaltiesJump: []
+      penaltyReason: ''
+      subtotal: 737.038
+      landedMade: 151.867 km
+      stoppedAlt: null
+  - - - '102'
+      - Vic Hare
+    - place: '3'
+      total: 639.846
+      jump: null
+      penalties: []
+      breakdown:
+        effort: 206.125
+        arrival: 47.3
+        time: 137
+        reach: 206.125
+        distance: 412.249
+        leading: 43.3
+      demeritFrac: 0
+      demeritPoint: 0
+      velocity:
+        ss: 2019-08-12T19:30:55.901656299146Z
+        gs: 2019-08-12T19:30:00Z
+        es: 2019-08-12T22:30:00.674913432078Z
+        ssDistance: 150.304 km
+        ssElapsed: 2.984659 h
+        gsElapsed: 3.000187 h
+        ssVelocity: 50.36 km / h
+        gsVelocity: 50.10 km / h
+      reach:
+        extra: 151.867 km
+        flown: 151.867 km
+      demeritReset: 0
+      penaltiesJump: []
+      penaltyReason: ''
+      subtotal: 639.846
+      landedMade: 151.867 km
+      stoppedAlt: null
+  - - - '110'
+      - Kevin Carter
+    - place: '4'
+      total: 518.193
+      jump: null
+      penalties: []
+      breakdown:
+        effort: 206.125
+        arrival: 6.2
+        time: 67.5
+        reach: 206.125
+        distance: 412.249
+        leading: 32.2
+      demeritFrac: 0
+      demeritPoint: 0
+      velocity:
+        ss: 2019-08-12T19:30:52.884520096555Z
+        gs: 2019-08-12T19:30:00Z
+        es: 2019-08-12T23:06:29.127408571847Z
+        ssDistance: 150.304 km
+        ssElapsed: 3.593401 h
+        gsElapsed: 3.608091 h
+        ssVelocity: 41.83 km / h
+        gsVelocity: 41.66 km / h
+      reach:
+        extra: 151.867 km
+        flown: 151.867 km
+      demeritReset: 0
+      penaltiesJump: []
+      penaltyReason: ''
+      subtotal: 518.193
+      landedMade: 151.867 km
+      stoppedAlt: null
+- - - - '106'
+      - Bruce Barmakian
+    - place: '1'
+      total: 858.966
+      jump: null
+      penalties: []
+      breakdown:
+        effort: 188.861
+        arrival: 117.7
+        time: 338.4
+        reach: 188.861
+        distance: 377.722
+        leading: 25.1
+      demeritFrac: 0
+      demeritPoint: 0
+      velocity:
+        ss: 2019-08-13T20:03:08.73075554528Z
+        gs: 2019-08-13T20:00:00Z
+        es: 2019-08-13T21:41:48.314848833089Z
+        ssDistance: 93.792 km
+        ssElapsed: 1.644329 h
+        gsElapsed: 1.696754 h
+        ssVelocity: 57.04 km / h
+        gsVelocity: 55.28 km / h
+      reach:
+        extra: 99.411 km
+        flown: 99.411 km
+      demeritReset: 0
+      penaltiesJump: []
+      penaltyReason: ''
+      subtotal: 858.966
+      landedMade: 99.411 km
+      stoppedAlt: null
+  - - - '113'
+      - Rodolfo Gotes
+    - place: '2'
+      total: 812.406
+      jump: null
+      penalties: []
+      breakdown:
+        effort: 188.861
+        arrival: 146.2
+        time: 185.5
+        reach: 188.861
+        distance: 377.722
+        leading: 103
+      demeritFrac: 0
+      demeritPoint: 0
+      velocity:
+        ss: 2019-08-13T19:30:27.693749687897Z
+        gs: 2019-08-13T19:30:00Z
+        es: 2019-08-13T21:35:32.567502548386Z
+        ssDistance: 93.792 km
+        ssElapsed: 2.084687 h
+        gsElapsed: 2.092380 h
+        ssVelocity: 44.99 km / h
+        gsVelocity: 44.83 km / h
+      reach:
+        extra: 99.411 km
+        flown: 99.411 km
+      demeritReset: 0
+      penaltiesJump: []
+      penaltyReason: ''
+      subtotal: 812.406
+      landedMade: 99.411 km
+      stoppedAlt: null
+  - - - '102'
+      - Vic Hare
+    - place: '3'
+      total: 810.861
+      jump: null
+      penalties: []
+      breakdown:
+        effort: 188.861
+        arrival: 147.1
+        time: 186.4
+        reach: 188.861
+        distance: 377.722
+        leading: 99.6
+      demeritFrac: 0
+      demeritPoint: 0
+      velocity:
+        ss: 2019-08-13T19:30:41.602394112713Z
+        gs: 2019-08-13T19:30:00Z
+        es: 2019-08-13T21:35:20.432535984541Z
+        ssDistance: 93.792 km
+        ssElapsed: 2.077453 h
+        gsElapsed: 2.089009 h
+        ssVelocity: 45.15 km / h
+        gsVelocity: 44.90 km / h
+      reach:
+        extra: 99.411 km
+        flown: 99.411 km
+      demeritReset: 0
+      penaltiesJump: []
+      penaltyReason: ''
+      subtotal: 810.861
+      landedMade: 99.411 km
+      stoppedAlt: null
+  - - - '115'
+      - Erick Salgado
+    - place: '4'
+      total: 775.074
+      jump: null
+      penalties: []
+      breakdown:
+        effort: 188.861
+        arrival: 137.9
+        time: 178.2
+        reach: 188.861
+        distance: 377.722
+        leading: 81.3
+      demeritFrac: 0
+      demeritPoint: 0
+      velocity:
+        ss: 2019-08-13T19:31:14.035043329416Z
+        gs: 2019-08-13T19:30:00Z
+        es: 2019-08-13T21:37:16.575536198072Z
+        ssDistance: 93.792 km
+        ssElapsed: 2.100706 h
+        gsElapsed: 2.121271 h
+        ssVelocity: 44.65 km / h
+        gsVelocity: 44.22 km / h
+      reach:
+        extra: 99.411 km
+        flown: 99.411 km
+      demeritReset: 0
+      penaltiesJump: []
+      penaltyReason: ''
+      subtotal: 775.074
+      landedMade: 99.411 km
+      stoppedAlt: null
+  - - - '116'
+      - Roger Irby
+    - place: '5'
+      total: 642.378
+      jump: null
+      penalties: []
+      breakdown:
+        effort: 188.861
+        arrival: 76.3
+        time: 117.5
+        reach: 188.861
+        distance: 377.722
+        leading: 70.8
+      demeritFrac: 0
+      demeritPoint: 0
+      velocity:
+        ss: 2019-08-13T19:31:06.746741371125Z
+        gs: 2019-08-13T19:30:00Z
+        es: 2019-08-13T21:53:01.350400395333Z
+        ssDistance: 93.792 km
+        ssElapsed: 2.365168 h
+        gsElapsed: 2.383708 h
+        ssVelocity: 39.66 km / h
+        gsVelocity: 39.35 km / h
+      reach:
+        extra: 99.411 km
+        flown: 99.411 km
+      demeritReset: 0
+      penaltiesJump: []
+      penaltyReason: ''
+      subtotal: 642.378
+      landedMade: 99.411 km
+      stoppedAlt: null
+  - - - '109'
+      - Rich Reinauer
+    - place: '6'
+      total: 632.249
+      jump: null
+      penalties: []
+      breakdown:
+        effort: 188.861
+        arrival: 67.3
+        time: 162.9
+        reach: 188.861
+        distance: 377.722
+        leading: 24.3
+      demeritFrac: 0
+      demeritPoint: 0
+      velocity:
+        ss: 2019-08-13T19:46:20.358857920447Z
+        gs: 2019-08-13T19:45:00Z
+        es: 2019-08-13T21:55:59.54475197559Z
+        ssDistance: 93.792 km
+        ssElapsed: 2.160885 h
+        gsElapsed: 2.183207 h
+        ssVelocity: 43.40 km / h
+        gsVelocity: 42.96 km / h
+      reach:
+        extra: 99.411 km
+        flown: 99.411 km
+      demeritReset: 0
+      penaltiesJump: []
+      penaltyReason: ''
+      subtotal: 632.249
+      landedMade: 99.411 km
+      stoppedAlt: null
+  - - - '101'
+      - Davis Straub
+    - place: '7'
+      total: 579.4
+      jump: null
+      penalties: []
+      breakdown:
+        effort: 188.861
+        arrival: 49.2
+        time: 83.6
+        reach: 188.861
+        distance: 377.722
+        leading: 68.9
+      demeritFrac: 0
+      demeritPoint: 0
+      velocity:
+        ss: 2019-08-13T19:30:33.243780000806Z
+        gs: 2019-08-13T19:30:00Z
+        es: 2019-08-13T22:02:52.714497409016Z
+        ssDistance: 93.792 km
+        ssElapsed: 2.538742 h
+        gsElapsed: 2.547976 h
+        ssVelocity: 36.94 km / h
+        gsVelocity: 36.81 km / h
+      reach:
+        extra: 99.411 km
+        flown: 99.411 km
+      demeritReset: 0
+      penaltiesJump: []
+      penaltyReason: ''
+      subtotal: 579.4
+      landedMade: 99.411 km
+      stoppedAlt: null
+  - - - '108'
+      - Gary Anderson
+    - place: '8'
+      total: 557.393
+      jump: null
+      penalties: []
+      breakdown:
+        effort: 188.861
+        arrival: 41
+        time: 71.6
+        reach: 188.861
+        distance: 377.722
+        leading: 67.1
+      demeritFrac: 0
+      demeritPoint: 0
+      velocity:
+        ss: 2019-08-13T19:30:47.747524190586Z
+        gs: 2019-08-13T19:30:00Z
+        es: 2019-08-13T22:06:32.02442130865Z
+        ssDistance: 93.792 km
+        ssElapsed: 2.595632 h
+        gsElapsed: 2.608896 h
+        ssVelocity: 36.13 km / h
+        gsVelocity: 35.95 km / h
+      reach:
+        extra: 99.411 km
+        flown: 99.411 km
+      demeritReset: 0
+      penaltiesJump: []
+      penaltyReason: ''
+      subtotal: 557.393
+      landedMade: 99.411 km
+      stoppedAlt: null
+  - - - '105'
+      - David Proctor
+    - place: '9'
+      total: 494.696
+      jump: null
+      penalties: []
+      breakdown:
+        effort: 188.861
+        arrival: 32.9
+        time: 58
+        reach: 188.861
+        distance: 377.722
+        leading: 26.1
+      demeritFrac: 0
+      demeritPoint: 0
+      velocity:
+        ss: 2019-08-13T19:36:16.551121508944Z
+        gs: 2019-08-13T19:30:00Z
+        es: 2019-08-13T22:10:44.548461277466Z
+        ssDistance: 93.792 km
+        ssElapsed: 2.574444 h
+        gsElapsed: 2.679041 h
+        ssVelocity: 36.43 km / h
+        gsVelocity: 35.01 km / h
+      reach:
+        extra: 99.411 km
+        flown: 99.411 km
+      demeritReset: 0
+      penaltiesJump: []
+      penaltyReason: ''
+      subtotal: 494.696
+      landedMade: 99.411 km
+      stoppedAlt: null
+  - - - '112'
+      - Nathan Wreyford
+    - place: '10'
+      total: 363.914
+      jump: null
+      penalties: []
+      breakdown:
+        effort: 188.861
+        arrival: 0
+        time: 0
+        reach: 175.053
+        distance: 363.914
+        leading: 0
+      demeritFrac: 0
+      demeritPoint: 0
+      velocity:
+        ss: 2019-08-13T20:07:16.562189065689Z
+        gs: 2019-08-13T20:00:00Z
+        es: null
+        ssDistance: null
+        ssElapsed: null
+        gsElapsed: null
+        ssVelocity: null
+        gsVelocity: null
+      reach:
+        extra: 92.143 km
+        flown: 92.143 km
+      demeritReset: 0
+      penaltiesJump: []
+      penaltyReason: ''
+      subtotal: 363.914
+      landedMade: 91.775 km
+      stoppedAlt: 830.000 m
+  - - - '104'
+      - Willy Dydo
+    - place: '11'
+      total: 204.605
+      jump: null
+      penalties: []
+      breakdown:
+        effort: 118.525
+        arrival: 0
+        time: 0
+        reach: 75.257
+        distance: 193.781
+        leading: 10.8
+      demeritFrac: 0
+      demeritPoint: 0
+      velocity:
+        ss: 2019-08-13T19:30:16.461932461517Z
+        gs: 2019-08-13T19:30:00Z
+        es: null
+        ssDistance: null
+        ssElapsed: null
+        gsElapsed: null
+        ssVelocity: null
+        gsVelocity: null
+      reach:
+        extra: 39.613 km
+        flown: 39.613 km
+      demeritReset: 0
+      penaltiesJump: []
+      penaltyReason: ''
+      subtotal: 204.605
+      landedMade: 39.314 km
+      stoppedAlt: 802.000 m
+  - - - '103'
+      - ! 'Antonio  Mendoza '
+    - place: '12'
+      total: 134.806
+      jump: null
+      penalties: []
+      breakdown:
+        effort: 83.893
+        arrival: 0
+        time: 0
+        reach: 50.912
+        distance: 134.806
+        leading: 0
+      demeritFrac: 0
+      demeritPoint: 0
+      velocity:
+        ss: 2019-08-13T19:31:49.65794924225Z
+        gs: 2019-08-13T19:30:00Z
+        es: null
+        ssDistance: null
+        ssElapsed: null
+        gsElapsed: null
+        ssVelocity: null
+        gsVelocity: null
+      reach:
+        extra: 26.799 km
+        flown: 26.799 km
+      demeritReset: 0
+      penaltiesJump: []
+      penaltyReason: ''
+      subtotal: 134.806
+      landedMade: 26.470 km
+      stoppedAlt: 772.000 m
+  - - - '107'
+      - Tom McGowan
+    - place: '13'
+      total: 10.304
+      jump: null
+      penalties: []
+      breakdown:
+        effort: 0.805
+        arrival: 0
+        time: 0
+        reach: 9.499
+        distance: 10.304
+        leading: 0
+      demeritFrac: 0
+      demeritPoint: 0
+      velocity:
+        ss: null
+        gs: null
+        es: null
+        ssDistance: null
+        ssElapsed: null
+        gsElapsed: null
+        ssVelocity: null
+        gsVelocity: null
+      reach:
+        extra: 1.760 km
+        flown: 1.760 km
+      demeritReset: 0
+      penaltiesJump: []
+      penaltyReason: ''
+      subtotal: 10.304
+      landedMade: 0.158 km
+      stoppedAlt: 752.000 m
+- - - - '106'
+      - Bruce Barmakian
+    - place: '1'
+      total: 618.468
+      jump: null
+      penalties: []
+      breakdown:
+        effort: 179.863
+        arrival: 64.7
+        time: 148.8
+        reach: 179.863
+        distance: 359.726
+        leading: 45.3
+      demeritFrac: 0
+      demeritPoint: 0
+      velocity:
+        ss: 2019-08-14T20:00:24.177679491738Z
+        gs: 2019-08-14T20:00:00Z
+        es: 2019-08-14T23:26:39.81130854949Z
+        ssDistance: 112.410 km
+        ssElapsed: 3.437676 h
+        gsElapsed: 3.444392 h
+        ssVelocity: 32.70 km / h
+        gsVelocity: 32.64 km / h
+      reach:
+        extra: 117.963 km
+        flown: 117.963 km
+      demeritReset: 0
+      penaltiesJump: []
+      penaltyReason: ''
+      subtotal: 618.468
+      landedMade: 117.963 km
+      stoppedAlt: null
+  - - - '113'
+      - Rodolfo Gotes
+    - place: '2'
+      total: 511.28
+      jump: null
+      penalties: []
+      breakdown:
+        effort: 179.863
+        arrival: 23.2
+        time: 92.2
+        reach: 179.863
+        distance: 359.726
+        leading: 36.1
+      demeritFrac: 0
+      demeritPoint: 0
+      velocity:
+        ss: 2019-08-14T20:00:09.348589016875Z
+        gs: 2019-08-14T20:00:00Z
+        es: 2019-08-14T23:52:44.811496517898Z
+        ssDistance: 112.410 km
+        ssElapsed: 3.876517 h
+        gsElapsed: 3.879114 h
+        ssVelocity: 29.00 km / h
+        gsVelocity: 28.98 km / h
+      reach:
+        extra: 117.963 km
+        flown: 117.963 km
+      demeritReset: 0
+      penaltiesJump: []
+      penaltyReason: ''
+      subtotal: 511.28
+      landedMade: 117.963 km
+      stoppedAlt: null
+  - - - '115'
+      - Erick Salgado
+    - place: '3'
+      total: 449.864
+      jump: null
+      penalties: []
+      breakdown:
+        effort: 179.863
+        arrival: 2.1
+        time: 84.9
+        reach: 179.863
+        distance: 359.726
+        leading: 3.1
+      demeritFrac: 0
+      demeritPoint: 0
+      velocity:
+        ss: 2019-08-14T21:34:30.24483776829Z
+        gs: 2019-08-14T20:30:00Z
+        es: 2019-08-15T00:27:58.371595790295Z
+        ssDistance: 112.410 km
+        ssElapsed: 2.891146 h
+        gsElapsed: 3.966214 h
+        ssVelocity: 38.88 km / h
+        gsVelocity: 28.34 km / h
+      reach:
+        extra: 117.963 km
+        flown: 117.963 km
+      demeritReset: 0
+      penaltiesJump: []
+      penaltyReason: ''
+      subtotal: 449.864
+      landedMade: 117.963 km
+      stoppedAlt: null
+  - - - '101'
+      - Davis Straub
+    - place: '4'
+      total: 251.832
+      jump: null
+      penalties: []
+      breakdown:
+        effort: 179.863
+        arrival: 0
+        time: 0
+        reach: 67.753
+        distance: 247.616
+        leading: 4.2
+      demeritFrac: 0
+      demeritPoint: 0
+      velocity:
+        ss: 2019-08-14T20:00:24.075598654484Z
+        gs: 2019-08-14T20:00:00Z
+        es: null
+        ssDistance: null
+        ssElapsed: null
+        gsElapsed: null
+        ssVelocity: null
+        gsVelocity: null
+      reach:
+        extra: 44.436 km
+        flown: 44.436 km
+      demeritReset: 0
+      penaltiesJump: []
+      penaltyReason: ''
+      subtotal: 251.832
+      landedMade: 44.259 km
+      stoppedAlt: 785.000 m
+  - - - '110'
+      - Kevin Carter
+    - place: '5'
+      total: 192.989
+      jump: null
+      penalties: []
+      breakdown:
+        effort: 148.79
+        arrival: 0
+        time: 0
+        reach: 44.199
+        distance: 192.989
+        leading: 0
+      demeritFrac: 0
+      demeritPoint: 0
+      velocity:
+        ss: 2019-08-14T20:00:30.559949001168Z
+        gs: 2019-08-14T20:00:00Z
+        es: null
+        ssDistance: null
+        ssElapsed: null
+        gsElapsed: null
+        ssVelocity: null
+        gsVelocity: null
+      reach:
+        extra: 28.988 km
+        flown: 28.988 km
+      demeritReset: 0
+      penaltiesJump: []
+      penaltyReason: ''
+      subtotal: 192.989
+      landedMade: 28.673 km
+      stoppedAlt: 736.000 m
+  - - - '104'
+      - Willy Dydo
+    - place: '6'
+      total: 120.202
+      jump: null
+      penalties: []
+      breakdown:
+        effort: 96.206
+        arrival: 0
+        time: 0
+        reach: 23.996
+        distance: 120.202
+        leading: 0
+      demeritFrac: 0
+      demeritPoint: 0
+      velocity:
+        ss: 2019-08-14T20:07:52.893080008255Z
+        gs: 2019-08-14T20:00:00Z
+        es: null
+        ssDistance: null
+        ssElapsed: null
+        gsElapsed: null
+        ssVelocity: null
+        gsVelocity: null
+      reach:
+        extra: 15.738 km
+        flown: 15.738 km
+      demeritReset: 0
+      penaltiesJump: []
+      penaltyReason: ''
+      subtotal: 120.202
+      landedMade: 15.490 km
+      stoppedAlt: 725.000 m
+  - - - '102'
+      - Vic Hare
+    - place: '7'
+      total: 51.797
+      jump: null
+      penalties: []
+      breakdown:
+        effort: 41.231
+        arrival: 0
+        time: 0
+        reach: 10.566
+        distance: 51.797
+        leading: 0
+      demeritFrac: 0
+      demeritPoint: 0
+      velocity:
+        ss: 2019-08-14T20:00:22.262136551422Z
+        gs: 2019-08-14T20:00:00Z
+        es: null
+        ssDistance: null
+        ssElapsed: null
+        gsElapsed: null
+        ssVelocity: null
+        gsVelocity: null
+      reach:
+        extra: 6.930 km
+        flown: 6.930 km
+      demeritReset: 0
+      penaltiesJump: []
+      penaltyReason: ''
+      subtotal: 51.797
+      landedMade: 6.244 km
+      stoppedAlt: 699.000 m
+  - - - '108'
+      - Gary Anderson
+    - place: 8=
+      total: 9.217
+      jump: null
+      penalties: []
+      breakdown:
+        effort: 1.593
+        arrival: 0
+        time: 0
+        reach: 7.624
+        distance: 9.217
+        leading: 0
+      demeritFrac: 0
+      demeritPoint: 0
+      velocity:
+        ss: null
+        gs: null
+        es: null
+        ssDistance: null
+        ssElapsed: null
+        gsElapsed: null
+        ssVelocity: null
+        gsVelocity: null
+      reach:
+        extra: 0.922 km
+        flown: 0.922 km
+      demeritReset: 0
+      penaltiesJump: []
+      penaltyReason: ''
+      subtotal: 9.217
+      landedMade: -0.809 km
+      stoppedAlt: 716.000 m
+  - - - '112'
+      - Nathan Wreyford
+    - place: 8=
+      total: 9.217
+      jump: null
+      penalties: []
+      breakdown:
+        effort: 1.593
+        arrival: 0
+        time: 0
+        reach: 7.624
+        distance: 9.217
+        leading: 0
+      demeritFrac: 0
+      demeritPoint: 0
+      velocity:
+        ss: null
+        gs: null
+        es: null
+        ssDistance: null
+        ssElapsed: null
+        gsElapsed: null
+        ssVelocity: null
+        gsVelocity: null
+      reach:
+        extra: -0.592 km
+        flown: -0.592 km
+      demeritReset: 0
+      penaltiesJump: []
+      penaltyReason: ''
+      subtotal: 9.217
+      landedMade: -0.976 km
+      stoppedAlt: 718.000 m
+  - - - '109'
+      - Rich Reinauer
+    - place: 8=
+      total: 9.217
+      jump: null
+      penalties: []
+      breakdown:
+        effort: 1.593
+        arrival: 0
+        time: 0
+        reach: 7.624
+        distance: 9.217
+        leading: 0
+      demeritFrac: 0
+      demeritPoint: 0
+      velocity:
+        ss: null
+        gs: null
+        es: null
+        ssDistance: null
+        ssElapsed: null
+        gsElapsed: null
+        ssVelocity: null
+        gsVelocity: null
+      reach:
+        extra: 1.208 km
+        flown: 1.208 km
+      demeritReset: 0
+      penaltiesJump: []
+      penaltyReason: ''
+      subtotal: 9.217
+      landedMade: -0.591 km
+      stoppedAlt: 801.000 m
+  - - - '116'
+      - Roger Irby
+    - place: 8=
+      total: 9.217
+      jump: null
+      penalties: []
+      breakdown:
+        effort: 1.593
+        arrival: 0
+        time: 0
+        reach: 7.624
+        distance: 9.217
+        leading: 0
+      demeritFrac: 0
+      demeritPoint: 0
+      velocity:
+        ss: null
+        gs: null
+        es: null
+        ssDistance: null
+        ssElapsed: null
+        gsElapsed: null
+        ssVelocity: null
+        gsVelocity: null
+      reach:
+        extra: 1.209 km
+        flown: 1.209 km
+      demeritReset: 0
+      penaltiesJump: []
+      penaltyReason: ''
+      subtotal: 9.217
+      landedMade: -1.017 km
+      stoppedAlt: 698.000 m
+  - - - '107'
+      - Tom McGowan
+    - place: 8=
+      total: 9.217
+      jump: null
+      penalties: []
+      breakdown:
+        effort: 1.593
+        arrival: 0
+        time: 0
+        reach: 7.624
+        distance: 9.217
+        leading: 0
+      demeritFrac: 0
+      demeritPoint: 0
+      velocity:
+        ss: null
+        gs: null
+        es: null
+        ssDistance: null
+        ssElapsed: null
+        gsElapsed: null
+        ssVelocity: null
+        gsVelocity: null
+      reach:
+        extra: 1.199 km
+        flown: 1.199 km
+      demeritReset: 0
+      penaltiesJump: []
+      penaltyReason: ''
+      subtotal: 9.217
+      landedMade: -0.522 km
+      stoppedAlt: 714.000 m
+- - - - '106'
+      - Bruce Barmakian
+    - place: '1'
+      total: 727.266
+      jump: null
+      penalties: []
+      breakdown:
+        effort: 169.24
+        arrival: 103.3
+        time: 237.6
+        reach: 169.24
+        distance: 338.48
+        leading: 47.9
+      demeritFrac: 0
+      demeritPoint: 0
+      velocity:
+        ss: 2019-08-15T18:30:31.822979300044Z
+        gs: 2019-08-15T18:30:00Z
+        es: 2019-08-15T20:25:47.418496755715Z
+        ssDistance: 68.610 km
+        ssElapsed: 1.920999 h
+        gsElapsed: 1.929838 h
+        ssVelocity: 35.72 km / h
+        gsVelocity: 35.55 km / h
+      reach:
+        extra: 73.210 km
+        flown: 73.210 km
+      demeritReset: 0
+      penaltiesJump: []
+      penaltyReason: ''
+      subtotal: 727.266
+      landedMade: 73.210 km
+      stoppedAlt: null
+  - - - '115'
+      - Erick Salgado
+    - place: '2'
+      total: 661.061
+      jump: null
+      penalties: []
+      breakdown:
+        effort: 169.24
+        arrival: 95.8
+        time: 154.5
+        reach: 169.24
+        distance: 338.48
+        leading: 72.3
+      demeritFrac: 0
+      demeritPoint: 0
+      velocity:
+        ss: 2019-08-15T18:18:54.9687343879Z
+        gs: 2019-08-15T18:15:00Z
+        es: 2019-08-15T20:28:01.968037505668Z
+        ssDistance: 68.610 km
+        ssElapsed: 2.151944 h
+        gsElapsed: 2.217213 h
+        ssVelocity: 31.88 km / h
+        gsVelocity: 30.94 km / h
+      reach:
+        extra: 73.210 km
+        flown: 73.210 km
+      demeritReset: 0
+      penaltiesJump: []
+      penaltyReason: ''
+      subtotal: 661.061
+      landedMade: 73.210 km
+      stoppedAlt: null
+  - - - '113'
+      - Rodolfo Gotes
+    - place: '3'
+      total: 653.937
+      jump: null
+      penalties: []
+      breakdown:
+        effort: 169.24
+        arrival: 59.4
+        time: 233.9
+        reach: 169.24
+        distance: 338.48
+        leading: 22.1
+      demeritFrac: 0
+      demeritPoint: 0
+      velocity:
+        ss: 2019-08-15T18:47:36.69918464548Z
+        gs: 2019-08-15T18:45:00Z
+        es: 2019-08-15T20:40:57.04654355346Z
+        ssDistance: 68.610 km
+        ssElapsed: 1.888985 h
+        gsElapsed: 1.932513 h
+        ssVelocity: 36.32 km / h
+        gsVelocity: 35.50 km / h
+      reach:
+        extra: 73.210 km
+        flown: 73.210 km
+      demeritReset: 0
+      penaltiesJump: []
+      penaltyReason: ''
+      subtotal: 653.937
+      landedMade: 73.210 km
+      stoppedAlt: null
+  - - - '101'
+      - Davis Straub
+    - place: '4'
+      total: 615.796
+      jump: null
+      penalties: []
+      breakdown:
+        effort: 169.24
+        arrival: 49.5
+        time: 203.2
+        reach: 169.24
+        distance: 338.48
+        leading: 24.6
+      demeritFrac: 0
+      demeritPoint: 0
+      velocity:
+        ss: 2019-08-15T18:45:30.087070931665Z
+        gs: 2019-08-15T18:45:00Z
+        es: 2019-08-15T20:45:22.871742474319Z
+        ssDistance: 68.610 km
+        ssElapsed: 1.997996 h
+        gsElapsed: 2.006353 h
+        ssVelocity: 34.34 km / h
+        gsVelocity: 34.20 km / h
+      reach:
+        extra: 73.210 km
+        flown: 73.210 km
+      demeritReset: 0
+      penaltiesJump: []
+      penaltyReason: ''
+      subtotal: 615.796
+      landedMade: 73.210 km
+      stoppedAlt: null
+  - - - '112'
+      - Nathan Wreyford
+    - place: '5'
+      total: 518.726
+      jump: null
+      penalties: []
+      breakdown:
+        effort: 169.24
+        arrival: 31.9
+        time: 119.7
+        reach: 169.24
+        distance: 338.48
+        leading: 28.6
+      demeritFrac: 0
+      demeritPoint: 0
+      velocity:
+        ss: 2019-08-15T18:32:36.934672527982Z
+        gs: 2019-08-15T18:30:00Z
+        es: 2019-08-15T20:54:56.206326516205Z
+        ssDistance: 68.610 km
+        ssElapsed: 2.372020 h
+        gsElapsed: 2.415613 h
+        ssVelocity: 28.92 km / h
+        gsVelocity: 28.40 km / h
+      reach:
+        extra: 73.210 km
+        flown: 73.210 km
+      demeritReset: 0
+      penaltiesJump: []
+      penaltyReason: ''
+      subtotal: 518.726
+      landedMade: 73.210 km
+      stoppedAlt: null
+  - - - '109'
+      - Rich Reinauer
+    - place: '6'
+      total: 473.286
+      jump: null
+      penalties: []
+      breakdown:
+        effort: 169.24
+        arrival: 21.2
+        time: 64.3
+        reach: 169.24
+        distance: 338.48
+        leading: 49.3
+      demeritFrac: 0
+      demeritPoint: 0
+      velocity:
+        ss: 2019-08-15T18:19:54.551845818791Z
+        gs: 2019-08-15T18:15:00Z
+        es: 2019-08-15T21:02:42.031012319754Z
+        ssDistance: 68.610 km
+        ssElapsed: 2.713189 h
+        gsElapsed: 2.795009 h
+        ssVelocity: 25.29 km / h
+        gsVelocity: 24.55 km / h
+      reach:
+        extra: 73.210 km
+        flown: 73.210 km
+      demeritReset: 0
+      penaltiesJump: []
+      penaltyReason: ''
+      subtotal: 473.286
+      landedMade: 73.210 km
+      stoppedAlt: null
+  - - - '108'
+      - Gary Anderson
+    - place: '7'
+      total: 427.796
+      jump: null
+      penalties: []
+      breakdown:
+        effort: 169.24
+        arrival: 9.9
+        time: 71.4
+        reach: 169.24
+        distance: 338.48
+        leading: 8
+      demeritFrac: 0
+      demeritPoint: 0
+      velocity:
+        ss: 2019-08-15T18:32:05.300203888627Z
+        gs: 2019-08-15T18:30:00Z
+        es: 2019-08-15T21:14:33.528776185627Z
+        ssDistance: 68.610 km
+        ssElapsed: 2.707841 h
+        gsElapsed: 2.742647 h
+        ssVelocity: 25.34 km / h
+        gsVelocity: 25.02 km / h
+      reach:
+        extra: 73.210 km
+        flown: 73.210 km
+      demeritReset: 0
+      penaltiesJump: []
+      penaltyReason: ''
+      subtotal: 427.796
+      landedMade: 73.210 km
+      stoppedAlt: null
+  - - - '107'
+      - Tom McGowan
+    - place: '8'
+      total: 281.279
+      jump: null
+      penalties: []
+      breakdown:
+        effort: 169.24
+        arrival: 0
+        time: 0
+        reach: 112.039
+        distance: 281.279
+        leading: 0
+      demeritFrac: 0
+      demeritPoint: 0
+      velocity:
+        ss: 2019-08-15T18:52:33.340768840179Z
+        gs: 2019-08-15T18:45:00Z
+        es: null
+        ssDistance: null
+        ssElapsed: null
+        gsElapsed: null
+        ssVelocity: null
+        gsVelocity: null
+      reach:
+        extra: 48.466 km
+        flown: 48.466 km
+      demeritReset: 0
+      penaltiesJump: []
+      penaltyReason: ''
+      subtotal: 281.279
+      landedMade: 48.467 km
+      stoppedAlt: 790.000 m
+  - - - '116'
+      - Roger Irby
+    - place: '9'
+      total: 270.56
+      jump: null
+      penalties: []
+      breakdown:
+        effort: 160.396
+        arrival: 0
+        time: 0
+        reach: 101.819
+        distance: 262.215
+        leading: 8.3
+      demeritFrac: 0
+      demeritPoint: 0
+      velocity:
+        ss: 2019-08-15T18:52:54.79810541103Z
+        gs: 2019-08-15T18:45:00Z
+        es: null
+        ssDistance: null
+        ssElapsed: null
+        gsElapsed: null
+        ssVelocity: null
+        gsVelocity: null
+      reach:
+        extra: 44.045 km
+        flown: 44.045 km
+      demeritReset: 0
+      penaltiesJump: []
+      penaltyReason: ''
+      subtotal: 270.56
+      landedMade: 44.045 km
+      stoppedAlt: 843.000 m
+  - - - '111'
+      - Eduardo Panuco
+    - place: '10'
+      total: 54.052
+      jump: null
+      penalties: []
+      breakdown:
+        effort: 28.542
+        arrival: 0
+        time: 0
+        reach: 25.51
+        distance: 54.052
+        leading: 0
+      demeritFrac: 0
+      demeritPoint: 0
+      velocity:
+        ss: 2019-08-15T18:22:46.802769250475Z
+        gs: 2019-08-15T18:15:00Z
+        es: null
+        ssDistance: null
+        ssElapsed: null
+        gsElapsed: null
+        ssVelocity: null
+        gsVelocity: null
+      reach:
+        extra: 11.035 km
+        flown: 11.035 km
+      demeritReset: 0
+      penaltiesJump: []
+      penaltyReason: ''
+      subtotal: 54.052
+      landedMade: 10.676 km
+      stoppedAlt: 719.000 m
+  - - - '103'
+      - ! 'Antonio  Mendoza '
+    - place: 11=
+      total: 12.362
+      jump: null
+      penalties: []
+      breakdown:
+        effort: 0.804
+        arrival: 0
+        time: 0
+        reach: 11.558
+        distance: 12.362
+        leading: 0
+      demeritFrac: 0
+      demeritPoint: 0
+      velocity:
+        ss: null
+        gs: null
+        es: null
+        ssDistance: null
+        ssElapsed: null
+        gsElapsed: null
+        ssVelocity: null
+        gsVelocity: null
+      reach:
+        extra: 0.062 km
+        flown: 0.062 km
+      demeritReset: 0
+      penaltiesJump: []
+      penaltyReason: ''
+      subtotal: 12.362
+      landedMade: -0.980 km
+      stoppedAlt: 717.000 m
+  - - - '105'
+      - David Proctor
+    - place: 11=
+      total: 12.362
+      jump: null
+      penalties: []
+      breakdown:
+        effort: 0.804
+        arrival: 0
+        time: 0
+        reach: 11.558
+        distance: 12.362
+        leading: 0
+      demeritFrac: 0
+      demeritPoint: 0
+      velocity:
+        ss: null
+        gs: null
+        es: null
+        ssDistance: null
+        ssElapsed: null
+        gsElapsed: null
+        ssVelocity: null
+        gsVelocity: null
+      reach:
+        extra: 0.338 km
+        flown: 0.338 km
+      demeritReset: 0
+      penaltiesJump: []
+      penaltyReason: ''
+      subtotal: 12.362
+      landedMade: -0.781 km
+      stoppedAlt: 697.000 m
+  - - - '114'
+      - Kinsley Sykes
+    - place: 11=
+      total: 12.362
+      jump: null
+      penalties: []
+      breakdown:
+        effort: 0.804
+        arrival: 0
+        time: 0
+        reach: 11.558
+        distance: 12.362
+        leading: 0
+      demeritFrac: 0
+      demeritPoint: 0
+      velocity:
+        ss: null
+        gs: null
+        es: null
+        ssDistance: null
+        ssElapsed: null
+        gsElapsed: null
+        ssVelocity: null
+        gsVelocity: null
+      reach:
+        extra: -0.079 km
+        flown: -0.079 km
+      demeritReset: 0
+      penaltiesJump: []
+      penaltyReason: ''
+      subtotal: 12.362
+      landedMade: -0.438 km
+      stoppedAlt: 714.000 m
+- []
+- - - - '113'
+      - Rodolfo Gotes
+    - place: '1'
+      total: 552.964
+      jump: null
+      penalties: []
+      breakdown:
+        effort: 180.287
+        arrival: 49.8
+        time: 114.5
+        reach: 180.287
+        distance: 360.574
+        leading: 28.1
+      demeritFrac: 0
+      demeritPoint: 0
+      velocity:
+        ss: 2019-08-17T20:00:28.659700561207Z
+        gs: 2019-08-17T20:00:00Z
+        es: 2019-08-17T21:58:22.942736198767Z
+        ssDistance: 59.724 km
+        ssElapsed: 1.965079 h
+        gsElapsed: 1.973040 h
+        ssVelocity: 30.39 km / h
+        gsVelocity: 30.27 km / h
+      reach:
+        extra: 64.324 km
+        flown: 64.324 km
+      demeritReset: 0
+      penaltiesJump: []
+      penaltyReason: ''
+      subtotal: 552.964
+      landedMade: 64.324 km
+      stoppedAlt: null
+  - - - '115'
+      - Erick Salgado
+    - place: '2'
+      total: 521.964
+      jump: null
+      penalties: []
+      breakdown:
+        effort: 180.287
+        arrival: 49
+        time: 77.5
+        reach: 180.287
+        distance: 360.574
+        leading: 34.9
+      demeritFrac: 0
+      demeritPoint: 0
+      velocity:
+        ss: 2019-08-17T19:55:10.344296340196Z
+        gs: 2019-08-17T19:45:00Z
+        es: 2019-08-17T21:58:51.568014385066Z
+        ssDistance: 59.724 km
+        ssElapsed: 2.061451 h
+        gsElapsed: 2.230991 h
+        ssVelocity: 28.97 km / h
+        gsVelocity: 26.77 km / h
+      reach:
+        extra: 64.324 km
+        flown: 64.324 km
+      demeritReset: 0
+      penaltiesJump: []
+      penaltyReason: ''
+      subtotal: 521.964
+      landedMade: 64.324 km
+      stoppedAlt: null
+  - - - '106'
+      - Bruce Barmakian
+    - place: '3'
+      total: 472.191
+      jump: null
+      penalties: []
+      breakdown:
+        effort: 180.287
+        arrival: 27.5
+        time: 55.5
+        reach: 180.287
+        distance: 360.574
+        leading: 28.7
+      demeritFrac: 0
+      demeritPoint: 0
+      velocity:
+        ss: 2019-08-17T19:55:14.011662036347Z
+        gs: 2019-08-17T19:45:00Z
+        es: 2019-08-17T22:14:35.13630382876Z
+        ssDistance: 59.724 km
+        ssElapsed: 2.322535 h
+        gsElapsed: 2.493093 h
+        ssVelocity: 25.72 km / h
+        gsVelocity: 23.96 km / h
+      reach:
+        extra: 64.324 km
+        flown: 64.324 km
+      demeritReset: 0
+      penaltiesJump: []
+      penaltyReason: ''
+      subtotal: 472.191
+      landedMade: 64.324 km
+      stoppedAlt: null
+  - - - '105'
+      - David Proctor
+    - place: '4'
+      total: 345.511
+      jump: null
+      penalties: []
+      breakdown:
+        effort: 180.287
+        arrival: 0
+        time: 0
+        reach: 160.968
+        distance: 341.255
+        leading: 4.3
+      demeritFrac: 0
+      demeritPoint: 0
+      velocity:
+        ss: 2019-08-17T20:14:19.89032765666Z
+        gs: 2019-08-17T20:00:00Z
+        es: null
+        ssDistance: null
+        ssElapsed: null
+        gsElapsed: null
+        ssVelocity: null
+        gsVelocity: null
+      reach:
+        extra: 57.431 km
+        flown: 57.431 km
+      demeritReset: 0
+      penaltiesJump: []
+      penaltyReason: ''
+      subtotal: 345.511
+      landedMade: 57.431 km
+      stoppedAlt: 946.000 m
+  - - - '107'
+      - Tom McGowan
+    - place: '5'
+      total: 325.639
+      jump: null
+      penalties: []
+      breakdown:
+        effort: 174.093
+        arrival: 0
+        time: 0
+        reach: 145.549
+        distance: 319.643
+        leading: 6
+      demeritFrac: 0
+      demeritPoint: 0
+      velocity:
+        ss: 2019-08-17T20:14:45.588890260925Z
+        gs: 2019-08-17T20:00:00Z
+        es: null
+        ssDistance: null
+        ssElapsed: null
+        gsElapsed: null
+        ssVelocity: null
+        gsVelocity: null
+      reach:
+        extra: 51.930 km
+        flown: 51.930 km
+      demeritReset: 0
+      penaltiesJump: []
+      penaltyReason: ''
+      subtotal: 325.639
+      landedMade: 51.930 km
+      stoppedAlt: 1629.000 m
+  - - - '110'
+      - Kevin Carter
+    - place: '6'
+      total: 320.203
+      jump: null
+      penalties: []
+      breakdown:
+        effort: 174.314
+        arrival: 0
+        time: 0
+        reach: 145.888
+        distance: 320.203
+        leading: 0
+      demeritFrac: 0
+      demeritPoint: 0
+      velocity:
+        ss: 2019-08-17T20:30:08.993030226551Z
+        gs: 2019-08-17T20:30:00Z
+        es: null
+        ssDistance: null
+        ssElapsed: null
+        gsElapsed: null
+        ssVelocity: null
+        gsVelocity: null
+      reach:
+        extra: 52.051 km
+        flown: 52.051 km
+      demeritReset: 0
+      penaltiesJump: []
+      penaltyReason: ''
+      subtotal: 320.203
+      landedMade: 52.051 km
+      stoppedAlt: 769.000 m
+  - - - '102'
+      - Vic Hare
+    - place: '7'
+      total: 232.743
+      jump: null
+      penalties: []
+      breakdown:
+        effort: 118.016
+        arrival: 0
+        time: 0
+        reach: 105.705
+        distance: 223.721
+        leading: 9
+      demeritFrac: 0
+      demeritPoint: 0
+      velocity:
+        ss: 2019-08-17T20:15:11.55208662805Z
+        gs: 2019-08-17T20:15:00Z
+        es: null
+        ssDistance: null
+        ssElapsed: null
+        gsElapsed: null
+        ssVelocity: null
+        gsVelocity: null
+      reach:
+        extra: 37.714 km
+        flown: 37.714 km
+      demeritReset: 0
+      penaltiesJump: []
+      penaltyReason: ''
+      subtotal: 232.743
+      landedMade: 35.097 km
+      stoppedAlt: 796.000 m
+  - - - '108'
+      - Gary Anderson
+    - place: 8=
+      total: 183.71
+      jump: null
+      penalties: []
+      breakdown:
+        effort: 97.554
+        arrival: 0
+        time: 0
+        reach: 82.711
+        distance: 180.265
+        leading: 3.4
+      demeritFrac: 0
+      demeritPoint: 0
+      velocity:
+        ss: 2019-08-17T20:09:14.380806076822Z
+        gs: 2019-08-17T20:00:00Z
+        es: null
+        ssDistance: null
+        ssElapsed: null
+        gsElapsed: null
+        ssVelocity: null
+        gsVelocity: null
+      reach:
+        extra: 29.510 km
+        flown: 29.510 km
+      demeritReset: 0
+      penaltiesJump: []
+      penaltyReason: ''
+      subtotal: 183.71
+      landedMade: 29.506 km
+      stoppedAlt: 795.000 m
+  - - - '103'
+      - ! 'Antonio  Mendoza '
+    - place: 8=
+      total: 183.691
+      jump: null
+      penalties: []
+      breakdown:
+        effort: 98.881
+        arrival: 0
+        time: 0
+        reach: 84.81
+        distance: 183.691
+        leading: 0
+      demeritFrac: 0
+      demeritPoint: 0
+      velocity:
+        ss: 2019-08-17T20:21:46.795162684128Z
+        gs: 2019-08-17T20:15:00Z
+        es: null
+        ssDistance: null
+        ssElapsed: null
+        gsElapsed: null
+        ssVelocity: null
+        gsVelocity: null
+      reach:
+        extra: 30.259 km
+        flown: 30.259 km
+      demeritReset: 0
+      penaltiesJump: []
+      penaltyReason: ''
+      subtotal: 183.691
+      landedMade: 29.896 km
+      stoppedAlt: 801.000 m
+  - - - '111'
+      - Eduardo Panuco
+    - place: '10'
+      total: 108.252
+      jump: null
+      penalties: []
+      breakdown:
+        effort: 56.409
+        arrival: 0
+        time: 0
+        reach: 51.843
+        distance: 108.252
+        leading: 0
+      demeritFrac: 0
+      demeritPoint: 0
+      velocity:
+        ss: 2019-08-17T20:12:14.147931821435Z
+        gs: 2019-08-17T20:00:00Z
+        es: null
+        ssDistance: null
+        ssElapsed: null
+        gsElapsed: null
+        ssVelocity: null
+        gsVelocity: null
+      reach:
+        extra: 18.497 km
+        flown: 18.497 km
+      demeritReset: 0
+      penaltiesJump: []
+      penaltyReason: ''
+      subtotal: 108.252
+      landedMade: 18.272 km
+      stoppedAlt: 801.000 m
+  - - - '114'
+      - Kinsley Sykes
+    - place: '11'
+      total: 14.235
+      jump: null
+      penalties: []
+      breakdown:
+        effort: 0.221
+        arrival: 0
+        time: 0
+        reach: 14.014
+        distance: 14.235
+        leading: 0
+      demeritFrac: 0
+      demeritPoint: 0
+      velocity:
+        ss: null
+        gs: null
+        es: null
+        ssDistance: null
+        ssElapsed: null
+        gsElapsed: null
+        ssVelocity: null
+        gsVelocity: null
+      reach:
+        extra: -0.230 km
+        flown: -0.230 km
+      demeritReset: 0
+      penaltiesJump: []
+      penaltyReason: ''
+      subtotal: 14.235
+      landedMade: -0.558 km
+      stoppedAlt: 785.000 m
+scoreDfNoTrack:
+- - - - '105'
+      - David Proctor
+    - place: '1'
+      total: 183.777
+      jump: null
+      penalties:
+      - penalty-points: 146.5
+      breakdown:
+        effort: 180.202
+        arrival: 0
+        time: 0
+        reach: 150.075
+        distance: 330.277
+        leading: 0
+      demeritFrac: 0
+      demeritPoint: 146.5
+      velocity: null
+      reach:
+        extra: 116.317 km
+        flown: 116.317 km
+      demeritReset: 0
+      penaltiesJump: []
+      penaltyReason: Jump the gun by 293 seconds
+      subtotal: 330.277
+      landedMade: 116.317 km
+      stoppedAlt: null
+  - - - '103'
+      - ! 'Antonio  Mendoza '
+    - place: 2=
+      total: 28.229
+      jump: null
+      penalties: []
+      breakdown:
+        effort: 21.778
+        arrival: 0
+        time: 0
+        reach: 6.451
+        distance: 28.229
+        leading: 0
+      demeritFrac: 0
+      demeritPoint: 0
+      velocity: null
+      reach:
+        extra: 0.000 km
+        flown: 0.000 km
+      demeritReset: 0
+      penaltiesJump: []
+      penaltyReason: ''
+      subtotal: 28.229
+      landedMade: 0.000 km
+      stoppedAlt: null
+  - - - '109'
+      - Rich Reinauer
+    - place: 2=
+      total: 28.229
+      jump: null
+      penalties: []
+      breakdown:
+        effort: 21.778
+        arrival: 0
+        time: 0
+        reach: 6.451
+        distance: 28.229
+        leading: 0
+      demeritFrac: 0
+      demeritPoint: 0
+      velocity: null
+      reach:
+        extra: 0.000 km
+        flown: 0.000 km
+      demeritReset: 0
+      penaltiesJump: []
+      penaltyReason: ''
+      subtotal: 28.229
+      landedMade: 0.000 km
+      stoppedAlt: null
+- []
+- []
+- []
+- []
+- []
+- []

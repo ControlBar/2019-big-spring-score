@@ -1,0 +1,4963 @@
+stopWindow:
+- null
+- null
+- null
+- null
+- null
+- null
+- null
+stopFlying:
+- - - - '103'
+      - ! 'Antonio  Mendoza '
+    - null
+  - - - '106'
+      - Bruce Barmakian
+    - null
+  - - - '105'
+      - David Proctor
+    - null
+  - - - '101'
+      - Davis Straub
+    - null
+  - - - '111'
+      - Eduardo Panuco
+    - null
+  - - - '115'
+      - Erick Salgado
+    - null
+  - - - '108'
+      - Gary Anderson
+    - null
+  - - - '110'
+      - Kevin Carter
+    - scoredFixes:
+      - 46
+      - 11952
+      scoredSeconds:
+      - 46
+      - 11952
+      scoredTimes:
+      - 2019-08-11T19:40:36Z
+      - 2019-08-11T22:59:02Z
+  - - - '114'
+      - Kinsley Sykes
+    - null
+  - - - '112'
+      - Nathan Wreyford
+    - null
+  - - - '109'
+      - Rich Reinauer
+    - null
+  - - - '113'
+      - Rodolfo Gotes
+    - scoredFixes:
+      - 21
+      - 6057
+      scoredSeconds:
+      - 21
+      - 12167
+      scoredTimes:
+      - 2019-08-11T19:46:03Z
+      - 2019-08-11T23:08:29Z
+  - - - '116'
+      - Roger Irby
+    - null
+  - - - '107'
+      - Tom McGowan
+    - null
+  - - - '102'
+      - Vic Hare
+    - scoredFixes:
+      - 47
+      - 11616
+      scoredSeconds:
+      - 47
+      - 11672
+      scoredTimes:
+      - 2019-08-11T19:53:35Z
+      - 2019-08-11T23:07:20Z
+  - - - '104'
+      - Willy Dydo
+    - scoredFixes:
+      - 0
+      - 3986
+      scoredSeconds:
+      - 0
+      - 11843
+      scoredTimes:
+      - 2019-08-11T19:21:34Z
+      - 2019-08-11T22:38:57Z
+- - - - '106'
+      - Bruce Barmakian
+    - null
+  - - - '105'
+      - David Proctor
+    - null
+  - - - '101'
+      - Davis Straub
+    - null
+  - - - '111'
+      - Eduardo Panuco
+    - null
+  - - - '115'
+      - Erick Salgado
+    - null
+  - - - '108'
+      - Gary Anderson
+    - null
+  - - - '110'
+      - Kevin Carter
+    - scoredFixes:
+      - 47
+      - 15284
+      scoredSeconds:
+      - 47
+      - 15284
+      scoredTimes:
+      - 2019-08-12T18:58:32Z
+      - 2019-08-12T23:12:29Z
+  - - - '114'
+      - Kinsley Sykes
+    - null
+  - - - '112'
+      - Nathan Wreyford
+    - null
+  - - - '109'
+      - Rich Reinauer
+    - null
+  - - - '113'
+      - Rodolfo Gotes
+    - scoredFixes:
+      - 28
+      - 1298
+      scoredSeconds:
+      - 281
+      - 11800
+      scoredTimes:
+      - 2019-08-12T19:04:59Z
+      - 2019-08-12T22:16:58Z
+  - - - '116'
+      - Roger Irby
+    - null
+  - - - '107'
+      - Tom McGowan
+    - null
+  - - - '102'
+      - Vic Hare
+    - scoredFixes:
+      - 47
+      - 14163
+      scoredSeconds:
+      - 47
+      - 14244
+      scoredTimes:
+      - 2019-08-12T18:35:08Z
+      - 2019-08-12T22:31:45Z
+  - - - '104'
+      - Willy Dydo
+    - scoredFixes:
+      - 3
+      - 4541
+      scoredSeconds:
+      - 91
+      - 13544
+      scoredTimes:
+      - 2019-08-12T18:33:57Z
+      - 2019-08-12T22:18:10Z
+- - - - '103'
+      - ! 'Antonio  Mendoza '
+    - scoredFixes:
+      - 0
+      - 4083
+      scoredSeconds:
+      - 0
+      - 4083
+      scoredTimes:
+      - 2019-08-13T19:10:25Z
+      - 2019-08-13T20:18:28Z
+  - - - '106'
+      - Bruce Barmakian
+    - scoredFixes:
+      - 0
+      - 10116
+      scoredSeconds:
+      - 0
+      - 10116
+      scoredTimes:
+      - 2019-08-13T19:01:36Z
+      - 2019-08-13T21:50:12Z
+  - - - '105'
+      - David Proctor
+    - scoredFixes:
+      - 0
+      - 12342
+      scoredSeconds:
+      - 0
+      - 12342
+      scoredTimes:
+      - 2019-08-13T18:50:31Z
+      - 2019-08-13T22:16:13Z
+  - - - '101'
+      - Davis Straub
+    - scoredFixes:
+      - 0
+      - 12024
+      scoredSeconds:
+      - 0
+      - 12024
+      scoredTimes:
+      - 2019-08-13T18:48:55Z
+      - 2019-08-13T22:09:19Z
+  - - - '111'
+      - Eduardo Panuco
+    - null
+  - - - '115'
+      - Erick Salgado
+    - scoredFixes:
+      - 1628
+      - 11707
+      scoredSeconds:
+      - 1628
+      - 11707
+      scoredTimes:
+      - 2019-08-13T18:54:38Z
+      - 2019-08-13T21:42:37Z
+  - - - '108'
+      - Gary Anderson
+    - scoredFixes:
+      - 0
+      - 14658
+      scoredSeconds:
+      - 0
+      - 14658
+      scoredTimes:
+      - 2019-08-13T18:44:16Z
+      - 2019-08-13T22:48:34Z
+  - - - '110'
+      - Kevin Carter
+    - null
+  - - - '114'
+      - Kinsley Sykes
+    - null
+  - - - '112'
+      - Nathan Wreyford
+    - scoredFixes:
+      - 0
+      - 13868
+      scoredSeconds:
+      - 0
+      - 13868
+      scoredTimes:
+      - 2019-08-13T18:32:15Z
+      - 2019-08-13T22:23:23Z
+  - - - '109'
+      - Rich Reinauer
+    - scoredFixes:
+      - 0
+      - 11972
+      scoredSeconds:
+      - 0
+      - 11972
+      scoredTimes:
+      - 2019-08-13T18:45:29Z
+      - 2019-08-13T22:05:01Z
+  - - - '113'
+      - Rodolfo Gotes
+    - scoredFixes:
+      - 0
+      - 11270
+      scoredSeconds:
+      - 0
+      - 11270
+      scoredTimes:
+      - 2019-08-13T18:35:13Z
+      - 2019-08-13T21:43:03Z
+  - - - '116'
+      - Roger Irby
+    - scoredFixes:
+      - 0
+      - 11092
+      scoredSeconds:
+      - 0
+      - 11092
+      scoredTimes:
+      - 2019-08-13T18:52:29Z
+      - 2019-08-13T21:57:21Z
+  - - - '107'
+      - Tom McGowan
+    - scoredFixes:
+      - 2310
+      - 5247
+      scoredSeconds:
+      - 2310
+      - 5247
+      scoredTimes:
+      - 2019-08-13T19:41:26Z
+      - 2019-08-13T20:30:23Z
+  - - - '102'
+      - Vic Hare
+    - scoredFixes:
+      - 0
+      - 11082
+      scoredSeconds:
+      - 0
+      - 11082
+      scoredTimes:
+      - 2019-08-13T18:33:43Z
+      - 2019-08-13T21:38:25Z
+  - - - '104'
+      - Willy Dydo
+    - scoredFixes:
+      - 0
+      - 5650
+      scoredSeconds:
+      - 0
+      - 5650
+      scoredTimes:
+      - 2019-08-13T18:42:31Z
+      - 2019-08-13T20:16:41Z
+- - - - '103'
+      - ! 'Antonio  Mendoza '
+    - null
+  - - - '106'
+      - Bruce Barmakian
+    - scoredFixes:
+      - 873
+      - 15367
+      scoredSeconds:
+      - 873
+      - 15367
+      scoredTimes:
+      - 2019-08-14T19:32:08Z
+      - 2019-08-14T23:33:42Z
+  - - - '101'
+      - Davis Straub
+    - scoredFixes:
+      - 0
+      - 9446
+      scoredSeconds:
+      - 0
+      - 9446
+      scoredTimes:
+      - 2019-08-14T19:33:33Z
+      - 2019-08-14T22:10:59Z
+  - - - '111'
+      - Eduardo Panuco
+    - null
+  - - - '115'
+      - Erick Salgado
+    - scoredFixes:
+      - 1404
+      - 14713
+      scoredSeconds:
+      - 1404
+      - 14713
+      scoredTimes:
+      - 2019-08-14T20:49:30Z
+      - 2019-08-15T00:31:19Z
+  - - - '108'
+      - Gary Anderson
+    - scoredFixes:
+      - 0
+      - 1421
+      scoredSeconds:
+      - 0
+      - 1421
+      scoredTimes:
+      - 2019-08-14T19:22:08Z
+      - 2019-08-14T19:45:49Z
+  - - - '110'
+      - Kevin Carter
+    - scoredFixes:
+      - 1596
+      - 7674
+      scoredSeconds:
+      - 1596
+      - 7674
+      scoredTimes:
+      - 2019-08-14T19:33:35Z
+      - 2019-08-14T21:14:53Z
+  - - - '114'
+      - Kinsley Sykes
+    - null
+  - - - '112'
+      - Nathan Wreyford
+    - scoredFixes:
+      - 0
+      - 154
+      scoredSeconds:
+      - 0
+      - 154
+      scoredTimes:
+      - 2019-08-14T19:18:51Z
+      - 2019-08-14T19:21:25Z
+  - - - '109'
+      - Rich Reinauer
+    - scoredFixes:
+      - 0
+      - 1312
+      scoredSeconds:
+      - 0
+      - 1312
+      scoredTimes:
+      - 2019-08-14T19:25:13Z
+      - 2019-08-14T19:47:05Z
+  - - - '113'
+      - Rodolfo Gotes
+    - scoredFixes:
+      - 1773
+      - 17157
+      scoredSeconds:
+      - 1773
+      - 17159
+      scoredTimes:
+      - 2019-08-14T19:41:10Z
+      - 2019-08-14T23:57:36Z
+  - - - '116'
+      - Roger Irby
+    - scoredFixes:
+      - 0
+      - 1460
+      scoredSeconds:
+      - 0
+      - 1460
+      scoredTimes:
+      - 2019-08-14T19:20:18Z
+      - 2019-08-14T19:44:38Z
+  - - - '107'
+      - Tom McGowan
+    - scoredFixes:
+      - 0
+      - 1154
+      scoredSeconds:
+      - 0
+      - 1154
+      scoredTimes:
+      - 2019-08-14T19:28:49Z
+      - 2019-08-14T19:48:03Z
+  - - - '102'
+      - Vic Hare
+    - scoredFixes:
+      - 2688
+      - 5174
+      scoredSeconds:
+      - 2688
+      - 5174
+      scoredTimes:
+      - 2019-08-14T19:42:41Z
+      - 2019-08-14T20:24:07Z
+  - - - '104'
+      - Willy Dydo
+    - scoredFixes:
+      - 1487
+      - 4904
+      scoredSeconds:
+      - 1487
+      - 4904
+      scoredTimes:
+      - 2019-08-14T19:40:02Z
+      - 2019-08-14T20:36:59Z
+- - - - '103'
+      - ! 'Antonio  Mendoza '
+    - scoredFixes:
+      - 3560
+      - 5391
+      scoredSeconds:
+      - 3560
+      - 5391
+      scoredTimes:
+      - 2019-08-15T18:04:32Z
+      - 2019-08-15T18:35:03Z
+  - - - '106'
+      - Bruce Barmakian
+    - scoredFixes:
+      - 0
+      - 10304
+      scoredSeconds:
+      - 0
+      - 10304
+      scoredTimes:
+      - 2019-08-15T17:39:37Z
+      - 2019-08-15T20:31:21Z
+  - - - '105'
+      - David Proctor
+    - scoredFixes:
+      - 0
+      - 1712
+      scoredSeconds:
+      - 0
+      - 1712
+      scoredTimes:
+      - 2019-08-15T17:51:28Z
+      - 2019-08-15T18:20:00Z
+  - - - '101'
+      - Davis Straub
+    - scoredFixes:
+      - 0
+      - 11259
+      scoredSeconds:
+      - 0
+      - 11259
+      scoredTimes:
+      - 2019-08-15T17:41:54Z
+      - 2019-08-15T20:49:33Z
+  - - - '111'
+      - Eduardo Panuco
+    - scoredFixes:
+      - 3576
+      - 5727
+      scoredSeconds:
+      - 3576
+      - 5727
+      scoredTimes:
+      - 2019-08-15T17:57:50Z
+      - 2019-08-15T18:33:41Z
+  - - - '115'
+      - Erick Salgado
+    - scoredFixes:
+      - 2091
+      - 12675
+      scoredSeconds:
+      - 2091
+      - 12675
+      scoredTimes:
+      - 2019-08-15T17:35:40Z
+      - 2019-08-15T20:32:04Z
+  - - - '108'
+      - Gary Anderson
+    - scoredFixes:
+      - 62
+      - 12574
+      scoredSeconds:
+      - 62
+      - 12574
+      scoredTimes:
+      - 2019-08-15T17:49:03Z
+      - 2019-08-15T21:17:35Z
+  - - - '110'
+      - Kevin Carter
+    - null
+  - - - '114'
+      - Kinsley Sykes
+    - scoredFixes:
+      - 0
+      - 484
+      scoredSeconds:
+      - 0
+      - 484
+      scoredTimes:
+      - 2019-08-15T18:03:19Z
+      - 2019-08-15T18:11:23Z
+  - - - '112'
+      - Nathan Wreyford
+    - scoredFixes:
+      - 0
+      - 12868
+      scoredSeconds:
+      - 0
+      - 12868
+      scoredTimes:
+      - 2019-08-15T17:24:38Z
+      - 2019-08-15T20:59:06Z
+  - - - '109'
+      - Rich Reinauer
+    - scoredFixes:
+      - 2645
+      - 15840
+      scoredSeconds:
+      - 2645
+      - 15840
+      scoredTimes:
+      - 2019-08-15T17:33:41Z
+      - 2019-08-15T21:13:36Z
+  - - - '113'
+      - Rodolfo Gotes
+    - scoredFixes:
+      - 0
+      - 11520
+      scoredSeconds:
+      - 0
+      - 11520
+      scoredTimes:
+      - 2019-08-15T17:29:39Z
+      - 2019-08-15T20:41:39Z
+  - - - '116'
+      - Roger Irby
+    - scoredFixes:
+      - 0
+      - 8062
+      scoredSeconds:
+      - 0
+      - 8062
+      scoredTimes:
+      - 2019-08-15T17:44:55Z
+      - 2019-08-15T19:59:17Z
+  - - - '107'
+      - Tom McGowan
+    - scoredFixes:
+      - 1492
+      - 11243
+      scoredSeconds:
+      - 1492
+      - 11251
+      scoredTimes:
+      - 2019-08-15T17:52:53Z
+      - 2019-08-15T20:35:32Z
+  - - - '102'
+      - Vic Hare
+    - null
+  - - - '104'
+      - Willy Dydo
+    - null
+- - - - '103'
+      - ! 'Antonio  Mendoza '
+    - null
+  - - - '106'
+      - Bruce Barmakian
+    - null
+  - - - '105'
+      - David Proctor
+    - null
+  - - - '101'
+      - Davis Straub
+    - null
+  - - - '111'
+      - Eduardo Panuco
+    - null
+  - - - '115'
+      - Erick Salgado
+    - null
+  - - - '108'
+      - Gary Anderson
+    - null
+  - - - '110'
+      - Kevin Carter
+    - null
+  - - - '114'
+      - Kinsley Sykes
+    - null
+  - - - '112'
+      - Nathan Wreyford
+    - null
+  - - - '109'
+      - Rich Reinauer
+    - null
+  - - - '113'
+      - Rodolfo Gotes
+    - null
+  - - - '116'
+      - Roger Irby
+    - null
+  - - - '107'
+      - Tom McGowan
+    - null
+  - - - '102'
+      - Vic Hare
+    - null
+  - - - '104'
+      - Willy Dydo
+    - null
+- - - - '103'
+      - ! 'Antonio  Mendoza '
+    - scoredFixes:
+      - 7104
+      - 12241
+      scoredSeconds:
+      - 7104
+      - 12241
+      scoredTimes:
+      - 2019-08-17T19:59:40Z
+      - 2019-08-17T21:25:17Z
+  - - - '106'
+      - Bruce Barmakian
+    - scoredFixes:
+      - 682
+      - 10753
+      scoredSeconds:
+      - 682
+      - 10753
+      scoredTimes:
+      - 2019-08-17T19:31:34Z
+      - 2019-08-17T22:19:25Z
+  - - - '105'
+      - David Proctor
+    - scoredFixes:
+      - 0
+      - 11739
+      scoredSeconds:
+      - 0
+      - 11739
+      scoredTimes:
+      - 2019-08-17T19:47:40Z
+      - 2019-08-17T23:03:19Z
+  - - - '101'
+      - Davis Straub
+    - null
+  - - - '111'
+      - Eduardo Panuco
+    - scoredFixes:
+      - 7556
+      - 9504
+      scoredSeconds:
+      - 7556
+      - 9504
+      scoredTimes:
+      - 2019-08-17T19:56:34Z
+      - 2019-08-17T20:29:02Z
+  - - - '115'
+      - Erick Salgado
+    - scoredFixes:
+      - 0
+      - 8807
+      scoredSeconds:
+      - 0
+      - 8807
+      scoredTimes:
+      - 2019-08-17T19:33:40Z
+      - 2019-08-17T22:00:27Z
+  - - - '108'
+      - Gary Anderson
+    - scoredFixes:
+      - 0
+      - 5226
+      scoredSeconds:
+      - 0
+      - 5226
+      scoredTimes:
+      - 2019-08-17T19:36:46Z
+      - 2019-08-17T21:03:52Z
+  - - - '110'
+      - Kevin Carter
+    - scoredFixes:
+      - 0
+      - 16824
+      scoredSeconds:
+      - 0
+      - 16824
+      scoredTimes:
+      - 2019-08-17T18:15:54Z
+      - 2019-08-17T22:56:18Z
+  - - - '114'
+      - Kinsley Sykes
+    - scoredFixes:
+      - 0
+      - 1197
+      scoredSeconds:
+      - 0
+      - 1197
+      scoredTimes:
+      - 2019-08-17T19:48:43Z
+      - 2019-08-17T20:08:40Z
+  - - - '112'
+      - Nathan Wreyford
+    - null
+  - - - '109'
+      - Rich Reinauer
+    - null
+  - - - '113'
+      - Rodolfo Gotes
+    - scoredFixes:
+      - 0
+      - 9334
+      scoredSeconds:
+      - 0
+      - 9334
+      scoredTimes:
+      - 2019-08-17T19:24:07Z
+      - 2019-08-17T21:59:41Z
+  - - - '116'
+      - Roger Irby
+    - null
+  - - - '107'
+      - Tom McGowan
+    - scoredFixes:
+      - 0
+      - 12121
+      scoredSeconds:
+      - 0
+      - 12121
+      scoredTimes:
+      - 2019-08-17T19:41:34Z
+      - 2019-08-17T23:03:35Z
+  - - - '102'
+      - Vic Hare
+    - scoredFixes:
+      - 1399
+      - 13273
+      scoredSeconds:
+      - 1399
+      - 13273
+      scoredTimes:
+      - 2019-08-17T18:16:57Z
+      - 2019-08-17T21:34:51Z
+  - - - '104'
+      - Willy Dydo
+    - null
+timing:
+- zonesSum:
+  - 1
+  - 4
+  - 4
+  - 4
+  - 4
+  zonesFirst:
+  - 2019-08-11T19:34:39.019993806911Z
+  - 2019-08-11T20:04:22.595801172118Z
+  - 2019-08-11T21:12:46.399586131859Z
+  - 2019-08-11T22:02:34.085834963607Z
+  - 2019-08-11T22:33:51.103670642126Z
+  zonesLast:
+  - 2019-08-11T19:34:39.019993806911Z
+  - 2019-08-11T20:31:24.16556881622Z
+  - 2019-08-11T21:46:07.922255241368Z
+  - 2019-08-11T22:38:26.445062193614Z
+  - 2019-08-11T23:07:10.0751750002Z
+  zonesRankTime:
+  - - 2019-08-11T19:34:39.019993806911Z
+  - - 2019-08-11T20:04:22.595801172118Z
+    - 2019-08-11T20:05:12.423559492217Z
+    - 2019-08-11T20:31:20.736500482866Z
+    - 2019-08-11T20:31:24.16556881622Z
+  - - 2019-08-11T21:12:46.399586131859Z
+    - 2019-08-11T21:30:38.34504783089Z
+    - 2019-08-11T21:37:54.314246493599Z
+    - 2019-08-11T21:46:07.922255241368Z
+  - - 2019-08-11T22:02:34.085834963607Z
+    - 2019-08-11T22:21:33.347971243207Z
+    - 2019-08-11T22:25:03.013370856189Z
+    - 2019-08-11T22:38:26.445062193614Z
+  - - 2019-08-11T22:33:51.103670642126Z
+    - 2019-08-11T22:56:25.670937051871Z
+    - 2019-08-11T23:05:14.135892908358Z
+    - 2019-08-11T23:07:10.0751750002Z
+  zonesRankPilot:
+  - - - '104'
+      - Willy Dydo
+  - - - '104'
+      - Willy Dydo
+    - - '113'
+      - Rodolfo Gotes
+    - - '110'
+      - Kevin Carter
+    - - '102'
+      - Vic Hare
+  - - - '104'
+      - Willy Dydo
+    - - '113'
+      - Rodolfo Gotes
+    - - '110'
+      - Kevin Carter
+    - - '102'
+      - Vic Hare
+  - - - '104'
+      - Willy Dydo
+    - - '110'
+      - Kevin Carter
+    - - '113'
+      - Rodolfo Gotes
+    - - '102'
+      - Vic Hare
+  - - - '104'
+      - Willy Dydo
+    - - '110'
+      - Kevin Carter
+    - - '102'
+      - Vic Hare
+    - - '113'
+      - Rodolfo Gotes
+  lastLanding: 2019-08-11T23:08:29Z
+- zonesSum:
+  - 3
+  - 4
+  - 4
+  - 4
+  zonesFirst:
+  - 2019-08-12T18:51:31.013134289532Z
+  - 2019-08-12T19:30:52.884520096555Z
+  - 2019-08-12T21:38:28.913520151685Z
+  - 2019-08-12T22:14:17.62864645431Z
+  zonesLast:
+  - 2019-08-12T19:14:31.31553724479Z
+  - 2019-08-12T19:34:00.08069442476Z
+  - 2019-08-12T22:36:13.239252807054Z
+  - 2019-08-12T23:06:29.127408571847Z
+  zonesRankTime:
+  - - 2019-08-12T18:51:31.013134289532Z
+    - 2019-08-12T19:14:08.636283441743Z
+    - 2019-08-12T19:14:31.31553724479Z
+  - - 2019-08-12T19:30:52.884520096555Z
+    - 2019-08-12T19:30:55.901656299146Z
+    - 2019-08-12T19:30:55.957146290476Z
+    - 2019-08-12T19:34:00.08069442476Z
+  - - 2019-08-12T21:38:28.913520151685Z
+    - 2019-08-12T21:43:39.750435289482Z
+    - 2019-08-12T21:48:08.134401876621Z
+    - 2019-08-12T22:36:13.239252807054Z
+  - - 2019-08-12T22:14:17.62864645431Z
+    - 2019-08-12T22:14:49.59808881782Z
+    - 2019-08-12T22:30:00.674913432078Z
+    - 2019-08-12T23:06:29.127408571847Z
+  zonesRankPilot:
+  - - - '104'
+      - Willy Dydo
+    - - '110'
+      - Kevin Carter
+    - - '113'
+      - Rodolfo Gotes
+  - - - '110'
+      - Kevin Carter
+    - - '102'
+      - Vic Hare
+    - - '104'
+      - Willy Dydo
+    - - '113'
+      - Rodolfo Gotes
+  - - - '104'
+      - Willy Dydo
+    - - '102'
+      - Vic Hare
+    - - '113'
+      - Rodolfo Gotes
+    - - '110'
+      - Kevin Carter
+  - - - '104'
+      - Willy Dydo
+    - - '113'
+      - Rodolfo Gotes
+    - - '102'
+      - Vic Hare
+    - - '110'
+      - Kevin Carter
+  lastLanding: 2019-08-12T23:12:29Z
+- zonesSum:
+  - 6
+  - 12
+  - 9
+  zonesFirst:
+  - 2019-08-13T18:36:35.346525302927Z
+  - 2019-08-13T19:30:16.461932461517Z
+  - 2019-08-13T21:35:20.432535984541Z
+  zonesLast:
+  - 2019-08-13T20:26:59.041791457261Z
+  - 2019-08-13T20:07:16.562189065689Z
+  - 2019-08-13T22:10:44.548461277466Z
+  zonesRankTime:
+  - - 2019-08-13T18:36:35.346525302927Z
+    - 2019-08-13T18:47:02.938319169415Z
+    - 2019-08-13T18:52:11.826667061588Z
+    - 2019-08-13T18:53:58.319805250516Z
+    - 2019-08-13T19:03:03.392738458506Z
+    - 2019-08-13T20:26:59.041791457261Z
+  - - 2019-08-13T19:30:16.461932461517Z
+    - 2019-08-13T19:30:27.693749687897Z
+    - 2019-08-13T19:30:33.243780000806Z
+    - 2019-08-13T19:30:41.602394112713Z
+    - 2019-08-13T19:30:47.747524190586Z
+    - 2019-08-13T19:31:06.746741371125Z
+    - 2019-08-13T19:31:14.035043329416Z
+    - 2019-08-13T19:31:49.65794924225Z
+    - 2019-08-13T19:36:16.551121508944Z
+    - 2019-08-13T19:46:20.358857920447Z
+    - 2019-08-13T20:03:08.73075554528Z
+    - 2019-08-13T20:07:16.562189065689Z
+  - - 2019-08-13T21:35:20.432535984541Z
+    - 2019-08-13T21:35:32.567502548386Z
+    - 2019-08-13T21:37:16.575536198072Z
+    - 2019-08-13T21:41:48.314848833089Z
+    - 2019-08-13T21:53:01.350400395333Z
+    - 2019-08-13T21:55:59.54475197559Z
+    - 2019-08-13T22:02:52.714497409016Z
+    - 2019-08-13T22:06:32.02442130865Z
+    - 2019-08-13T22:10:44.548461277466Z
+  zonesRankPilot:
+  - - - '113'
+      - Rodolfo Gotes
+    - - '109'
+      - Rich Reinauer
+    - - '105'
+      - David Proctor
+    - - '116'
+      - Roger Irby
+    - - '106'
+      - Bruce Barmakian
+    - - '107'
+      - Tom McGowan
+  - - - '104'
+      - Willy Dydo
+    - - '113'
+      - Rodolfo Gotes
+    - - '101'
+      - Davis Straub
+    - - '102'
+      - Vic Hare
+    - - '108'
+      - Gary Anderson
+    - - '116'
+      - Roger Irby
+    - - '115'
+      - Erick Salgado
+    - - '103'
+      - ! 'Antonio  Mendoza '
+    - - '105'
+      - David Proctor
+    - - '109'
+      - Rich Reinauer
+    - - '106'
+      - Bruce Barmakian
+    - - '112'
+      - Nathan Wreyford
+  - - - '102'
+      - Vic Hare
+    - - '113'
+      - Rodolfo Gotes
+    - - '115'
+      - Erick Salgado
+    - - '106'
+      - Bruce Barmakian
+    - - '116'
+      - Roger Irby
+    - - '109'
+      - Rich Reinauer
+    - - '101'
+      - Davis Straub
+    - - '108'
+      - Gary Anderson
+    - - '105'
+      - David Proctor
+  lastLanding: 2019-08-13T22:48:34Z
+- zonesSum:
+  - 6
+  - 7
+  - 3
+  - 3
+  zonesFirst:
+  - 2019-08-14T19:21:39.313700606688Z
+  - 2019-08-14T20:00:09.348589016875Z
+  - 2019-08-14T22:17:57.869062980469Z
+  - 2019-08-14T23:26:39.81130854949Z
+  zonesLast:
+  - 2019-08-14T20:50:58.100763553677Z
+  - 2019-08-14T21:34:30.24483776829Z
+  - 2019-08-14T23:07:45.552562103624Z
+  - 2019-08-15T00:27:58.371595790295Z
+  zonesRankTime:
+  - - 2019-08-14T19:21:39.313700606688Z
+    - 2019-08-14T19:26:28.693030505225Z
+    - 2019-08-14T19:26:41.375075610676Z
+    - 2019-08-14T19:33:51.80112684677Z
+    - 2019-08-14T19:50:06.471563656292Z
+    - 2019-08-14T20:50:58.100763553677Z
+  - - 2019-08-14T20:00:09.348589016875Z
+    - 2019-08-14T20:00:22.262136551422Z
+    - 2019-08-14T20:00:24.075598654484Z
+    - 2019-08-14T20:00:24.177679491738Z
+    - 2019-08-14T20:00:30.559949001168Z
+    - 2019-08-14T20:07:52.893080008255Z
+    - 2019-08-14T21:34:30.24483776829Z
+  - - 2019-08-14T22:17:57.869062980469Z
+    - 2019-08-14T22:37:56.054401156833Z
+    - 2019-08-14T23:07:45.552562103624Z
+  - - 2019-08-14T23:26:39.81130854949Z
+    - 2019-08-14T23:52:44.811496517898Z
+    - 2019-08-15T00:27:58.371595790295Z
+  zonesRankPilot:
+  - - - '116'
+      - Roger Irby
+    - - '108'
+      - Gary Anderson
+    - - '109'
+      - Rich Reinauer
+    - - '106'
+      - Bruce Barmakian
+    - - '104'
+      - Willy Dydo
+    - - '115'
+      - Erick Salgado
+  - - - '113'
+      - Rodolfo Gotes
+    - - '102'
+      - Vic Hare
+    - - '101'
+      - Davis Straub
+    - - '106'
+      - Bruce Barmakian
+    - - '110'
+      - Kevin Carter
+    - - '104'
+      - Willy Dydo
+    - - '115'
+      - Erick Salgado
+  - - - '106'
+      - Bruce Barmakian
+    - - '113'
+      - Rodolfo Gotes
+    - - '115'
+      - Erick Salgado
+  - - - '106'
+      - Bruce Barmakian
+    - - '113'
+      - Rodolfo Gotes
+    - - '115'
+      - Erick Salgado
+  lastLanding: 2019-08-15T00:31:19Z
+- zonesSum:
+  - 5
+  - 10
+  - 9
+  - 9
+  - 7
+  zonesFirst:
+  - 2019-08-15T18:08:30.637952409824Z
+  - 2019-08-15T18:18:54.9687343879Z
+  - 2019-08-15T19:12:51.622990017256Z
+  - 2019-08-15T19:32:45.4348518582Z
+  - 2019-08-15T20:25:47.418496755715Z
+  zonesLast:
+  - 2019-08-15T18:29:14.203650651457Z
+  - 2019-08-15T18:52:54.79810541103Z
+  - 2019-08-15T20:06:33.688407732138Z
+  - 2019-08-15T20:25:45.531398022411Z
+  - 2019-08-15T21:14:33.528776185627Z
+  zonesRankTime:
+  - - 2019-08-15T18:08:30.637952409824Z
+    - 2019-08-15T18:10:33.742424443221Z
+    - 2019-08-15T18:17:25.596566983285Z
+    - 2019-08-15T18:21:01.477619254636Z
+    - 2019-08-15T18:29:14.203650651457Z
+  - - 2019-08-15T18:18:54.9687343879Z
+    - 2019-08-15T18:19:54.551845818791Z
+    - 2019-08-15T18:22:46.802769250475Z
+    - 2019-08-15T18:30:31.822979300044Z
+    - 2019-08-15T18:32:05.300203888627Z
+    - 2019-08-15T18:32:36.934672527982Z
+    - 2019-08-15T18:45:30.087070931665Z
+    - 2019-08-15T18:47:36.69918464548Z
+    - 2019-08-15T18:52:33.340768840179Z
+    - 2019-08-15T18:52:54.79810541103Z
+  - - 2019-08-15T19:12:51.622990017256Z
+    - 2019-08-15T19:14:28.066781759533Z
+    - 2019-08-15T19:23:54.549128008838Z
+    - 2019-08-15T19:35:19.965979037599Z
+    - 2019-08-15T19:35:56.473566805302Z
+    - 2019-08-15T19:36:44.128699740962Z
+    - 2019-08-15T19:39:31.776860488133Z
+    - 2019-08-15T19:41:16.298611351112Z
+    - 2019-08-15T20:06:33.688407732138Z
+  - - 2019-08-15T19:32:45.4348518582Z
+    - 2019-08-15T19:41:31.316020378526Z
+    - 2019-08-15T19:45:52.147772993796Z
+    - 2019-08-15T19:47:22.340531086569Z
+    - 2019-08-15T19:49:34.736321041426Z
+    - 2019-08-15T19:57:29.168406129415Z
+    - 2019-08-15T19:57:29.280211406863Z
+    - 2019-08-15T20:17:59.128292963695Z
+    - 2019-08-15T20:25:45.531398022411Z
+  - - 2019-08-15T20:25:47.418496755715Z
+    - 2019-08-15T20:28:01.968037505668Z
+    - 2019-08-15T20:40:57.04654355346Z
+    - 2019-08-15T20:45:22.871742474319Z
+    - 2019-08-15T20:54:56.206326516205Z
+    - 2019-08-15T21:02:42.031012319754Z
+    - 2019-08-15T21:14:33.528776185627Z
+  zonesRankPilot:
+  - - - '114'
+      - Kinsley Sykes
+    - - '112'
+      - Nathan Wreyford
+    - - '105'
+      - David Proctor
+    - - '103'
+      - ! 'Antonio  Mendoza '
+    - - '113'
+      - Rodolfo Gotes
+  - - - '115'
+      - Erick Salgado
+    - - '109'
+      - Rich Reinauer
+    - - '111'
+      - Eduardo Panuco
+    - - '106'
+      - Bruce Barmakian
+    - - '108'
+      - Gary Anderson
+    - - '112'
+      - Nathan Wreyford
+    - - '101'
+      - Davis Straub
+    - - '113'
+      - Rodolfo Gotes
+    - - '107'
+      - Tom McGowan
+    - - '116'
+      - Roger Irby
+  - - - '109'
+      - Rich Reinauer
+    - - '115'
+      - Erick Salgado
+    - - '106'
+      - Bruce Barmakian
+    - - '116'
+      - Roger Irby
+    - - '112'
+      - Nathan Wreyford
+    - - '113'
+      - Rodolfo Gotes
+    - - '101'
+      - Davis Straub
+    - - '108'
+      - Gary Anderson
+    - - '107'
+      - Tom McGowan
+  - - - '109'
+      - Rich Reinauer
+    - - '115'
+      - Erick Salgado
+    - - '106'
+      - Bruce Barmakian
+    - - '113'
+      - Rodolfo Gotes
+    - - '112'
+      - Nathan Wreyford
+    - - '116'
+      - Roger Irby
+    - - '101'
+      - Davis Straub
+    - - '108'
+      - Gary Anderson
+    - - '107'
+      - Tom McGowan
+  - - - '106'
+      - Bruce Barmakian
+    - - '115'
+      - Erick Salgado
+    - - '113'
+      - Rodolfo Gotes
+    - - '101'
+      - Davis Straub
+    - - '112'
+      - Nathan Wreyford
+    - - '109'
+      - Rich Reinauer
+    - - '108'
+      - Gary Anderson
+  lastLanding: 2019-08-15T21:17:35Z
+- zonesSum: []
+  zonesFirst: []
+  zonesLast: []
+  zonesRankTime: []
+  zonesRankPilot: []
+  lastLanding: null
+- zonesSum:
+  - 5
+  - 10
+  - 9
+  - 6
+  - 3
+  zonesFirst:
+  - 2019-08-17T18:35:06.850574018782Z
+  - 2019-08-17T19:55:10.344296340196Z
+  - 2019-08-17T20:18:13.620955282345Z
+  - 2019-08-17T21:25:51.043154736106Z
+  - 2019-08-17T21:58:22.942736198767Z
+  zonesLast:
+  - 2019-08-17T20:02:23.038997806371Z
+  - 2019-08-17T20:30:08.993030226551Z
+  - 2019-08-17T21:00:54.232897679393Z
+  - 2019-08-17T22:37:14.066621272229Z
+  - 2019-08-17T22:14:35.13630382876Z
+  zonesRankTime:
+  - - 2019-08-17T18:35:06.850574018782Z
+    - 2019-08-17T18:43:05.95071686925Z
+    - 2019-08-17T19:49:12.967677048653Z
+    - 2019-08-17T19:49:24.746730154571Z
+    - 2019-08-17T20:02:23.038997806371Z
+  - - 2019-08-17T19:55:10.344296340196Z
+    - 2019-08-17T19:55:14.011662036347Z
+    - 2019-08-17T20:00:28.659700561207Z
+    - 2019-08-17T20:09:14.380806076822Z
+    - 2019-08-17T20:12:14.147931821435Z
+    - 2019-08-17T20:14:19.89032765666Z
+    - 2019-08-17T20:14:45.588890260925Z
+    - 2019-08-17T20:15:11.55208662805Z
+    - 2019-08-17T20:21:46.795162684128Z
+    - 2019-08-17T20:30:08.993030226551Z
+  - - 2019-08-17T20:18:13.620955282345Z
+    - 2019-08-17T20:21:38.002774009679Z
+    - 2019-08-17T20:24:52.748711066965Z
+    - 2019-08-17T20:39:41.95107195924Z
+    - 2019-08-17T20:42:29.807091774787Z
+    - 2019-08-17T20:43:07.244082951859Z
+    - 2019-08-17T20:46:10.186969821057Z
+    - 2019-08-17T20:48:12.478694906898Z
+    - 2019-08-17T21:00:54.232897679393Z
+  - - 2019-08-17T21:25:51.043154736106Z
+    - 2019-08-17T21:26:57.368895899708Z
+    - 2019-08-17T21:53:34.015425905086Z
+    - 2019-08-17T21:58:53.112184310787Z
+    - 2019-08-17T22:08:27.016005016998Z
+    - 2019-08-17T22:37:14.066621272229Z
+  - - 2019-08-17T21:58:22.942736198767Z
+    - 2019-08-17T21:58:51.568014385066Z
+    - 2019-08-17T22:14:35.13630382876Z
+  zonesRankPilot:
+  - - - '102'
+      - Vic Hare
+    - - '110'
+      - Kevin Carter
+    - - '115'
+      - Erick Salgado
+    - - '106'
+      - Bruce Barmakian
+    - - '114'
+      - Kinsley Sykes
+  - - - '115'
+      - Erick Salgado
+    - - '106'
+      - Bruce Barmakian
+    - - '113'
+      - Rodolfo Gotes
+    - - '108'
+      - Gary Anderson
+    - - '111'
+      - Eduardo Panuco
+    - - '105'
+      - David Proctor
+    - - '107'
+      - Tom McGowan
+    - - '102'
+      - Vic Hare
+    - - '103'
+      - ! 'Antonio  Mendoza '
+    - - '110'
+      - Kevin Carter
+  - - - '115'
+      - Erick Salgado
+    - - '113'
+      - Rodolfo Gotes
+    - - '106'
+      - Bruce Barmakian
+    - - '108'
+      - Gary Anderson
+    - - '107'
+      - Tom McGowan
+    - - '102'
+      - Vic Hare
+    - - '105'
+      - David Proctor
+    - - '103'
+      - ! 'Antonio  Mendoza '
+    - - '110'
+      - Kevin Carter
+  - - - '113'
+      - Rodolfo Gotes
+    - - '115'
+      - Erick Salgado
+    - - '106'
+      - Bruce Barmakian
+    - - '105'
+      - David Proctor
+    - - '107'
+      - Tom McGowan
+    - - '110'
+      - Kevin Carter
+  - - - '113'
+      - Rodolfo Gotes
+    - - '115'
+      - Erick Salgado
+    - - '106'
+      - Bruce Barmakian
+  lastLanding: 2019-08-17T23:03:35Z
+tagging:
+- - - - '103'
+      - ! 'Antonio  Mendoza '
+    - null
+  - - - '106'
+      - Bruce Barmakian
+    - null
+  - - - '105'
+      - David Proctor
+    - null
+  - - - '101'
+      - Davis Straub
+    - null
+  - - - '111'
+      - Eduardo Panuco
+    - null
+  - - - '115'
+      - Erick Salgado
+    - null
+  - - - '108'
+      - Gary Anderson
+    - null
+  - - - '110'
+      - Kevin Carter
+    - zonesTag:
+      - null
+      - inter:
+          fixFrac: 3090.7365004828666
+          time: 2019-08-11T20:31:20.736500482866Z
+          lat: 32.27042713
+          lng: -101.57436398
+          alt: 2334.53
+        cross:
+          crossingPair:
+          - fix: 3090
+            time: 2019-08-11T20:31:20Z
+            lat: 32.27031667
+            lng: -101.57421667
+            alt: 2336
+          - fix: 3091
+            time: 2019-08-11T20:31:21Z
+            lat: 32.27046667
+            lng: -101.57441667
+            alt: 2334
+          inZone:
+          - true
+          - false
+      - inter:
+          fixFrac: 7084.3142464936
+          time: 2019-08-11T21:37:54.314246493599Z
+          lat: 32.75965238
+          lng: -101.91493475
+          alt: 2688.31
+        cross:
+          crossingPair:
+          - fix: 7084
+            time: 2019-08-11T21:37:54Z
+            lat: 32.7596
+            lng: -101.91486667
+            alt: 2688
+          - fix: 7085
+            time: 2019-08-11T21:37:55Z
+            lat: 32.75976667
+            lng: -101.91508333
+            alt: 2689
+          inZone:
+          - false
+          - true
+      - inter:
+          fixFrac: 9703.347971243207
+          time: 2019-08-11T22:21:33.347971243207Z
+          lat: 33.13194715
+          lng: -101.89339784
+          alt: 2369.65
+        cross:
+          crossingPair:
+          - fix: 9703
+            time: 2019-08-11T22:21:33Z
+            lat: 33.13188333
+            lng: -101.89345
+            alt: 2370
+          - fix: 9704
+            time: 2019-08-11T22:21:34Z
+            lat: 33.13206667
+            lng: -101.8933
+            alt: 2369
+          inZone:
+          - false
+          - true
+      - inter:
+          fixFrac: 11795.670937051871
+          time: 2019-08-11T22:56:25.670937051871Z
+          lat: 33.17414958
+          lng: -102.19070107
+          alt: 1223.66
+        cross:
+          crossingPair:
+          - fix: 11795
+            time: 2019-08-11T22:56:25Z
+            lat: 33.17421667
+            lng: -102.19053333
+            alt: 1225
+          - fix: 11796
+            time: 2019-08-11T22:56:26Z
+            lat: 33.17411667
+            lng: -102.19078333
+            alt: 1223
+          inZone:
+          - false
+          - true
+  - - - '114'
+      - Kinsley Sykes
+    - null
+  - - - '112'
+      - Nathan Wreyford
+    - null
+  - - - '109'
+      - Rich Reinauer
+    - null
+  - - - '113'
+      - Rodolfo Gotes
+    - zonesTag:
+      - null
+      - inter:
+          fixFrac: 1144.4235594922177
+          time: 2019-08-11T20:05:12.423559492217Z
+          lat: 32.27045843
+          lng: -101.57893983
+          alt: 2265.15
+        cross:
+          crossingPair:
+          - fix: 1144
+            time: 2019-08-11T20:05:12Z
+            lat: 32.27036667
+            lng: -101.57888333
+            alt: 2266
+          - fix: 1145
+            time: 2019-08-11T20:05:13Z
+            lat: 32.27058333
+            lng: -101.57901667
+            alt: 2264
+          inZone:
+          - true
+          - false
+      - inter:
+          fixFrac: 4094.6725239154453
+          time: 2019-08-11T21:30:38.34504783089Z
+          lat: 32.75635176
+          lng: -101.91655234
+          alt: 2619
+        cross:
+          crossingPair:
+          - fix: 4094
+            time: 2019-08-11T21:30:37Z
+            lat: 32.75615
+            lng: -101.91628333
+            alt: 2619
+          - fix: 4095
+            time: 2019-08-11T21:30:39Z
+            lat: 32.75645
+            lng: -101.91668333
+            alt: 2619
+          inZone:
+          - false
+          - true
+      - inter:
+          fixFrac: 5156.01337085619
+          time: 2019-08-11T22:25:03.013370856189Z
+          lat: 33.16135245
+          lng: -101.9083829
+          alt: 2020.99
+        cross:
+          crossingPair:
+          - fix: 5156
+            time: 2019-08-11T22:25:03Z
+            lat: 33.16135
+            lng: -101.90838333
+            alt: 2021
+          - fix: 5157
+            time: 2019-08-11T22:25:04Z
+            lat: 33.16153333
+            lng: -101.90835
+            alt: 2020
+          inZone:
+          - false
+          - true
+      - inter:
+          fixFrac: 5987.0751750002
+          time: 2019-08-11T23:07:10.0751750002Z
+          lat: 33.17669461
+          lng: -102.19156754
+          alt: 1060.85
+        cross:
+          crossingPair:
+          - fix: 5987
+            time: 2019-08-11T23:07:10Z
+            lat: 33.17668333
+            lng: -102.19155
+            alt: 1061
+          - fix: 5988
+            time: 2019-08-11T23:07:11Z
+            lat: 33.17683333
+            lng: -102.19178333
+            alt: 1059
+          inZone:
+          - false
+          - true
+  - - - '116'
+      - Roger Irby
+    - null
+  - - - '107'
+      - Tom McGowan
+    - null
+  - - - '102'
+      - Vic Hare
+    - zonesTag:
+      - null
+      - inter:
+          fixFrac: 2308.1655688162205
+          time: 2019-08-11T20:31:24.16556881622Z
+          lat: 32.26348024
+          lng: -101.60867506
+          alt: 2467.83
+        cross:
+          crossingPair:
+          - fix: 2308
+            time: 2019-08-11T20:31:24Z
+            lat: 32.26343333
+            lng: -101.60868333
+            alt: 2468
+          - fix: 2309
+            time: 2019-08-11T20:31:25Z
+            lat: 32.26371667
+            lng: -101.60863333
+            alt: 2467
+          inZone:
+          - true
+          - false
+      - inter:
+          fixFrac: 6774.9222552413685
+          time: 2019-08-11T21:46:07.922255241368Z
+          lat: 32.75974352
+          lng: -101.91494983
+          alt: 2806.08
+        cross:
+          crossingPair:
+          - fix: 6774
+            time: 2019-08-11T21:46:07Z
+            lat: 32.75966667
+            lng: -101.91475
+            alt: 2807
+          - fix: 6775
+            time: 2019-08-11T21:46:08Z
+            lat: 32.75975
+            lng: -101.91496667
+            alt: 2806
+          inZone:
+          - false
+          - true
+      - inter:
+          fixFrac: 9899.445062193614
+          time: 2019-08-11T22:38:26.445062193614Z
+          lat: 33.13251491
+          lng: -101.89388321
+          alt: 2430.89
+        cross:
+          crossingPair:
+          - fix: 9899
+            time: 2019-08-11T22:38:26Z
+            lat: 33.13243333
+            lng: -101.89395
+            alt: 2430
+          - fix: 9900
+            time: 2019-08-11T22:38:27Z
+            lat: 33.13261667
+            lng: -101.8938
+            alt: 2432
+          inZone:
+          - false
+          - true
+      - inter:
+          fixFrac: 11492.135892908358
+          time: 2019-08-11T23:05:14.135892908358Z
+          lat: 33.17502427
+          lng: -102.19072636
+          alt: 1146.46
+        cross:
+          crossingPair:
+          - fix: 11492
+            time: 2019-08-11T23:05:14Z
+            lat: 33.17503333
+            lng: -102.19068333
+            alt: 1147
+          - fix: 11493
+            time: 2019-08-11T23:05:15Z
+            lat: 33.17496667
+            lng: -102.191
+            alt: 1143
+          inZone:
+          - false
+          - true
+  - - - '104'
+      - Willy Dydo
+    - zonesTag:
+      - inter:
+          fixFrac: 169.33999793563763
+          time: 2019-08-11T19:34:39.019993806911Z
+          lat: 32.21472233
+          lng: -101.52748667
+          alt: 1513.64
+        cross:
+          crossingPair:
+          - fix: 169
+            time: 2019-08-11T19:34:38Z
+            lat: 32.21471667
+            lng: -101.5276
+            alt: 1515
+          - fix: 170
+            time: 2019-08-11T19:34:41Z
+            lat: 32.21473333
+            lng: -101.52726667
+            alt: 1511
+          inZone:
+          - false
+          - true
+      - inter:
+          fixFrac: 760.1986003907067
+          time: 2019-08-11T20:04:22.595801172118Z
+          lat: 32.27047909
+          lng: -101.5771598
+          alt: 1972.01
+        cross:
+          crossingPair:
+          - fix: 760
+            time: 2019-08-11T20:04:22Z
+            lat: 32.27035
+            lng: -101.57713333
+            alt: 1974
+          - fix: 761
+            time: 2019-08-11T20:04:25Z
+            lat: 32.271
+            lng: -101.57726667
+            alt: 1964
+          inZone:
+          - true
+          - false
+      - inter:
+          fixFrac: 2103.7998620439535
+          time: 2019-08-11T21:12:46.399586131859Z
+          lat: 32.75637327
+          lng: -101.91651994
+          alt: 2141.4
+        cross:
+          crossingPair:
+          - fix: 2103
+            time: 2019-08-11T21:12:44Z
+            lat: 32.756
+            lng: -101.91613333
+            alt: 2139
+          - fix: 2104
+            time: 2019-08-11T21:12:47Z
+            lat: 32.75646667
+            lng: -101.91661667
+            alt: 2142
+          inZone:
+          - false
+          - true
+      - inter:
+          fixFrac: 3078.361944987869
+          time: 2019-08-11T22:02:34.085834963607Z
+          lat: 33.13877923
+          lng: -101.8986276
+          alt: 2276.83
+        cross:
+          crossingPair:
+          - fix: 3078
+            time: 2019-08-11T22:02:33Z
+            lat: 33.13855
+            lng: -101.8987
+            alt: 2279
+          - fix: 3079
+            time: 2019-08-11T22:02:36Z
+            lat: 33.13918333
+            lng: -101.8985
+            alt: 2273
+          inZone:
+          - false
+          - true
+      - inter:
+          fixFrac: 3689.1036706421264
+          time: 2019-08-11T22:33:51.103670642126Z
+          lat: 33.1757437
+          lng: -102.19094432
+          alt: 1337.69
+        cross:
+          crossingPair:
+          - fix: 3689
+            time: 2019-08-11T22:33:51Z
+            lat: 33.17573333
+            lng: -102.19091667
+            alt: 1338
+          - fix: 3690
+            time: 2019-08-11T22:33:52Z
+            lat: 33.17583333
+            lng: -102.19118333
+            alt: 1335
+          inZone:
+          - false
+          - true
+- - - - '106'
+      - Bruce Barmakian
+    - null
+  - - - '105'
+      - David Proctor
+    - null
+  - - - '101'
+      - Davis Straub
+    - null
+  - - - '111'
+      - Eduardo Panuco
+    - null
+  - - - '115'
+      - Erick Salgado
+    - null
+  - - - '108'
+      - Gary Anderson
+    - null
+  - - - '110'
+      - Kevin Carter
+    - zonesTag:
+      - inter:
+          fixFrac: 983.6362834417433
+          time: 2019-08-12T19:14:08.636283441743Z
+          lat: 32.21561665
+          lng: -101.52132727
+          alt: 2606.91
+        cross:
+          crossingPair:
+          - fix: 983
+            time: 2019-08-12T19:14:08Z
+            lat: 32.2155
+            lng: -101.52131667
+            alt: 2605
+          - fix: 984
+            time: 2019-08-12T19:14:09Z
+            lat: 32.21568333
+            lng: -101.52133333
+            alt: 2608
+          inZone:
+          - false
+          - true
+      - inter:
+          fixFrac: 1987.884520096556
+          time: 2019-08-12T19:30:52.884520096555Z
+          lat: 32.25251405
+          lng: -101.50252113
+          alt: 2808.35
+        cross:
+          crossingPair:
+          - fix: 1987
+            time: 2019-08-12T19:30:52Z
+            lat: 32.25236667
+            lng: -101.50268333
+            alt: 2811
+          - fix: 1988
+            time: 2019-08-12T19:30:53Z
+            lat: 32.25253333
+            lng: -101.5025
+            alt: 2808
+          inZone:
+          - true
+          - false
+      - inter:
+          fixFrac: 13108.239252807054
+          time: 2019-08-12T22:36:13.239252807054Z
+          lat: 32.94812136
+          lng: -100.53805941
+          alt: 1932.52
+        cross:
+          crossingPair:
+          - fix: 13108
+            time: 2019-08-12T22:36:13Z
+            lat: 32.94813333
+            lng: -100.53808333
+            alt: 1933
+          - fix: 13109
+            time: 2019-08-12T22:36:14Z
+            lat: 32.94808333
+            lng: -100.53798333
+            alt: 1931
+          inZone:
+          - false
+          - true
+      - inter:
+          fixFrac: 14924.127408571847
+          time: 2019-08-12T23:06:29.127408571847Z
+          lat: 33.2225258
+          lng: -100.57302059
+          alt: 1181.13
+        cross:
+          crossingPair:
+          - fix: 14924
+            time: 2019-08-12T23:06:29Z
+            lat: 33.22248333
+            lng: -100.57303333
+            alt: 1181
+          - fix: 14925
+            time: 2019-08-12T23:06:30Z
+            lat: 33.22281667
+            lng: -100.57293333
+            alt: 1182
+          inZone:
+          - false
+          - true
+  - - - '114'
+      - Kinsley Sykes
+    - null
+  - - - '112'
+      - Nathan Wreyford
+    - null
+  - - - '109'
+      - Rich Reinauer
+    - null
+  - - - '113'
+      - Rodolfo Gotes
+    - zonesTag:
+      - inter:
+          fixFrac: 85.23155372447947
+          time: 2019-08-12T19:14:31.31553724479Z
+          lat: 32.21519823
+          lng: -101.52170611
+          alt: 2200.09
+        cross:
+          crossingPair:
+          - fix: 85
+            time: 2019-08-12T19:14:29Z
+            lat: 32.21496667
+            lng: -101.52141667
+            alt: 2195
+          - fix: 86
+            time: 2019-08-12T19:14:39Z
+            lat: 32.21596667
+            lng: -101.52266667
+            alt: 2217
+          inZone:
+          - false
+          - true
+      - inter:
+          fixFrac: 203.80806944247692
+          time: 2019-08-12T19:34:00.08069442476Z
+          lat: 32.31357479
+          lng: -101.50747532
+          alt: 2663.5
+        cross:
+          crossingPair:
+          - fix: 203
+            time: 2019-08-12T19:33:52Z
+            lat: 32.31276667
+            lng: -101.50961667
+            alt: 2674
+          - fix: 204
+            time: 2019-08-12T19:34:02Z
+            lat: 32.31376667
+            lng: -101.50696667
+            alt: 2661
+          inZone:
+          - true
+          - false
+      - inter:
+          fixFrac: 1008.2371557640695
+          time: 2019-08-12T21:48:08.134401876621Z
+          lat: 32.9719455
+          lng: -100.49317174
+          alt: 2412.07
+        cross:
+          crossingPair:
+          - fix: 1008
+            time: 2019-08-12T21:48:06Z
+            lat: 32.97201667
+            lng: -100.49365
+            alt: 2418
+          - fix: 1009
+            time: 2019-08-12T21:48:15Z
+            lat: 32.97171667
+            lng: -100.49163333
+            alt: 2393
+          inZone:
+          - false
+          - true
+      - inter:
+          fixFrac: 1169.8995222044555
+          time: 2019-08-12T22:14:49.59808881782Z
+          lat: 33.22255622
+          lng: -100.57344339
+          alt: 802.4
+        cross:
+          crossingPair:
+          - fix: 1169
+            time: 2019-08-12T22:14:46Z
+            lat: 33.22171667
+            lng: -100.57353333
+            alt: 806
+          - fix: 1170
+            time: 2019-08-12T22:14:50Z
+            lat: 33.22265
+            lng: -100.57343333
+            alt: 802
+          inZone:
+          - false
+          - true
+  - - - '116'
+      - Roger Irby
+    - null
+  - - - '107'
+      - Tom McGowan
+    - null
+  - - - '102'
+      - Vic Hare
+    - zonesTag:
+      - null
+      - inter:
+          fixFrac: 3383.901656299146
+          time: 2019-08-12T19:30:55.901656299146Z
+          lat: 32.25188359
+          lng: -101.50261308
+          alt: 2876
+        cross:
+          crossingPair:
+          - fix: 3383
+            time: 2019-08-12T19:30:55Z
+            lat: 32.25173333
+            lng: -101.50273333
+            alt: 2876
+          - fix: 3384
+            time: 2019-08-12T19:30:56Z
+            lat: 32.2519
+            lng: -101.5026
+            alt: 2876
+          inZone:
+          - true
+          - false
+      - inter:
+          fixFrac: 11326.750435289483
+          time: 2019-08-12T21:43:39.750435289482Z
+          lat: 32.83256676
+          lng: -100.6064249
+          alt: 2513
+        cross:
+          crossingPair:
+          - fix: 11326
+            time: 2019-08-12T21:43:39Z
+            lat: 32.83256667
+            lng: -100.6066
+            alt: 2513
+          - fix: 11327
+            time: 2019-08-12T21:43:40Z
+            lat: 32.83256667
+            lng: -100.60636667
+            alt: 2513
+          inZone:
+          - false
+          - true
+      - inter:
+          fixFrac: 14061.674913432078
+          time: 2019-08-12T22:30:00.674913432078Z
+          lat: 33.22257456
+          lng: -100.56909958
+          alt: 736.67
+        cross:
+          crossingPair:
+          - fix: 14061
+            time: 2019-08-12T22:30:00Z
+            lat: 33.22238333
+            lng: -100.56913333
+            alt: 736
+          - fix: 14062
+            time: 2019-08-12T22:30:01Z
+            lat: 33.22266667
+            lng: -100.56908333
+            alt: 737
+          inZone:
+          - false
+          - true
+  - - - '104'
+      - Willy Dydo
+    - zonesTag:
+      - inter:
+          fixFrac: 288.3377114298445
+          time: 2019-08-12T18:51:31.013134289532Z
+          lat: 32.21656323
+          lng: -101.52080629
+          alt: 1744.31
+        cross:
+          crossingPair:
+          - fix: 288
+            time: 2019-08-12T18:51:30Z
+            lat: 32.2164
+            lng: -101.52075
+            alt: 1746
+          - fix: 289
+            time: 2019-08-12T18:51:33Z
+            lat: 32.21688333
+            lng: -101.52091667
+            alt: 1741
+          inZone:
+          - false
+          - true
+      - inter:
+          fixFrac: 1070.319048763493
+          time: 2019-08-12T19:30:55.957146290476Z
+          lat: 32.23923222
+          lng: -101.50508975
+          alt: 2463.32
+        cross:
+          crossingPair:
+          - fix: 1070
+            time: 2019-08-12T19:30:55Z
+            lat: 32.23908333
+            lng: -101.50523333
+            alt: 2463
+          - fix: 1071
+            time: 2019-08-12T19:30:58Z
+            lat: 32.23955
+            lng: -101.50478333
+            alt: 2464
+          inZone:
+          - true
+          - false
+      - inter:
+          fixFrac: 3593.9711733838953
+          time: 2019-08-12T21:38:28.913520151685Z
+          lat: 32.89396812
+          lng: -100.587833
+          alt: 1792.23
+        cross:
+          crossingPair:
+          - fix: 3593
+            time: 2019-08-12T21:38:26Z
+            lat: 32.89401667
+            lng: -100.58838333
+            alt: 1800
+          - fix: 3594
+            time: 2019-08-12T21:38:29Z
+            lat: 32.89396667
+            lng: -100.58781667
+            alt: 1792
+          inZone:
+          - false
+          - true
+      - inter:
+          fixFrac: 4309.876215484771
+          time: 2019-08-12T22:14:17.62864645431Z
+          lat: 33.22280748
+          lng: -100.56724587
+          alt: 990.36
+        cross:
+          crossingPair:
+          - fix: 4309
+            time: 2019-08-12T22:14:15Z
+            lat: 33.22191667
+            lng: -100.56721667
+            alt: 1000
+          - fix: 4310
+            time: 2019-08-12T22:14:18Z
+            lat: 33.22293333
+            lng: -100.56725
+            alt: 989
+          inZone:
+          - false
+          - true
+- - - - '103'
+      - ! 'Antonio  Mendoza '
+    - zonesTag:
+      - null
+      - inter:
+          fixFrac: 1284.6579492422509
+          time: 2019-08-13T19:31:49.65794924225Z
+          lat: 32.16982894
+          lng: -101.55511098
+          alt: 2225.34
+        cross:
+          crossingPair:
+          - fix: 1284
+            time: 2019-08-13T19:31:49Z
+            lat: 32.16991667
+            lng: -101.5551
+            alt: 2226
+          - fix: 1285
+            time: 2019-08-13T19:31:50Z
+            lat: 32.16978333
+            lng: -101.55511667
+            alt: 2225
+          inZone:
+          - true
+          - false
+      - null
+  - - - '106'
+      - Bruce Barmakian
+    - zonesTag:
+      - inter:
+          fixFrac: 87.39273845850667
+          time: 2019-08-13T19:03:03.392738458506Z
+          lat: 32.21480236
+          lng: -101.52760655
+          alt: 921.18
+        cross:
+          crossingPair:
+          - fix: 87
+            time: 2019-08-13T19:03:03Z
+            lat: 32.21475
+            lng: -101.5276
+            alt: 920
+          - fix: 88
+            time: 2019-08-13T19:03:04Z
+            lat: 32.21488333
+            lng: -101.52761667
+            alt: 923
+          inZone:
+          - false
+          - true
+      - inter:
+          fixFrac: 3692.73075554528
+          time: 2019-08-13T20:03:08.73075554528Z
+          lat: 32.1644782
+          lng: -101.54241661
+          alt: 2242.54
+        cross:
+          crossingPair:
+          - fix: 3692
+            time: 2019-08-13T20:03:08Z
+            lat: 32.1646
+            lng: -101.54241667
+            alt: 2244
+          - fix: 3693
+            time: 2019-08-13T20:03:09Z
+            lat: 32.16443333
+            lng: -101.54241667
+            alt: 2242
+          inZone:
+          - true
+          - false
+      - inter:
+          fixFrac: 9612.31484883309
+          time: 2019-08-13T21:41:48.314848833089Z
+          lat: 31.3770037
+          lng: -101.89277196
+          alt: 1693.69
+        cross:
+          crossingPair:
+          - fix: 9612
+            time: 2019-08-13T21:41:48Z
+            lat: 31.37706667
+            lng: -101.89276667
+            alt: 1694
+          - fix: 9613
+            time: 2019-08-13T21:41:49Z
+            lat: 31.37686667
+            lng: -101.89278333
+            alt: 1693
+          inZone:
+          - false
+          - true
+  - - - '105'
+      - David Proctor
+    - zonesTag:
+      - inter:
+          fixFrac: 100.8266670615883
+          time: 2019-08-13T18:52:11.826667061588Z
+          lat: 32.21404645
+          lng: -101.52568622
+          alt: 848.83
+        cross:
+          crossingPair:
+          - fix: 100
+            time: 2019-08-13T18:52:11Z
+            lat: 32.21395
+            lng: -101.5257
+            alt: 848
+          - fix: 101
+            time: 2019-08-13T18:52:12Z
+            lat: 32.21406667
+            lng: -101.52568333
+            alt: 849
+          inZone:
+          - false
+          - true
+      - inter:
+          fixFrac: 2745.551121508945
+          time: 2019-08-13T19:36:16.551121508944Z
+          lat: 32.16524149
+          lng: -101.54446092
+          alt: 2364.55
+        cross:
+          crossingPair:
+          - fix: 2745
+            time: 2019-08-13T19:36:16Z
+            lat: 32.16533333
+            lng: -101.54443333
+            alt: 2364
+          - fix: 2746
+            time: 2019-08-13T19:36:17Z
+            lat: 32.16516667
+            lng: -101.54448333
+            alt: 2365
+          inZone:
+          - true
+          - false
+      - inter:
+          fixFrac: 12013.548461277467
+          time: 2019-08-13T22:10:44.548461277466Z
+          lat: 31.38078439
+          lng: -101.90787689
+          alt: 1193
+        cross:
+          crossingPair:
+          - fix: 12013
+            time: 2019-08-13T22:10:44Z
+            lat: 31.38086667
+            lng: -101.90795
+            alt: 1193
+          - fix: 12014
+            time: 2019-08-13T22:10:45Z
+            lat: 31.38071667
+            lng: -101.90781667
+            alt: 1193
+          inZone:
+          - false
+          - true
+  - - - '101'
+      - Davis Straub
+    - zonesTag:
+      - null
+      - inter:
+          fixFrac: 2498.243780000806
+          time: 2019-08-13T19:30:33.243780000806Z
+          lat: 32.19566753
+          lng: -101.59116994
+          alt: 2062.02
+        cross:
+          crossingPair:
+          - fix: 2498
+            time: 2019-08-13T19:30:33Z
+            lat: 32.1957
+            lng: -101.59113333
+            alt: 2063
+          - fix: 2499
+            time: 2019-08-13T19:30:34Z
+            lat: 32.19556667
+            lng: -101.59128333
+            alt: 2059
+          inZone:
+          - true
+          - false
+      - inter:
+          fixFrac: 11637.714497409017
+          time: 2019-08-13T22:02:52.714497409016Z
+          lat: 31.37459043
+          lng: -101.88498813
+          alt: 1352.57
+        cross:
+          crossingPair:
+          - fix: 11637
+            time: 2019-08-13T22:02:52Z
+            lat: 31.37473333
+            lng: -101.885
+            alt: 1354
+          - fix: 11638
+            time: 2019-08-13T22:02:53Z
+            lat: 31.37453333
+            lng: -101.88498333
+            alt: 1352
+          inZone:
+          - false
+          - true
+  - - - '111'
+      - Eduardo Panuco
+    - null
+  - - - '115'
+      - Erick Salgado
+    - zonesTag:
+      - null
+      - inter:
+          fixFrac: 3824.0350433294166
+          time: 2019-08-13T19:31:14.035043329416Z
+          lat: 32.16197806
+          lng: -101.53491956
+          alt: 2606
+        cross:
+          crossingPair:
+          - fix: 3824
+            time: 2019-08-13T19:31:14Z
+            lat: 32.16198333
+            lng: -101.53491667
+            alt: 2606
+          - fix: 3825
+            time: 2019-08-13T19:31:15Z
+            lat: 32.16183333
+            lng: -101.535
+            alt: 2606
+          inZone:
+          - true
+          - false
+      - inter:
+          fixFrac: 11386.575536198072
+          time: 2019-08-13T21:37:16.575536198072Z
+          lat: 31.37652985
+          lng: -101.89115715
+          alt: 1269.12
+        cross:
+          crossingPair:
+          - fix: 11386
+            time: 2019-08-13T21:37:16Z
+            lat: 31.37668333
+            lng: -101.89116667
+            alt: 1272
+          - fix: 11387
+            time: 2019-08-13T21:37:17Z
+            lat: 31.37641667
+            lng: -101.89115
+            alt: 1267
+          inZone:
+          - false
+          - true
+  - - - '108'
+      - Gary Anderson
+    - zonesTag:
+      - null
+      - inter:
+          fixFrac: 2791.747524190586
+          time: 2019-08-13T19:30:47.747524190586Z
+          lat: 32.16089208
+          lng: -101.53115404
+          alt: 2601.76
+        cross:
+          crossingPair:
+          - fix: 2791
+            time: 2019-08-13T19:30:47Z
+            lat: 32.16101667
+            lng: -101.53111667
+            alt: 2604
+          - fix: 2792
+            time: 2019-08-13T19:30:48Z
+            lat: 32.16085
+            lng: -101.53116667
+            alt: 2601
+          inZone:
+          - true
+          - false
+      - inter:
+          fixFrac: 12136.02442130865
+          time: 2019-08-13T22:06:32.02442130865Z
+          lat: 31.37872845
+          lng: -101.89909797
+          alt: 1659.95
+        cross:
+          crossingPair:
+          - fix: 12136
+            time: 2019-08-13T22:06:32Z
+            lat: 31.37873333
+            lng: -101.8991
+            alt: 1660
+          - fix: 12137
+            time: 2019-08-13T22:06:33Z
+            lat: 31.37853333
+            lng: -101.89901667
+            alt: 1658
+          inZone:
+          - false
+          - true
+  - - - '110'
+      - Kevin Carter
+    - null
+  - - - '114'
+      - Kinsley Sykes
+    - null
+  - - - '112'
+      - Nathan Wreyford
+    - zonesTag:
+      - null
+      - inter:
+          fixFrac: 5701.562189065689
+          time: 2019-08-13T20:07:16.562189065689Z
+          lat: 32.18555841
+          lng: -101.58011977
+          alt: 2490.88
+        cross:
+          crossingPair:
+          - fix: 5701
+            time: 2019-08-13T20:07:16Z
+            lat: 32.18563333
+            lng: -101.58001667
+            alt: 2492
+          - fix: 5702
+            time: 2019-08-13T20:07:17Z
+            lat: 32.1855
+            lng: -101.5802
+            alt: 2490
+          inZone:
+          - true
+          - false
+      - null
+  - - - '109'
+      - Rich Reinauer
+    - zonesTag:
+      - inter:
+          fixFrac: 93.93831916941538
+          time: 2019-08-13T18:47:02.938319169415Z
+          lat: 32.21399383
+          lng: -101.52459691
+          alt: 812.88
+        cross:
+          crossingPair:
+          - fix: 93
+            time: 2019-08-13T18:47:02Z
+            lat: 32.2139
+            lng: -101.52455
+            alt: 811
+          - fix: 94
+            time: 2019-08-13T18:47:03Z
+            lat: 32.214
+            lng: -101.5246
+            alt: 813
+          inZone:
+          - false
+          - true
+      - inter:
+          fixFrac: 3651.358857920447
+          time: 2019-08-13T19:46:20.358857920447Z
+          lat: 32.15900686
+          lng: -101.52345596
+          alt: 1993.64
+        cross:
+          crossingPair:
+          - fix: 3651
+            time: 2019-08-13T19:46:20Z
+            lat: 32.15906667
+            lng: -101.52345
+            alt: 1994
+          - fix: 3652
+            time: 2019-08-13T19:46:21Z
+            lat: 32.1589
+            lng: -101.52346667
+            alt: 1993
+          inZone:
+          - true
+          - false
+      - inter:
+          fixFrac: 11430.54475197559
+          time: 2019-08-13T21:55:59.54475197559Z
+          lat: 31.38530772
+          lng: -101.96495765
+          alt: 1765
+        cross:
+          crossingPair:
+          - fix: 11430
+            time: 2019-08-13T21:55:59Z
+            lat: 31.38541667
+            lng: -101.96496667
+            alt: 1765
+          - fix: 11431
+            time: 2019-08-13T21:56:00Z
+            lat: 31.38521667
+            lng: -101.96495
+            alt: 1765
+          inZone:
+          - false
+          - true
+  - - - '113'
+      - Rodolfo Gotes
+    - zonesTag:
+      - inter:
+          fixFrac: 82.34652530292729
+          time: 2019-08-13T18:36:35.346525302927Z
+          lat: 32.21401865
+          lng: -101.524316
+          alt: 875
+        cross:
+          crossingPair:
+          - fix: 82
+            time: 2019-08-13T18:36:35Z
+            lat: 32.21396667
+            lng: -101.52433333
+            alt: 875
+          - fix: 83
+            time: 2019-08-13T18:36:36Z
+            lat: 32.21411667
+            lng: -101.52428333
+            alt: 875
+          inZone:
+          - false
+          - true
+      - inter:
+          fixFrac: 3314.6937496878973
+          time: 2019-08-13T19:30:27.693749687897Z
+          lat: 32.16092792
+          lng: -101.5312847
+          alt: 2616.92
+        cross:
+          crossingPair:
+          - fix: 3314
+            time: 2019-08-13T19:30:27Z
+            lat: 32.16106667
+            lng: -101.53125
+            alt: 2619
+          - fix: 3315
+            time: 2019-08-13T19:30:28Z
+            lat: 32.16086667
+            lng: -101.5313
+            alt: 2616
+          inZone:
+          - true
+          - false
+      - inter:
+          fixFrac: 10819.567502548387
+          time: 2019-08-13T21:35:32.567502548386Z
+          lat: 31.38496533
+          lng: -101.97043334
+          alt: 1585.43
+        cross:
+          crossingPair:
+          - fix: 10819
+            time: 2019-08-13T21:35:32Z
+            lat: 31.38511667
+            lng: -101.97043333
+            alt: 1586
+          - fix: 10820
+            time: 2019-08-13T21:35:33Z
+            lat: 31.38485
+            lng: -101.97043333
+            alt: 1585
+          inZone:
+          - false
+          - true
+  - - - '116'
+      - Roger Irby
+    - zonesTag:
+      - inter:
+          fixFrac: 89.31980525051678
+          time: 2019-08-13T18:53:58.319805250516Z
+          lat: 32.21412064
+          lng: -101.52373934
+          alt: 888
+        cross:
+          crossingPair:
+          - fix: 89
+            time: 2019-08-13T18:53:58Z
+            lat: 32.21408333
+            lng: -101.52375
+            alt: 888
+          - fix: 90
+            time: 2019-08-13T18:53:59Z
+            lat: 32.2142
+            lng: -101.52371667
+            alt: 888
+          inZone:
+          - false
+          - true
+      - inter:
+          fixFrac: 2317.7467413711256
+          time: 2019-08-13T19:31:06.746741371125Z
+          lat: 32.16178797
+          lng: -101.53428728
+          alt: 2481.49
+        cross:
+          crossingPair:
+          - fix: 2317
+            time: 2019-08-13T19:31:06Z
+            lat: 32.1619
+            lng: -101.53425
+            alt: 2480
+          - fix: 2318
+            time: 2019-08-13T19:31:07Z
+            lat: 32.16175
+            lng: -101.5343
+            alt: 2482
+          inZone:
+          - true
+          - false
+      - inter:
+          fixFrac: 10832.350400395333
+          time: 2019-08-13T21:53:01.350400395333Z
+          lat: 31.37966326
+          lng: -101.90288743
+          alt: 1339.95
+        cross:
+          crossingPair:
+          - fix: 10832
+            time: 2019-08-13T21:53:01Z
+            lat: 31.37973333
+            lng: -101.90291667
+            alt: 1341
+          - fix: 10833
+            time: 2019-08-13T21:53:02Z
+            lat: 31.37953333
+            lng: -101.90283333
+            alt: 1338
+          inZone:
+          - false
+          - true
+  - - - '107'
+      - Tom McGowan
+    - zonesTag:
+      - inter:
+          fixFrac: 5043.041791457261
+          time: 2019-08-13T20:26:59.041791457261Z
+          lat: 32.21432085
+          lng: -101.5266993
+          alt: 1140.96
+        cross:
+          crossingPair:
+          - fix: 5043
+            time: 2019-08-13T20:26:59Z
+            lat: 32.21431667
+            lng: -101.5267
+            alt: 1141
+          - fix: 5044
+            time: 2019-08-13T20:27:00Z
+            lat: 32.21441667
+            lng: -101.52668333
+            alt: 1140
+          inZone:
+          - false
+          - true
+      - null
+      - null
+  - - - '102'
+      - Vic Hare
+    - zonesTag:
+      - null
+      - inter:
+          fixFrac: 3418.6023941127132
+          time: 2019-08-13T19:30:41.602394112713Z
+          lat: 32.16185965
+          lng: -101.53452694
+          alt: 2529.6
+        cross:
+          crossingPair:
+          - fix: 3418
+            time: 2019-08-13T19:30:41Z
+            lat: 32.16195
+            lng: -101.53446667
+            alt: 2529
+          - fix: 3419
+            time: 2019-08-13T19:30:42Z
+            lat: 32.1618
+            lng: -101.53456667
+            alt: 2530
+          inZone:
+          - true
+          - false
+      - inter:
+          fixFrac: 10897.432535984542
+          time: 2019-08-13T21:35:20.432535984541Z
+          lat: 31.38510627
+          lng: -101.96843099
+          alt: 1160.7
+        cross:
+          crossingPair:
+          - fix: 10897
+            time: 2019-08-13T21:35:20Z
+            lat: 31.3852
+            lng: -101.96841667
+            alt: 1162
+          - fix: 10898
+            time: 2019-08-13T21:35:21Z
+            lat: 31.38498333
+            lng: -101.96845
+            alt: 1159
+          inZone:
+          - false
+          - true
+  - - - '104'
+      - Willy Dydo
+    - zonesTag:
+      - null
+      - inter:
+          fixFrac: 2865.461932461518
+          time: 2019-08-13T19:30:16.461932461517Z
+          lat: 32.16118199
+          lng: -101.5321975
+          alt: 2531.54
+        cross:
+          crossingPair:
+          - fix: 2865
+            time: 2019-08-13T19:30:16Z
+            lat: 32.16126667
+            lng: -101.53216667
+            alt: 2532
+          - fix: 2866
+            time: 2019-08-13T19:30:17Z
+            lat: 32.16108333
+            lng: -101.53223333
+            alt: 2531
+          inZone:
+          - true
+          - false
+      - null
+- - - - '103'
+      - ! 'Antonio  Mendoza '
+    - null
+  - - - '106'
+      - Bruce Barmakian
+    - zonesTag:
+      - inter:
+          fixFrac: 976.8011268467709
+          time: 2019-08-14T19:33:51.80112684677Z
+          lat: 32.2140268
+          lng: -101.52425
+          alt: 858.6
+        cross:
+          crossingPair:
+          - fix: 976
+            time: 2019-08-14T19:33:51Z
+            lat: 32.21393333
+            lng: -101.52425
+            alt: 857
+          - fix: 977
+            time: 2019-08-14T19:33:52Z
+            lat: 32.21405
+            lng: -101.52425
+            alt: 859
+          inZone:
+          - false
+          - true
+      - inter:
+          fixFrac: 2569.177679491738
+          time: 2019-08-14T20:00:24.177679491738Z
+          lat: 32.18427856
+          lng: -101.57344329
+          alt: 1746.64
+        cross:
+          crossingPair:
+          - fix: 2569
+            time: 2019-08-14T20:00:24Z
+            lat: 32.18426667
+            lng: -101.57341667
+            alt: 1747
+          - fix: 2570
+            time: 2019-08-14T20:00:25Z
+            lat: 32.18433333
+            lng: -101.57356667
+            alt: 1745
+          inZone:
+          - true
+          - false
+      - inter:
+          fixFrac: 10822.86906298047
+          time: 2019-08-14T22:17:57.869062980469Z
+          lat: 32.54713472
+          lng: -102.01449703
+          alt: 1741.74
+        cross:
+          crossingPair:
+          - fix: 10822
+            time: 2019-08-14T22:17:57Z
+            lat: 32.54703333
+            lng: -102.01436667
+            alt: 1740
+          - fix: 10823
+            time: 2019-08-14T22:17:58Z
+            lat: 32.54715
+            lng: -102.01451667
+            alt: 1742
+          inZone:
+          - false
+          - true
+      - inter:
+          fixFrac: 14944.81130854949
+          time: 2019-08-14T23:26:39.81130854949Z
+          lat: 32.67303742
+          lng: -102.6360393
+          alt: 1347
+        cross:
+          crossingPair:
+          - fix: 14944
+            time: 2019-08-14T23:26:39Z
+            lat: 32.67298333
+            lng: -102.63585
+            alt: 1347
+          - fix: 14945
+            time: 2019-08-14T23:26:40Z
+            lat: 32.67305
+            lng: -102.63608333
+            alt: 1347
+          inZone:
+          - false
+          - true
+  - - - '101'
+      - Davis Straub
+    - zonesTag:
+      - null
+      - inter:
+          fixFrac: 1611.0755986544846
+          time: 2019-08-14T20:00:24.075598654484Z
+          lat: 32.18321788
+          lng: -101.57307928
+          alt: 1636.92
+        cross:
+          crossingPair:
+          - fix: 1611
+            time: 2019-08-14T20:00:24Z
+            lat: 32.18321667
+            lng: -101.57306667
+            alt: 1637
+          - fix: 1612
+            time: 2019-08-14T20:00:25Z
+            lat: 32.18323333
+            lng: -101.57323333
+            alt: 1636
+          inZone:
+          - true
+          - false
+      - null
+      - null
+  - - - '111'
+      - Eduardo Panuco
+    - null
+  - - - '115'
+      - Erick Salgado
+    - zonesTag:
+      - inter:
+          fixFrac: 1492.100763553678
+          time: 2019-08-14T20:50:58.100763553677Z
+          lat: 32.21399509
+          lng: -101.52457675
+          alt: 897
+        cross:
+          crossingPair:
+          - fix: 1492
+            time: 2019-08-14T20:50:58Z
+            lat: 32.21398333
+            lng: -101.52456667
+            alt: 897
+          - fix: 1493
+            time: 2019-08-14T20:50:59Z
+            lat: 32.2141
+            lng: -101.52466667
+            alt: 897
+          inZone:
+          - false
+          - true
+      - inter:
+          fixFrac: 4104.244837768291
+          time: 2019-08-14T21:34:30.24483776829Z
+          lat: 32.28484115
+          lng: -101.56108741
+          alt: 1918
+        cross:
+          crossingPair:
+          - fix: 4104
+            time: 2019-08-14T21:34:30Z
+            lat: 32.28481667
+            lng: -101.56108333
+            alt: 1918
+          - fix: 4105
+            time: 2019-08-14T21:34:31Z
+            lat: 32.28491667
+            lng: -101.5611
+            alt: 1918
+          inZone:
+          - true
+          - false
+      - inter:
+          fixFrac: 9699.552562103625
+          time: 2019-08-14T23:07:45.552562103624Z
+          lat: 32.54796447
+          lng: -102.01322367
+          alt: 1874.45
+        cross:
+          crossingPair:
+          - fix: 9699
+            time: 2019-08-14T23:07:45Z
+            lat: 32.5479
+            lng: -102.01315
+            alt: 1875
+          - fix: 9700
+            time: 2019-08-14T23:07:46Z
+            lat: 32.54801667
+            lng: -102.01328333
+            alt: 1874
+          inZone:
+          - false
+          - true
+      - inter:
+          fixFrac: 14512.371595790295
+          time: 2019-08-15T00:27:58.371595790295Z
+          lat: 32.67566475
+          lng: -102.63730338
+          alt: 1259.89
+        cross:
+          crossingPair:
+          - fix: 14512
+            time: 2019-08-15T00:27:58Z
+            lat: 32.67568333
+            lng: -102.63721667
+            alt: 1261
+          - fix: 14513
+            time: 2019-08-15T00:27:59Z
+            lat: 32.67563333
+            lng: -102.63745
+            alt: 1258
+          inZone:
+          - false
+          - true
+  - - - '108'
+      - Gary Anderson
+    - zonesTag:
+      - inter:
+          fixFrac: 260.69303050522586
+          time: 2019-08-14T19:26:28.693030505225Z
+          lat: 32.21415263
+          lng: -101.52618713
+          alt: 1077.77
+        cross:
+          crossingPair:
+          - fix: 260
+            time: 2019-08-14T19:26:28Z
+            lat: 32.21408333
+            lng: -101.52623333
+            alt: 1075
+          - fix: 261
+            time: 2019-08-14T19:26:29Z
+            lat: 32.21418333
+            lng: -101.52616667
+            alt: 1079
+          inZone:
+          - false
+          - true
+      - null
+      - null
+      - null
+  - - - '110'
+      - Kevin Carter
+    - zonesTag:
+      - null
+      - inter:
+          fixFrac: 3211.5599490011687
+          time: 2019-08-14T20:00:30.559949001168Z
+          lat: 32.18375599
+          lng: -101.57326533
+          alt: 1669.76
+        cross:
+          crossingPair:
+          - fix: 3211
+            time: 2019-08-14T20:00:30Z
+            lat: 32.1837
+            lng: -101.5732
+            alt: 1672
+          - fix: 3212
+            time: 2019-08-14T20:00:31Z
+            lat: 32.1838
+            lng: -101.57331667
+            alt: 1668
+          inZone:
+          - true
+          - false
+      - null
+      - null
+  - - - '114'
+      - Kinsley Sykes
+    - null
+  - - - '112'
+      - Nathan Wreyford
+    - zonesTag:
+      - null
+      - null
+      - null
+      - null
+  - - - '109'
+      - Rich Reinauer
+    - zonesTag:
+      - inter:
+          fixFrac: 88.37507561067667
+          time: 2019-08-14T19:26:41.375075610676Z
+          lat: 32.21407084
+          lng: -101.52397292
+          alt: 776.75
+        cross:
+          crossingPair:
+          - fix: 88
+            time: 2019-08-14T19:26:41Z
+            lat: 32.21403333
+            lng: -101.52396667
+            alt: 776
+          - fix: 89
+            time: 2019-08-14T19:26:42Z
+            lat: 32.21413333
+            lng: -101.52398333
+            alt: 778
+          inZone:
+          - false
+          - true
+      - null
+      - null
+      - null
+  - - - '113'
+      - Rodolfo Gotes
+    - zonesTag:
+      - null
+      - inter:
+          fixFrac: 2912.3485890168754
+          time: 2019-08-14T20:00:09.348589016875Z
+          lat: 32.18346162
+          lng: -101.57316391
+          alt: 1751
+        cross:
+          crossingPair:
+          - fix: 2912
+            time: 2019-08-14T20:00:09Z
+            lat: 32.18345
+            lng: -101.5731
+            alt: 1751
+          - fix: 2913
+            time: 2019-08-14T20:00:10Z
+            lat: 32.18348333
+            lng: -101.57328333
+            alt: 1751
+          inZone:
+          - true
+          - false
+      - inter:
+          fixFrac: 12379.054401156833
+          time: 2019-08-14T22:37:56.054401156833Z
+          lat: 32.54590635
+          lng: -102.01782483
+          alt: 2893.89
+        cross:
+          crossingPair:
+          - fix: 12379
+            time: 2019-08-14T22:37:56Z
+            lat: 32.5459
+            lng: -102.01781667
+            alt: 2894
+          - fix: 12380
+            time: 2019-08-14T22:37:57Z
+            lat: 32.54601667
+            lng: -102.01796667
+            alt: 2892
+          inZone:
+          - false
+          - true
+      - inter:
+          fixFrac: 16865.811496517897
+          time: 2019-08-14T23:52:44.811496517898Z
+          lat: 32.67169057
+          lng: -102.63579441
+          alt: 1337.13
+        cross:
+          crossingPair:
+          - fix: 16865
+            time: 2019-08-14T23:52:44Z
+            lat: 32.67165
+            lng: -102.63548333
+            alt: 1342
+          - fix: 16866
+            time: 2019-08-14T23:52:45Z
+            lat: 32.6717
+            lng: -102.63586667
+            alt: 1336
+          inZone:
+          - false
+          - true
+  - - - '116'
+      - Roger Irby
+    - zonesTag:
+      - inter:
+          fixFrac: 81.31370060668894
+          time: 2019-08-14T19:21:39.313700606688Z
+          lat: 32.21399183
+          lng: -101.52463236
+          alt: 819.31
+        cross:
+          crossingPair:
+          - fix: 81
+            time: 2019-08-14T19:21:39Z
+            lat: 32.21395
+            lng: -101.52461667
+            alt: 819
+          - fix: 82
+            time: 2019-08-14T19:21:40Z
+            lat: 32.21408333
+            lng: -101.52466667
+            alt: 820
+          inZone:
+          - false
+          - true
+      - null
+      - null
+      - null
+  - - - '107'
+      - Tom McGowan
+    - zonesTag:
+      - null
+      - null
+      - null
+      - null
+  - - - '102'
+      - Vic Hare
+    - zonesTag:
+      - null
+      - inter:
+          fixFrac: 3749.262136551423
+          time: 2019-08-14T20:00:22.262136551422Z
+          lat: 32.18260515
+          lng: -101.57286394
+          alt: 1742
+        cross:
+          crossingPair:
+          - fix: 3749
+            time: 2019-08-14T20:00:22Z
+            lat: 32.18258333
+            lng: -101.57283333
+            alt: 1742
+          - fix: 3750
+            time: 2019-08-14T20:00:23Z
+            lat: 32.18266667
+            lng: -101.57295
+            alt: 1742
+          inZone:
+          - true
+          - false
+      - null
+      - null
+  - - - '104'
+      - Willy Dydo
+    - zonesTag:
+      - inter:
+          fixFrac: 2091.4715636562923
+          time: 2019-08-14T19:50:06.471563656292Z
+          lat: 32.21398835
+          lng: -101.52509119
+          alt: 1313.11
+        cross:
+          crossingPair:
+          - fix: 2091
+            time: 2019-08-14T19:50:06Z
+            lat: 32.21393333
+            lng: -101.52508333
+            alt: 1315
+          - fix: 2092
+            time: 2019-08-14T19:50:07Z
+            lat: 32.21405
+            lng: -101.5251
+            alt: 1311
+          inZone:
+          - false
+          - true
+      - inter:
+          fixFrac: 3157.8930800082558
+          time: 2019-08-14T20:07:52.893080008255Z
+          lat: 32.18900423
+          lng: -101.57493215
+          alt: 1628.11
+        cross:
+          crossingPair:
+          - fix: 3157
+            time: 2019-08-14T20:07:52Z
+            lat: 32.1889
+            lng: -101.57478333
+            alt: 1629
+          - fix: 3158
+            time: 2019-08-14T20:07:53Z
+            lat: 32.18901667
+            lng: -101.57495
+            alt: 1628
+          inZone:
+          - true
+          - false
+      - null
+      - null
+- - - - '103'
+      - ! 'Antonio  Mendoza '
+    - zonesTag:
+      - inter:
+          fixFrac: 4549.477619254637
+          time: 2019-08-15T18:21:01.477619254636Z
+          lat: 32.21414702
+          lng: -101.52363408
+          alt: 1012.48
+        cross:
+          crossingPair:
+          - fix: 4549
+            time: 2019-08-15T18:21:01Z
+            lat: 32.21408333
+            lng: -101.52365
+            alt: 1012
+          - fix: 4550
+            time: 2019-08-15T18:21:02Z
+            lat: 32.21421667
+            lng: -101.52361667
+            alt: 1013
+          inZone:
+          - false
+          - true
+      - null
+      - null
+      - null
+      - null
+  - - - '106'
+      - Bruce Barmakian
+    - zonesTag:
+      - null
+      - inter:
+          fixFrac: 3054.8229793000446
+          time: 2019-08-15T18:30:31.822979300044Z
+          lat: 32.25774307
+          lng: -101.54943716
+          alt: 2169.35
+        cross:
+          crossingPair:
+          - fix: 3054
+            time: 2019-08-15T18:30:31Z
+            lat: 32.25763333
+            lng: -101.5493
+            alt: 2171
+          - fix: 3055
+            time: 2019-08-15T18:30:32Z
+            lat: 32.25776667
+            lng: -101.54946667
+            alt: 2169
+          inZone:
+          - true
+          - false
+      - inter:
+          fixFrac: 6257.549128008838
+          time: 2019-08-15T19:23:54.549128008838Z
+          lat: 32.52174413
+          lng: -101.64120067
+          alt: 1922.45
+        cross:
+          crossingPair:
+          - fix: 6257
+            time: 2019-08-15T19:23:54Z
+            lat: 32.52171667
+            lng: -101.6411
+            alt: 1923
+          - fix: 6258
+            time: 2019-08-15T19:23:55Z
+            lat: 32.52176667
+            lng: -101.64128333
+            alt: 1922
+          inZone:
+          - false
+          - true
+      - inter:
+          fixFrac: 7575.147772993797
+          time: 2019-08-15T19:45:52.147772993796Z
+          lat: 32.47990058
+          lng: -101.51475871
+          alt: 2288.85
+        cross:
+          crossingPair:
+          - fix: 7575
+            time: 2019-08-15T19:45:52Z
+            lat: 32.47988333
+            lng: -101.51478333
+            alt: 2289
+          - fix: 7576
+            time: 2019-08-15T19:45:53Z
+            lat: 32.48
+            lng: -101.51461667
+            alt: 2288
+          inZone:
+          - false
+          - true
+      - inter:
+          fixFrac: 9970.418496755716
+          time: 2019-08-15T20:25:47.418496755715Z
+          lat: 32.22121358
+          lng: -101.52503062
+          alt: 896.16
+        cross:
+          crossingPair:
+          - fix: 9970
+            time: 2019-08-15T20:25:47Z
+            lat: 32.22128333
+            lng: -101.52501667
+            alt: 897
+          - fix: 9971
+            time: 2019-08-15T20:25:48Z
+            lat: 32.22111667
+            lng: -101.52505
+            alt: 895
+          inZone:
+          - false
+          - true
+  - - - '105'
+      - David Proctor
+    - zonesTag:
+      - inter:
+          fixFrac: 1557.5965669832851
+          time: 2019-08-15T18:17:25.596566983285Z
+          lat: 32.2140927
+          lng: -101.52386345
+          alt: 970.6
+        cross:
+          crossingPair:
+          - fix: 1557
+            time: 2019-08-15T18:17:25Z
+            lat: 32.21398333
+            lng: -101.52388333
+            alt: 970
+          - fix: 1558
+            time: 2019-08-15T18:17:26Z
+            lat: 32.21416667
+            lng: -101.52385
+            alt: 971
+          inZone:
+          - false
+          - true
+      - null
+      - null
+      - null
+      - null
+  - - - '101'
+      - Davis Straub
+    - zonesTag:
+      - null
+      - inter:
+          fixFrac: 3816.087070931665
+          time: 2019-08-15T18:45:30.087070931665Z
+          lat: 32.26179784
+          lng: -101.53603915
+          alt: 1721.74
+        cross:
+          crossingPair:
+          - fix: 3816
+            time: 2019-08-15T18:45:30Z
+            lat: 32.26178333
+            lng: -101.53603333
+            alt: 1722
+          - fix: 3817
+            time: 2019-08-15T18:45:31Z
+            lat: 32.26195
+            lng: -101.5361
+            alt: 1719
+          inZone:
+          - true
+          - false
+      - inter:
+          fixFrac: 7057.776860488133
+          time: 2019-08-15T19:39:31.776860488133Z
+          lat: 32.4971037
+          lng: -101.64955165
+          alt: 2068.78
+        cross:
+          crossingPair:
+          - fix: 7057
+            time: 2019-08-15T19:39:31Z
+            lat: 32.49711667
+            lng: -101.64938333
+            alt: 2068
+          - fix: 7058
+            time: 2019-08-15T19:39:32Z
+            lat: 32.4971
+            lng: -101.6496
+            alt: 2069
+          inZone:
+          - false
+          - true
+      - inter:
+          fixFrac: 8135.280211406863
+          time: 2019-08-15T19:57:29.280211406863Z
+          lat: 32.49316867
+          lng: -101.54199661
+          alt: 2350.44
+        cross:
+          crossingPair:
+          - fix: 8135
+            time: 2019-08-15T19:57:29Z
+            lat: 32.49315
+            lng: -101.54206667
+            alt: 2351
+          - fix: 8136
+            time: 2019-08-15T19:57:30Z
+            lat: 32.49321667
+            lng: -101.54181667
+            alt: 2349
+          inZone:
+          - false
+          - true
+      - inter:
+          fixFrac: 11008.871742474319
+          time: 2019-08-15T20:45:22.871742474319Z
+          lat: 32.22098591
+          lng: -101.52340214
+          alt: 894.38
+        cross:
+          crossingPair:
+          - fix: 11008
+            time: 2019-08-15T20:45:22Z
+            lat: 32.22111667
+            lng: -101.52341667
+            alt: 897
+          - fix: 11009
+            time: 2019-08-15T20:45:23Z
+            lat: 32.22096667
+            lng: -101.5234
+            alt: 894
+          inZone:
+          - false
+          - true
+  - - - '111'
+      - Eduardo Panuco
+    - zonesTag:
+      - null
+      - inter:
+          fixFrac: 5072.802769250476
+          time: 2019-08-15T18:22:46.802769250475Z
+          lat: 32.26072041
+          lng: -101.54088685
+          alt: 1200.2
+        cross:
+          crossingPair:
+          - fix: 5072
+            time: 2019-08-15T18:22:46Z
+            lat: 32.2606
+            lng: -101.54083333
+            alt: 1201
+          - fix: 5073
+            time: 2019-08-15T18:22:47Z
+            lat: 32.26075
+            lng: -101.5409
+            alt: 1200
+          inZone:
+          - true
+          - false
+      - null
+      - null
+      - null
+  - - - '115'
+      - Erick Salgado
+    - zonesTag:
+      - null
+      - inter:
+          fixFrac: 4685.9687343879
+          time: 2019-08-15T18:18:54.9687343879Z
+          lat: 32.26264531
+          lng: -101.52061458
+          alt: 2257.06
+        cross:
+          crossingPair:
+          - fix: 4685
+            time: 2019-08-15T18:18:54Z
+            lat: 32.2625
+            lng: -101.52055
+            alt: 2259
+          - fix: 4686
+            time: 2019-08-15T18:18:55Z
+            lat: 32.26265
+            lng: -101.52061667
+            alt: 2257
+          inZone:
+          - true
+          - false
+      - inter:
+          fixFrac: 8019.066781759534
+          time: 2019-08-15T19:14:28.066781759533Z
+          lat: 32.5059878
+          lng: -101.64502556
+          alt: 1674.93
+        cross:
+          crossingPair:
+          - fix: 8019
+            time: 2019-08-15T19:14:28Z
+            lat: 32.50598333
+            lng: -101.64501667
+            alt: 1675
+          - fix: 8020
+            time: 2019-08-15T19:14:29Z
+            lat: 32.50605
+            lng: -101.64515
+            alt: 1674
+          inZone:
+          - false
+          - true
+      - inter:
+          fixFrac: 9642.316020378526
+          time: 2019-08-15T19:41:31.316020378526Z
+          lat: 32.48595612
+          lng: -101.53049207
+          alt: 2112.68
+        cross:
+          crossingPair:
+          - fix: 9642
+            time: 2019-08-15T19:41:31Z
+            lat: 32.48596667
+            lng: -101.53055
+            alt: 2113
+          - fix: 9643
+            time: 2019-08-15T19:41:32Z
+            lat: 32.48593333
+            lng: -101.53036667
+            alt: 2112
+          inZone:
+          - false
+          - true
+      - inter:
+          fixFrac: 12432.968037505669
+          time: 2019-08-15T20:28:01.968037505668Z
+          lat: 32.22057253
+          lng: -101.52246774
+          alt: 1019.06
+        cross:
+          crossingPair:
+          - fix: 12432
+            time: 2019-08-15T20:28:01Z
+            lat: 32.22075
+            lng: -101.5225
+            alt: 1021
+          - fix: 12433
+            time: 2019-08-15T20:28:02Z
+            lat: 32.22056667
+            lng: -101.52246667
+            alt: 1019
+          inZone:
+          - false
+          - true
+  - - - '108'
+      - Gary Anderson
+    - zonesTag:
+      - null
+      - inter:
+          fixFrac: 2644.300203888627
+          time: 2019-08-15T18:32:05.300203888627Z
+          lat: 32.26141004
+          lng: -101.51179332
+          alt: 2165.4
+        cross:
+          crossingPair:
+          - fix: 2644
+            time: 2019-08-15T18:32:05Z
+            lat: 32.26135
+            lng: -101.51178333
+            alt: 2166
+          - fix: 2645
+            time: 2019-08-15T18:32:06Z
+            lat: 32.26155
+            lng: -101.51181667
+            alt: 2164
+          inZone:
+          - true
+          - false
+      - inter:
+          fixFrac: 6795.298611351112
+          time: 2019-08-15T19:41:16.298611351112Z
+          lat: 32.49622164
+          lng: -101.65010972
+          alt: 2185.7
+        cross:
+          crossingPair:
+          - fix: 6795
+            time: 2019-08-15T19:41:16Z
+            lat: 32.49621667
+            lng: -101.65005
+            alt: 2186
+          - fix: 6796
+            time: 2019-08-15T19:41:17Z
+            lat: 32.49623333
+            lng: -101.65025
+            alt: 2185
+          inZone:
+          - false
+          - true
+      - inter:
+          fixFrac: 8998.128292963696
+          time: 2019-08-15T20:17:59.128292963695Z
+          lat: 32.47728805
+          lng: -101.50066457
+          alt: 2692.26
+        cross:
+          crossingPair:
+          - fix: 8998
+            time: 2019-08-15T20:17:59Z
+            lat: 32.47726667
+            lng: -101.50066667
+            alt: 2692
+          - fix: 8999
+            time: 2019-08-15T20:18:00Z
+            lat: 32.47743333
+            lng: -101.50065
+            alt: 2694
+          inZone:
+          - false
+          - true
+      - inter:
+          fixFrac: 12392.528776185627
+          time: 2019-08-15T21:14:33.528776185627Z
+          lat: 32.22116379
+          lng: -101.52561858
+          alt: 992.41
+        cross:
+          crossingPair:
+          - fix: 12392
+            time: 2019-08-15T21:14:33Z
+            lat: 32.22121667
+            lng: -101.52558333
+            alt: 994
+          - fix: 12393
+            time: 2019-08-15T21:14:34Z
+            lat: 32.22111667
+            lng: -101.52565
+            alt: 991
+          inZone:
+          - false
+          - true
+  - - - '110'
+      - Kevin Carter
+    - null
+  - - - '114'
+      - Kinsley Sykes
+    - zonesTag:
+      - inter:
+          fixFrac: 311.63795240982404
+          time: 2019-08-15T18:08:30.637952409824Z
+          lat: 32.21714396
+          lng: -101.52913908
+          alt: 879.36
+        cross:
+          crossingPair:
+          - fix: 311
+            time: 2019-08-15T18:08:30Z
+            lat: 32.21713333
+            lng: -101.52926667
+            alt: 880
+          - fix: 312
+            time: 2019-08-15T18:08:31Z
+            lat: 32.21715
+            lng: -101.52906667
+            alt: 879
+          inZone:
+          - false
+          - true
+      - null
+      - null
+      - null
+      - null
+  - - - '112'
+      - Nathan Wreyford
+    - zonesTag:
+      - inter:
+          fixFrac: 2755.742424443222
+          time: 2019-08-15T18:10:33.742424443221Z
+          lat: 32.21751237
+          lng: -101.52917197
+          alt: 1924.03
+        cross:
+          crossingPair:
+          - fix: 2755
+            time: 2019-08-15T18:10:33Z
+            lat: 32.2175
+            lng: -101.52928333
+            alt: 1927
+          - fix: 2756
+            time: 2019-08-15T18:10:34Z
+            lat: 32.21751667
+            lng: -101.52913333
+            alt: 1923
+          inZone:
+          - false
+          - true
+      - inter:
+          fixFrac: 4078.9346725279825
+          time: 2019-08-15T18:32:36.934672527982Z
+          lat: 32.2619036
+          lng: -101.51436449
+          alt: 2218
+        cross:
+          crossingPair:
+          - fix: 4078
+            time: 2019-08-15T18:32:36Z
+            lat: 32.26171667
+            lng: -101.51433333
+            alt: 2218
+          - fix: 4079
+            time: 2019-08-15T18:32:37Z
+            lat: 32.26191667
+            lng: -101.51436667
+            alt: 2218
+          inZone:
+          - true
+          - false
+      - inter:
+          fixFrac: 7878.473566805302
+          time: 2019-08-15T19:35:56.473566805302Z
+          lat: 32.49571842
+          lng: -101.6504377
+          alt: 2299.95
+        cross:
+          crossingPair:
+          - fix: 7878
+            time: 2019-08-15T19:35:56Z
+            lat: 32.49575
+            lng: -101.65036667
+            alt: 2299
+          - fix: 7879
+            time: 2019-08-15T19:35:57Z
+            lat: 32.49568333
+            lng: -101.65051667
+            alt: 2301
+          inZone:
+          - false
+          - true
+      - inter:
+          fixFrac: 8696.736321041426
+          time: 2019-08-15T19:49:34.736321041426Z
+          lat: 32.50668153
+          lng: -101.55539307
+          alt: 2036.53
+        cross:
+          crossingPair:
+          - fix: 8696
+            time: 2019-08-15T19:49:34Z
+            lat: 32.50658333
+            lng: -101.55546667
+            alt: 2038
+          - fix: 8697
+            time: 2019-08-15T19:49:35Z
+            lat: 32.50671667
+            lng: -101.55536667
+            alt: 2036
+          inZone:
+          - false
+          - true
+      - inter:
+          fixFrac: 12618.206326516205
+          time: 2019-08-15T20:54:56.206326516205Z
+          lat: 32.22118916
+          lng: -101.5243873
+          alt: 1026.38
+        cross:
+          crossingPair:
+          - fix: 12618
+            time: 2019-08-15T20:54:56Z
+            lat: 32.22121667
+            lng: -101.52436667
+            alt: 1027
+          - fix: 12619
+            time: 2019-08-15T20:54:57Z
+            lat: 32.22108333
+            lng: -101.52446667
+            alt: 1024
+          inZone:
+          - false
+          - true
+  - - - '109'
+      - Rich Reinauer
+    - zonesTag:
+      - null
+      - inter:
+          fixFrac: 5418.551845818792
+          time: 2019-08-15T18:19:54.551845818791Z
+          lat: 32.2607253
+          lng: -101.54086841
+          alt: 1840
+        cross:
+          crossingPair:
+          - fix: 5418
+            time: 2019-08-15T18:19:54Z
+            lat: 32.26063333
+            lng: -101.54085
+            alt: 1840
+          - fix: 5419
+            time: 2019-08-15T18:19:55Z
+            lat: 32.2608
+            lng: -101.54088333
+            alt: 1840
+          inZone:
+          - true
+          - false
+      - inter:
+          fixFrac: 8595.622990017257
+          time: 2019-08-15T19:12:51.622990017256Z
+          lat: 32.48363089
+          lng: -101.66078112
+          alt: 1749.75
+        cross:
+          crossingPair:
+          - fix: 8595
+            time: 2019-08-15T19:12:51Z
+            lat: 32.48351667
+            lng: -101.66075
+            alt: 1751
+          - fix: 8596
+            time: 2019-08-15T19:12:52Z
+            lat: 32.4837
+            lng: -101.6608
+            alt: 1749
+          inZone:
+          - false
+          - true
+      - inter:
+          fixFrac: 9789.434851858201
+          time: 2019-08-15T19:32:45.4348518582Z
+          lat: 32.52384711
+          lng: -101.5642036
+          alt: 1573.43
+        cross:
+          crossingPair:
+          - fix: 9789
+            time: 2019-08-15T19:32:45Z
+            lat: 32.52388333
+            lng: -101.56428333
+            alt: 1573
+          - fix: 9790
+            time: 2019-08-15T19:32:46Z
+            lat: 32.5238
+            lng: -101.5641
+            alt: 1574
+          inZone:
+          - false
+          - true
+      - inter:
+          fixFrac: 15186.031012319754
+          time: 2019-08-15T21:02:42.031012319754Z
+          lat: 32.22114587
+          lng: -101.52573333
+          alt: 1235.94
+        cross:
+          crossingPair:
+          - fix: 15186
+            time: 2019-08-15T21:02:42Z
+            lat: 32.22115
+            lng: -101.52573333
+            alt: 1236
+          - fix: 15187
+            time: 2019-08-15T21:02:43Z
+            lat: 32.22101667
+            lng: -101.52573333
+            alt: 1234
+          inZone:
+          - false
+          - true
+  - - - '113'
+      - Rodolfo Gotes
+    - zonesTag:
+      - inter:
+          fixFrac: 3575.203650651458
+          time: 2019-08-15T18:29:14.203650651457Z
+          lat: 32.21876328
+          lng: -101.52894599
+          alt: 1407.8
+        cross:
+          crossingPair:
+          - fix: 3575
+            time: 2019-08-15T18:29:14Z
+            lat: 32.21876667
+            lng: -101.52898333
+            alt: 1408
+          - fix: 3576
+            time: 2019-08-15T18:29:15Z
+            lat: 32.21875
+            lng: -101.5288
+            alt: 1407
+          inZone:
+          - false
+          - true
+      - inter:
+          fixFrac: 4677.69918464548
+          time: 2019-08-15T18:47:36.69918464548Z
+          lat: 32.26138821
+          lng: -101.53810825
+          alt: 1356.6
+        cross:
+          crossingPair:
+          - fix: 4677
+            time: 2019-08-15T18:47:36Z
+            lat: 32.26128333
+            lng: -101.53805
+            alt: 1358
+          - fix: 4678
+            time: 2019-08-15T18:47:37Z
+            lat: 32.26143333
+            lng: -101.53813333
+            alt: 1356
+          inZone:
+          - true
+          - false
+      - inter:
+          fixFrac: 7625.1286997409625
+          time: 2019-08-15T19:36:44.128699740962Z
+          lat: 32.49656451
+          lng: -101.64989026
+          alt: 2341.13
+        cross:
+          crossingPair:
+          - fix: 7625
+            time: 2019-08-15T19:36:44Z
+            lat: 32.49656667
+            lng: -101.64986667
+            alt: 2341
+          - fix: 7626
+            time: 2019-08-15T19:36:45Z
+            lat: 32.49655
+            lng: -101.65005
+            alt: 2342
+          inZone:
+          - false
+          - true
+      - inter:
+          fixFrac: 8263.34053108657
+          time: 2019-08-15T19:47:22.340531086569Z
+          lat: 32.5053791
+          lng: -101.55440534
+          alt: 1673.04
+        cross:
+          crossingPair:
+          - fix: 8263
+            time: 2019-08-15T19:47:22Z
+            lat: 32.50531667
+            lng: -101.55441667
+            alt: 1671
+          - fix: 8264
+            time: 2019-08-15T19:47:23Z
+            lat: 32.5055
+            lng: -101.55438333
+            alt: 1677
+          inZone:
+          - false
+          - true
+      - inter:
+          fixFrac: 11478.04654355346
+          time: 2019-08-15T20:40:57.04654355346Z
+          lat: 32.22120736
+          lng: -101.52461744
+          alt: 857.91
+        cross:
+          crossingPair:
+          - fix: 11478
+            time: 2019-08-15T20:40:57Z
+            lat: 32.22121667
+            lng: -101.52461667
+            alt: 858
+          - fix: 11479
+            time: 2019-08-15T20:40:58Z
+            lat: 32.22101667
+            lng: -101.52463333
+            alt: 856
+          inZone:
+          - false
+          - true
+  - - - '116'
+      - Roger Irby
+    - zonesTag:
+      - null
+      - inter:
+          fixFrac: 4079.7981054110305
+          time: 2019-08-15T18:52:54.79810541103Z
+          lat: 32.26112965
+          lng: -101.53925322
+          alt: 2074.2
+        cross:
+          crossingPair:
+          - fix: 4079
+            time: 2019-08-15T18:52:54Z
+            lat: 32.26098333
+            lng: -101.5392
+            alt: 2075
+          - fix: 4080
+            time: 2019-08-15T18:52:55Z
+            lat: 32.26116667
+            lng: -101.53926667
+            alt: 2074
+          inZone:
+          - true
+          - false
+      - inter:
+          fixFrac: 6624.965979037599
+          time: 2019-08-15T19:35:19.965979037599Z
+          lat: 32.488561
+          lng: -101.65593164
+          alt: 1060.9
+        cross:
+          crossingPair:
+          - fix: 6624
+            time: 2019-08-15T19:35:19Z
+            lat: 32.4884
+            lng: -101.65588333
+            alt: 1058
+          - fix: 6625
+            time: 2019-08-15T19:35:20Z
+            lat: 32.48856667
+            lng: -101.65593333
+            alt: 1061
+          inZone:
+          - false
+          - true
+      - inter:
+          fixFrac: 7954.168406129415
+          time: 2019-08-15T19:57:29.168406129415Z
+          lat: 32.48601106
+          lng: -101.53059965
+          alt: 917.66
+        cross:
+          crossingPair:
+          - fix: 7954
+            time: 2019-08-15T19:57:29Z
+            lat: 32.48601667
+            lng: -101.53063333
+            alt: 918
+          - fix: 7955
+            time: 2019-08-15T19:57:30Z
+            lat: 32.48598333
+            lng: -101.53043333
+            alt: 916
+          inZone:
+          - false
+          - true
+      - null
+  - - - '107'
+      - Tom McGowan
+    - zonesTag:
+      - null
+      - inter:
+          fixFrac: 5072.340768840179
+          time: 2019-08-15T18:52:33.340768840179Z
+          lat: 32.26186778
+          lng: -101.51415607
+          alt: 1653.32
+        cross:
+          crossingPair:
+          - fix: 5072
+            time: 2019-08-15T18:52:33Z
+            lat: 32.26181667
+            lng: -101.51413333
+            alt: 1654
+          - fix: 5073
+            time: 2019-08-15T18:52:34Z
+            lat: 32.26196667
+            lng: -101.5142
+            alt: 1652
+          inZone:
+          - true
+          - false
+      - inter:
+          fixFrac: 9512.688407732137
+          time: 2019-08-15T20:06:33.688407732138Z
+          lat: 32.47579807
+          lng: -101.6710489
+          alt: 1481.62
+        cross:
+          crossingPair:
+          - fix: 9512
+            time: 2019-08-15T20:06:33Z
+            lat: 32.47568333
+            lng: -101.67108333
+            alt: 1483
+          - fix: 9513
+            time: 2019-08-15T20:06:34Z
+            lat: 32.47585
+            lng: -101.67103333
+            alt: 1481
+          inZone:
+          - false
+          - true
+      - inter:
+          fixFrac: 10656.531398022413
+          time: 2019-08-15T20:25:45.531398022411Z
+          lat: 32.48289896
+          lng: -101.52373696
+          alt: 1423.53
+        cross:
+          crossingPair:
+          - fix: 10656
+            time: 2019-08-15T20:25:45Z
+            lat: 32.48291667
+            lng: -101.52381667
+            alt: 1423
+          - fix: 10657
+            time: 2019-08-15T20:25:46Z
+            lat: 32.48288333
+            lng: -101.52366667
+            alt: 1424
+          inZone:
+          - false
+          - true
+      - null
+  - - - '102'
+      - Vic Hare
+    - null
+  - - - '104'
+      - Willy Dydo
+    - null
+- - - - '103'
+      - ! 'Antonio  Mendoza '
+    - null
+  - - - '106'
+      - Bruce Barmakian
+    - null
+  - - - '105'
+      - David Proctor
+    - null
+  - - - '101'
+      - Davis Straub
+    - null
+  - - - '111'
+      - Eduardo Panuco
+    - null
+  - - - '115'
+      - Erick Salgado
+    - null
+  - - - '108'
+      - Gary Anderson
+    - null
+  - - - '110'
+      - Kevin Carter
+    - null
+  - - - '114'
+      - Kinsley Sykes
+    - null
+  - - - '112'
+      - Nathan Wreyford
+    - null
+  - - - '109'
+      - Rich Reinauer
+    - null
+  - - - '113'
+      - Rodolfo Gotes
+    - null
+  - - - '116'
+      - Roger Irby
+    - null
+  - - - '107'
+      - Tom McGowan
+    - null
+  - - - '102'
+      - Vic Hare
+    - null
+  - - - '104'
+      - Willy Dydo
+    - null
+- - - - '103'
+      - ! 'Antonio  Mendoza '
+    - zonesTag:
+      - null
+      - inter:
+          fixFrac: 8430.79516268413
+          time: 2019-08-17T20:21:46.795162684128Z
+          lat: 32.26260562
+          lng: -101.52973333
+          alt: 2039.8
+        cross:
+          crossingPair:
+          - fix: 8430
+            time: 2019-08-17T20:21:46Z
+            lat: 32.26243333
+            lng: -101.52973333
+            alt: 2039
+          - fix: 8431
+            time: 2019-08-17T20:21:47Z
+            lat: 32.26265
+            lng: -101.52973333
+            alt: 2040
+          inZone:
+          - true
+          - false
+      - inter:
+          fixFrac: 10016.478694906898
+          time: 2019-08-17T20:48:12.478694906898Z
+          lat: 32.40878192
+          lng: -101.57547978
+          alt: 1916.52
+        cross:
+          crossingPair:
+          - fix: 10016
+            time: 2019-08-17T20:48:12Z
+            lat: 32.40875
+            lng: -101.5754
+            alt: 1917
+          - fix: 10017
+            time: 2019-08-17T20:48:13Z
+            lat: 32.40881667
+            lng: -101.57556667
+            alt: 1916
+          inZone:
+          - false
+          - true
+      - null
+      - null
+  - - - '106'
+      - Bruce Barmakian
+    - zonesTag:
+      - inter:
+          fixFrac: 1752.7467301545712
+          time: 2019-08-17T19:49:24.746730154571Z
+          lat: 32.21442045
+          lng: -101.52286623
+          alt: 2269.75
+        cross:
+          crossingPair:
+          - fix: 1752
+            time: 2019-08-17T19:49:24Z
+            lat: 32.21433333
+            lng: -101.52276667
+            alt: 2269
+          - fix: 1753
+            time: 2019-08-17T19:49:25Z
+            lat: 32.21445
+            lng: -101.5229
+            alt: 2270
+          inZone:
+          - false
+          - true
+      - inter:
+          fixFrac: 2102.0116620363474
+          time: 2019-08-17T19:55:14.011662036347Z
+          lat: 32.26165214
+          lng: -101.53681862
+          alt: 2115.99
+        cross:
+          crossingPair:
+          - fix: 2102
+            time: 2019-08-17T19:55:14Z
+            lat: 32.26165
+            lng: -101.53681667
+            alt: 2116
+          - fix: 2103
+            time: 2019-08-17T19:55:15Z
+            lat: 32.26183333
+            lng: -101.53698333
+            alt: 2115
+          inZone:
+          - true
+          - false
+      - inter:
+          fixFrac: 3880.748711066966
+          time: 2019-08-17T20:24:52.748711066965Z
+          lat: 32.41692505
+          lng: -101.57269145
+          alt: 2876.25
+        cross:
+          crossingPair:
+          - fix: 3880
+            time: 2019-08-17T20:24:52Z
+            lat: 32.41695
+            lng: -101.57256667
+            alt: 2877
+          - fix: 3881
+            time: 2019-08-17T20:24:53Z
+            lat: 32.41691667
+            lng: -101.57273333
+            alt: 2876
+          inZone:
+          - false
+          - true
+      - inter:
+          fixFrac: 9202.015425905087
+          time: 2019-08-17T21:53:34.015425905086Z
+          lat: 32.2912659
+          lng: -101.76813101
+          alt: 3172
+        cross:
+          crossingPair:
+          - fix: 9202
+            time: 2019-08-17T21:53:34Z
+            lat: 32.29126667
+            lng: -101.76813333
+            alt: 3172
+          - fix: 9203
+            time: 2019-08-17T21:53:35Z
+            lat: 32.29121667
+            lng: -101.76798333
+            alt: 3172
+          inZone:
+          - false
+          - true
+      - inter:
+          fixFrac: 10463.13630382876
+          time: 2019-08-17T22:14:35.13630382876Z
+          lat: 32.21938637
+          lng: -101.52861516
+          alt: 1113.73
+        cross:
+          crossingPair:
+          - fix: 10463
+            time: 2019-08-17T22:14:35Z
+            lat: 32.2194
+            lng: -101.52863333
+            alt: 1114
+          - fix: 10464
+            time: 2019-08-17T22:14:36Z
+            lat: 32.2193
+            lng: -101.5285
+            alt: 1112
+          inZone:
+          - false
+          - true
+  - - - '105'
+      - David Proctor
+    - zonesTag:
+      - null
+      - inter:
+          fixFrac: 1599.890327656661
+          time: 2019-08-17T20:14:19.89032765666Z
+          lat: 32.2627484
+          lng: -101.52721686
+          alt: 2281.33
+        cross:
+          crossingPair:
+          - fix: 1599
+            time: 2019-08-17T20:14:19Z
+            lat: 32.2626
+            lng: -101.52708333
+            alt: 2284
+          - fix: 1600
+            time: 2019-08-17T20:14:20Z
+            lat: 32.26276667
+            lng: -101.52723333
+            alt: 2281
+          inZone:
+          - true
+          - false
+      - inter:
+          fixFrac: 3510.186969821057
+          time: 2019-08-17T20:46:10.186969821057Z
+          lat: 32.40617384
+          lng: -101.58506043
+          alt: 1481.75
+        cross:
+          crossingPair:
+          - fix: 3510
+            time: 2019-08-17T20:46:10Z
+            lat: 32.40613333
+            lng: -101.58506667
+            alt: 1481
+          - fix: 3511
+            time: 2019-08-17T20:46:11Z
+            lat: 32.40635
+            lng: -101.58503333
+            alt: 1485
+          inZone:
+          - false
+          - true
+      - inter:
+          fixFrac: 7873.112184310788
+          time: 2019-08-17T21:58:53.112184310787Z
+          lat: 32.2826296
+          lng: -101.7524187
+          alt: 1766.55
+        cross:
+          crossingPair:
+          - fix: 7873
+            time: 2019-08-17T21:58:53Z
+            lat: 32.28263333
+            lng: -101.7524
+            alt: 1767
+          - fix: 7874
+            time: 2019-08-17T21:58:54Z
+            lat: 32.2826
+            lng: -101.75256667
+            alt: 1763
+          inZone:
+          - false
+          - true
+      - null
+  - - - '101'
+      - Davis Straub
+    - null
+  - - - '111'
+      - Eduardo Panuco
+    - zonesTag:
+      - null
+      - inter:
+          fixFrac: 8496.147931821435
+          time: 2019-08-17T20:12:14.147931821435Z
+          lat: 32.26061045
+          lng: -101.54129565
+          alt: 1359.56
+        cross:
+          crossingPair:
+          - fix: 8496
+            time: 2019-08-17T20:12:14Z
+            lat: 32.26058333
+            lng: -101.54128333
+            alt: 1360
+          - fix: 8497
+            time: 2019-08-17T20:12:15Z
+            lat: 32.26076667
+            lng: -101.54136667
+            alt: 1357
+          inZone:
+          - true
+          - false
+      - null
+      - null
+      - null
+  - - - '115'
+      - Erick Salgado
+    - zonesTag:
+      - inter:
+          fixFrac: 932.9676770486535
+          time: 2019-08-17T19:49:12.967677048653Z
+          lat: 32.21427687
+          lng: -101.52321721
+          alt: 2277.9
+        cross:
+          crossingPair:
+          - fix: 932
+            time: 2019-08-17T19:49:12Z
+            lat: 32.21408333
+            lng: -101.52323333
+            alt: 2275
+          - fix: 933
+            time: 2019-08-17T19:49:13Z
+            lat: 32.21428333
+            lng: -101.52321667
+            alt: 2278
+          inZone:
+          - false
+          - true
+      - inter:
+          fixFrac: 1290.3442963401965
+          time: 2019-08-17T19:55:10.344296340196Z
+          lat: 32.26207406
+          lng: -101.53437867
+          alt: 2129.34
+        cross:
+          crossingPair:
+          - fix: 1290
+            time: 2019-08-17T19:55:10Z
+            lat: 32.26201667
+            lng: -101.53435
+            alt: 2129
+          - fix: 1291
+            time: 2019-08-17T19:55:11Z
+            lat: 32.26218333
+            lng: -101.53443333
+            alt: 2130
+          inZone:
+          - true
+          - false
+      - inter:
+          fixFrac: 2673.6209552823457
+          time: 2019-08-17T20:18:13.620955282345Z
+          lat: 32.40608911
+          lng: -101.58437353
+          alt: 2103.48
+        cross:
+          crossingPair:
+          - fix: 2673
+            time: 2019-08-17T20:18:13Z
+            lat: 32.40601667
+            lng: -101.58446667
+            alt: 2101
+          - fix: 2674
+            time: 2019-08-17T20:18:14Z
+            lat: 32.40613333
+            lng: -101.58431667
+            alt: 2105
+          inZone:
+          - false
+          - true
+      - inter:
+          fixFrac: 6797.368895899709
+          time: 2019-08-17T21:26:57.368895899708Z
+          lat: 32.28591311
+          lng: -101.75284563
+          alt: 1971.89
+        cross:
+          crossingPair:
+          - fix: 6797
+            time: 2019-08-17T21:26:57Z
+            lat: 32.28595
+            lng: -101.75283333
+            alt: 1973
+          - fix: 6798
+            time: 2019-08-17T21:26:58Z
+            lat: 32.28585
+            lng: -101.75286667
+            alt: 1970
+          inZone:
+          - false
+          - true
+      - inter:
+          fixFrac: 8711.568014385066
+          time: 2019-08-17T21:58:51.568014385066Z
+          lat: 32.21958147
+          lng: -101.52847427
+          alt: 907.59
+        cross:
+          crossingPair:
+          - fix: 8711
+            time: 2019-08-17T21:58:51Z
+            lat: 32.21966667
+            lng: -101.52855
+            alt: 911
+          - fix: 8712
+            time: 2019-08-17T21:58:52Z
+            lat: 32.21951667
+            lng: -101.52841667
+            alt: 905
+          inZone:
+          - false
+          - true
+  - - - '108'
+      - Gary Anderson
+    - zonesTag:
+      - null
+      - inter:
+          fixFrac: 1948.3808060768222
+          time: 2019-08-17T20:09:14.380806076822Z
+          lat: 32.26031981
+          lng: -101.5074746
+          alt: 2648
+        cross:
+          crossingPair:
+          - fix: 1948
+            time: 2019-08-17T20:09:14Z
+            lat: 32.26025
+            lng: -101.5075
+            alt: 2648
+          - fix: 1949
+            time: 2019-08-17T20:09:15Z
+            lat: 32.26043333
+            lng: -101.50743333
+            alt: 2648
+          inZone:
+          - true
+          - false
+      - inter:
+          fixFrac: 3775.9510719592404
+          time: 2019-08-17T20:39:41.95107195924Z
+          lat: 32.40607355
+          lng: -101.58419755
+          alt: 2292.1
+        cross:
+          crossingPair:
+          - fix: 3775
+            time: 2019-08-17T20:39:41Z
+            lat: 32.40588333
+            lng: -101.58415
+            alt: 2294
+          - fix: 3776
+            time: 2019-08-17T20:39:42Z
+            lat: 32.40608333
+            lng: -101.5842
+            alt: 2292
+          inZone:
+          - false
+          - true
+      - null
+      - null
+  - - - '110'
+      - Kevin Carter
+    - zonesTag:
+      - inter:
+          fixFrac: 1631.9507168692505
+          time: 2019-08-17T18:43:05.95071686925Z
+          lat: 32.22008908
+          lng: -101.52799918
+          alt: 1450.7
+        cross:
+          crossingPair:
+          - fix: 1631
+            time: 2019-08-17T18:43:05Z
+            lat: 32.2202
+            lng: -101.52798333
+            alt: 1445
+          - fix: 1632
+            time: 2019-08-17T18:43:06Z
+            lat: 32.22008333
+            lng: -101.528
+            alt: 1451
+          inZone:
+          - false
+          - true
+      - inter:
+          fixFrac: 8054.993030226551
+          time: 2019-08-17T20:30:08.993030226551Z
+          lat: 32.2545661
+          lng: -101.55563182
+          alt: 2323.99
+        cross:
+          crossingPair:
+          - fix: 8054
+            time: 2019-08-17T20:30:08Z
+            lat: 32.25448333
+            lng: -101.55541667
+            alt: 2322
+          - fix: 8055
+            time: 2019-08-17T20:30:09Z
+            lat: 32.25456667
+            lng: -101.55563333
+            alt: 2324
+          inZone:
+          - true
+          - false
+      - inter:
+          fixFrac: 9900.232897679394
+          time: 2019-08-17T21:00:54.232897679393Z
+          lat: 32.41087557
+          lng: -101.59265342
+          alt: 1648.9
+        cross:
+          crossingPair:
+          - fix: 9900
+            time: 2019-08-17T21:00:54Z
+            lat: 32.41088333
+            lng: -101.5927
+            alt: 1651
+          - fix: 9901
+            time: 2019-08-17T21:00:55Z
+            lat: 32.41085
+            lng: -101.5925
+            alt: 1642
+          inZone:
+          - false
+          - true
+      - inter:
+          fixFrac: 15680.06662127223
+          time: 2019-08-17T22:37:14.066621272229Z
+          lat: 32.28512778
+          lng: -101.75260999
+          alt: 1959.13
+        cross:
+          crossingPair:
+          - fix: 15680
+            time: 2019-08-17T22:37:14Z
+            lat: 32.28513333
+            lng: -101.7526
+            alt: 1959
+          - fix: 15681
+            time: 2019-08-17T22:37:15Z
+            lat: 32.28505
+            lng: -101.75275
+            alt: 1961
+          inZone:
+          - false
+          - true
+      - null
+  - - - '114'
+      - Kinsley Sykes
+    - zonesTag:
+      - inter:
+          fixFrac: 820.0389978063712
+          time: 2019-08-17T20:02:23.038997806371Z
+          lat: 32.21553983
+          lng: -101.52841147
+          alt: 916.96
+        cross:
+          crossingPair:
+          - fix: 820
+            time: 2019-08-17T20:02:23Z
+            lat: 32.21553333
+            lng: -101.52841667
+            alt: 917
+          - fix: 821
+            time: 2019-08-17T20:02:24Z
+            lat: 32.2157
+            lng: -101.52828333
+            alt: 916
+          inZone:
+          - false
+          - true
+      - null
+      - null
+      - null
+      - null
+  - - - '112'
+      - Nathan Wreyford
+    - null
+  - - - '109'
+      - Rich Reinauer
+    - null
+  - - - '113'
+      - Rodolfo Gotes
+    - zonesTag:
+      - null
+      - inter:
+          fixFrac: 2181.659700561207
+          time: 2019-08-17T20:00:28.659700561207Z
+          lat: 32.26180393
+          lng: -101.53600532
+          alt: 1804.68
+        cross:
+          crossingPair:
+          - fix: 2181
+            time: 2019-08-17T20:00:28Z
+            lat: 32.26165
+            lng: -101.53598333
+            alt: 1806
+          - fix: 2182
+            time: 2019-08-17T20:00:29Z
+            lat: 32.26188333
+            lng: -101.53601667
+            alt: 1804
+          inZone:
+          - true
+          - false
+      - inter:
+          fixFrac: 3451.00277400968
+          time: 2019-08-17T20:21:38.002774009679Z
+          lat: 32.40616727
+          lng: -101.58501653
+          alt: 2298.99
+        cross:
+          crossingPair:
+          - fix: 3451
+            time: 2019-08-17T20:21:38Z
+            lat: 32.40616667
+            lng: -101.58501667
+            alt: 2299
+          - fix: 3452
+            time: 2019-08-17T20:21:39Z
+            lat: 32.40638333
+            lng: -101.58496667
+            alt: 2296
+          inZone:
+          - false
+          - true
+      - inter:
+          fixFrac: 7304.043154736107
+          time: 2019-08-17T21:25:51.043154736106Z
+          lat: 32.28401236
+          lng: -101.75242242
+          alt: 1990.91
+        cross:
+          crossingPair:
+          - fix: 7304
+            time: 2019-08-17T21:25:51Z
+            lat: 32.28401667
+            lng: -101.75241667
+            alt: 1991
+          - fix: 7305
+            time: 2019-08-17T21:25:52Z
+            lat: 32.28391667
+            lng: -101.75255
+            alt: 1989
+          inZone:
+          - false
+          - true
+      - inter:
+          fixFrac: 9255.942736198767
+          time: 2019-08-17T21:58:22.942736198767Z
+          lat: 32.21673333
+          lng: -101.5290486
+          alt: 899.06
+        cross:
+          crossingPair:
+          - fix: 9255
+            time: 2019-08-17T21:58:22Z
+            lat: 32.21673333
+            lng: -101.5293
+            alt: 900
+          - fix: 9256
+            time: 2019-08-17T21:58:23Z
+            lat: 32.21673333
+            lng: -101.52903333
+            alt: 899
+          inZone:
+          - false
+          - true
+  - - - '116'
+      - Roger Irby
+    - null
+  - - - '107'
+      - Tom McGowan
+    - zonesTag:
+      - null
+      - inter:
+          fixFrac: 1991.5888902609252
+          time: 2019-08-17T20:14:45.588890260925Z
+          lat: 32.26220501
+          lng: -101.53347555
+          alt: 2317.82
+        cross:
+          crossingPair:
+          - fix: 1991
+            time: 2019-08-17T20:14:45Z
+            lat: 32.26211667
+            lng: -101.53341667
+            alt: 2319
+          - fix: 1992
+            time: 2019-08-17T20:14:46Z
+            lat: 32.26226667
+            lng: -101.53351667
+            alt: 2317
+          inZone:
+          - true
+          - false
+      - inter:
+          fixFrac: 3655.8070917747878
+          time: 2019-08-17T20:42:29.807091774787Z
+          lat: 32.40604796
+          lng: -101.58380965
+          alt: 2570.19
+        cross:
+          crossingPair:
+          - fix: 3655
+            time: 2019-08-17T20:42:29Z
+            lat: 32.4059
+            lng: -101.58385
+            alt: 2571
+          - fix: 3656
+            time: 2019-08-17T20:42:30Z
+            lat: 32.40608333
+            lng: -101.5838
+            alt: 2570
+          inZone:
+          - false
+          - true
+      - inter:
+          fixFrac: 8813.016005016998
+          time: 2019-08-17T22:08:27.016005016998Z
+          lat: 32.28859894
+          lng: -101.75441907
+          alt: 1661.97
+        cross:
+          crossingPair:
+          - fix: 8813
+            time: 2019-08-17T22:08:27Z
+            lat: 32.2886
+            lng: -101.75441667
+            alt: 1662
+          - fix: 8814
+            time: 2019-08-17T22:08:28Z
+            lat: 32.28853333
+            lng: -101.75456667
+            alt: 1660
+          inZone:
+          - false
+          - true
+      - null
+  - - - '102'
+      - Vic Hare
+    - zonesTag:
+      - inter:
+          fixFrac: 2488.8505740187825
+          time: 2019-08-17T18:35:06.850574018782Z
+          lat: 32.22109827
+          lng: -101.52597835
+          alt: 1450
+        cross:
+          crossingPair:
+          - fix: 2488
+            time: 2019-08-17T18:35:06Z
+            lat: 32.22118333
+            lng: -101.52595
+            alt: 1450
+          - fix: 2489
+            time: 2019-08-17T18:35:07Z
+            lat: 32.22108333
+            lng: -101.52598333
+            alt: 1450
+          inZone:
+          - false
+          - true
+      - inter:
+          fixFrac: 8493.55208662805
+          time: 2019-08-17T20:15:11.55208662805Z
+          lat: 32.26186962
+          lng: -101.53563332
+          alt: 2388.45
+        cross:
+          crossingPair:
+          - fix: 8493
+            time: 2019-08-17T20:15:11Z
+            lat: 32.26175
+            lng: -101.53563333
+            alt: 2389
+          - fix: 8494
+            time: 2019-08-17T20:15:12Z
+            lat: 32.26196667
+            lng: -101.53563333
+            alt: 2388
+          inZone:
+          - true
+          - false
+      - inter:
+          fixFrac: 10169.244082951858
+          time: 2019-08-17T20:43:07.244082951859Z
+          lat: 32.41425446
+          lng: -101.57250735
+          alt: 2575.76
+        cross:
+          crossingPair:
+          - fix: 10169
+            time: 2019-08-17T20:43:07Z
+            lat: 32.41426667
+            lng: -101.57246667
+            alt: 2576
+          - fix: 10170
+            time: 2019-08-17T20:43:08Z
+            lat: 32.41421667
+            lng: -101.57263333
+            alt: 2575
+          inZone:
+          - false
+          - true
+      - null
+      - null
+  - - - '104'
+      - Willy Dydo
+    - null

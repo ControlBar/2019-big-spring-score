@@ -1,0 +1,3115 @@
+bestTime:
+- 2.440278 h
+- 2.640556 h
+- 1.697222 h
+- 3.444444 h
+- 1.929722 h
+- 2.432500 h
+- 1.973056 h
+validity:
+- distance: 1
+  time: 1
+  launch: 1
+  stop: 1
+  task: 1
+- distance: 1
+  time: 1
+  launch: 1
+  stop: 1
+  task: 1
+- distance: 1
+  time: 0.96858173
+  launch: 1
+  stop: 1
+  task: 0.96858173
+- distance: 0.66735578
+  time: 1
+  launch: 0.94978578
+  stop: 1
+  task: 0.63384503
+- distance: 1
+  time: 0.99602543
+  launch: 1
+  stop: 1
+  task: 0.99602543
+- distance: 1
+  time: 1
+  launch: 1
+  stop: 1
+  task: 1
+- distance: 0.871
+  time: 0.99869485
+  launch: 1
+  stop: 1
+  task: 0.86986321
+validityWorkingDistance:
+- area: 54.31575
+  flying: 16
+  minimumDistance: 5.000 km
+  nominalDistance: 80.0 km
+  nominalGoal: 0.25
+  reachMax:
+    extra: 139.526000 km
+    flown: 139.526000 km
+  sum: 1612.9 km
+- area: 55.84875
+  flying: 14
+  minimumDistance: 5.000 km
+  nominalDistance: 80.0 km
+  nominalGoal: 0.25
+  reachMax:
+    extra: 151.790000 km
+    flown: 151.790000 km
+  sum: 1565.3 km
+- area: 49.269625
+  flying: 15
+  minimumDistance: 5.000 km
+  nominalDistance: 80.0 km
+  nominalGoal: 0.25
+  reachMax:
+    extra: 99.157000 km
+    flown: 99.157000 km
+  sum: 1111.9 km
+- area: 51.636125
+  flying: 12
+  minimumDistance: 5.000 km
+  nominalDistance: 80.0 km
+  nominalGoal: 0.25
+  reachMax:
+    extra: 118.089000 km
+    flown: 118.089000 km
+  sum: 413.5 km
+- area: 46.875
+  flying: 16
+  minimumDistance: 5.000 km
+  nominalDistance: 80.0 km
+  nominalGoal: 0.25
+  reachMax:
+    extra: 73.091000 km
+    flown: 73.091000 km
+  sum: 769.3 km
+- area: 54.961625
+  flying: 16
+  minimumDistance: 5.000 km
+  nominalDistance: 80.0 km
+  nominalGoal: 0.25
+  reachMax:
+    extra: 144.693000 km
+    flown: 144.693000 km
+  sum: 1465.9 km
+- area: 46.875
+  flying: 16
+  minimumDistance: 5.000 km
+  nominalDistance: 80.0 km
+  nominalGoal: 0.25
+  reachMax:
+    extra: 64.308000 km
+    flown: 64.308000 km
+  sum: 653.2 km
+validityWorkingLaunch:
+- flying: 16
+  nominalLaunch: 0.96
+  present: 16
+- flying: 14
+  nominalLaunch: 0.96
+  present: 15
+- flying: 15
+  nominalLaunch: 0.96
+  present: 16
+- flying: 12
+  nominalLaunch: 0.96
+  present: 15
+- flying: 16
+  nominalLaunch: 0.96
+  present: 16
+- flying: 16
+  nominalLaunch: 0.96
+  present: 16
+- flying: 16
+  nominalLaunch: 0.96
+  present: 16
+validityWorkingStop:
+- flying: 16
+  landed: 0
+  launchToEssDistance: 139.526 km
+  pilotsAtEss: 9
+  reachStats:
+    extra:
+      max: 139.527000 km
+      mean: 105.231937 km
+      stdDev: 51.823412 km
+    flown:
+      max: 139.527000 km
+      mean: 105.180000 km
+      stdDev: 51.754303 km
+  stillFlying: 16
+- flying: 14
+  landed: 0
+  launchToEssDistance: 151.790 km
+  pilotsAtEss: 7
+  reachStats:
+    extra:
+      max: 151.791000 km
+      mean: 118.923500 km
+      stdDev: 41.805742 km
+    flown:
+      max: 151.791000 km
+      mean: 116.589714 km
+      stdDev: 44.642839 km
+  stillFlying: 14
+- flying: 15
+  landed: 0
+  launchToEssDistance: 99.157 km
+  pilotsAtEss: 10
+  reachStats:
+    extra:
+      max: 99.158000 km
+      mean: 79.741333 km
+      stdDev: 31.804350 km
+    flown:
+      max: 99.158000 km
+      mean: 78.952200 km
+      stdDev: 33.248493 km
+  stillFlying: 15
+- flying: 12
+  landed: 0
+  launchToEssDistance: 118.089 km
+  pilotsAtEss: 3
+  reachStats:
+    extra:
+      max: 118.090000 km
+      mean: 38.201000 km
+      stdDev: 47.754503 km
+    flown:
+      max: 118.090000 km
+      mean: 37.451917 km
+      stdDev: 48.371992 km
+  stillFlying: 12
+- flying: 16
+  landed: 0
+  launchToEssDistance: 73.091 km
+  pilotsAtEss: 10
+  reachStats:
+    extra:
+      max: 73.092000 km
+      mean: 52.629562 km
+      stdDev: 29.149774 km
+    flown:
+      max: 73.092000 km
+      mean: 52.155563 km
+      stdDev: 29.896640 km
+  stillFlying: 16
+- flying: 16
+  landed: 12
+  launchToEssDistance: 144.693 km
+  pilotsAtEss: 6
+  reachStats:
+    extra:
+      max: 144.694000 km
+      mean: 99.094938 km
+      stdDev: 47.835493 km
+    flown:
+      max: 144.694000 km
+      mean: 96.421500 km
+      stdDev: 47.646734 km
+  stillFlying: 4
+- flying: 16
+  landed: 0
+  launchToEssDistance: 64.308 km
+  pilotsAtEss: 6
+  reachStats:
+    extra:
+      max: 64.309000 km
+      mean: 47.145875 km
+      stdDev: 18.777352 km
+    flown:
+      max: 64.309000 km
+      mean: 45.515625 km
+      stdDev: 19.327863 km
+  stillFlying: 16
+validityWorkingTime:
+- gsBestTime: 2.440278 h
+  nominalDistance: 80.0 km
+  nominalTime: 2.000000 h
+  reachMax:
+    extra: 139.526000 km
+    flown: 139.526000 km
+  ssBestTime: null
+- gsBestTime: 2.640556 h
+  nominalDistance: 80.0 km
+  nominalTime: 2.000000 h
+  reachMax:
+    extra: 151.790000 km
+    flown: 151.790000 km
+  ssBestTime: null
+- gsBestTime: 1.697222 h
+  nominalDistance: 80.0 km
+  nominalTime: 2.000000 h
+  reachMax:
+    extra: 99.157000 km
+    flown: 99.157000 km
+  ssBestTime: null
+- gsBestTime: 3.444444 h
+  nominalDistance: 80.0 km
+  nominalTime: 2.000000 h
+  reachMax:
+    extra: 118.089000 km
+    flown: 118.089000 km
+  ssBestTime: null
+- gsBestTime: 1.929722 h
+  nominalDistance: 80.0 km
+  nominalTime: 2.000000 h
+  reachMax:
+    extra: 73.091000 km
+    flown: 73.091000 km
+  ssBestTime: null
+- gsBestTime: 2.432500 h
+  nominalDistance: 80.0 km
+  nominalTime: 2.000000 h
+  reachMax:
+    extra: 144.693000 km
+    flown: 144.693000 km
+  ssBestTime: null
+- gsBestTime: 1.973056 h
+  nominalDistance: 80.0 km
+  nominalTime: 2.000000 h
+  reachMax:
+    extra: 64.308000 km
+    flown: 64.308000 km
+  ssBestTime: null
+score:
+- - - - '104'
+      - Willy Dydo
+    - breakdown:
+        distance: 401
+        leading: 104.8
+        arrival: 74.9
+        time: 341.9
+        effort: 0
+        reach: 0
+      place: '1'
+      total: 923
+      fractions:
+        distance: 1
+        leading: 1
+        arrival: 1
+        time: 0.81540987
+        effort: 0
+        reach: 0
+      reach:
+        extra: 139.527000 km
+        flown: 139.527000 km
+      landedMade: 139.526000 km
+      ss: 2019-08-11T20:00:00Z
+      es: 2019-08-11T22:33:51Z
+      timeElapsed: 2.564167 h
+      leadingArea: 54839541.0000 km^2 s
+      leadingCoef: 1.71450474
+  - - - '110'
+      - Kevin Carter
+    - breakdown:
+        distance: 401
+        leading: 27.3
+        arrival: 31.5
+        time: 419.3
+        effort: 0
+        reach: 0
+      place: '2'
+      total: 879
+      fractions:
+        distance: 1
+        leading: 0.26049618
+        arrival: 0.42056075
+        time: 1
+        effort: 0
+        reach: 0
+      reach:
+        extra: 139.527000 km
+        flown: 139.527000 km
+      landedMade: 139.526000 km
+      ss: 2019-08-11T20:30:00Z
+      es: 2019-08-11T22:56:25Z
+      timeElapsed: 2.440278 h
+      leadingArea: 81473875.0000 km^2 s
+      leadingCoef: 2.5472012
+  - - - '102'
+      - Vic Hare
+    - breakdown:
+        distance: 401
+        leading: 21.8
+        arrival: 20.7
+        time: 332.6
+        effort: 0
+        reach: 0
+      place: '3'
+      total: 776
+      fractions:
+        distance: 1
+        leading: 0.20801527
+        arrival: 0.27636849
+        time: 0.7931658
+        effort: 0
+        reach: 0
+      reach:
+        extra: 139.527000 km
+        flown: 139.527000 km
+      landedMade: 139.526000 km
+      ss: 2019-08-11T20:30:00Z
+      es: 2019-08-11T23:05:14Z
+      timeElapsed: 2.587222 h
+      leadingArea: 84327055.0000 km^2 s
+      leadingCoef: 2.63640307
+  - - - '115'
+      - Erick Salgado
+    - breakdown:
+        distance: 401
+        leading: 72.1
+        arrival: 31.1
+        time: 221.7
+        effort: 0
+        reach: 0
+      place: '4'
+      total: 726
+      fractions:
+        distance: 1
+        leading: 0.6879771
+        arrival: 0.41522029
+        time: 0.52879809
+        effort: 0
+        reach: 0
+      reach:
+        extra: 139.527000 km
+        flown: 139.527000 km
+      landedMade: 139.526000 km
+      ss: 2019-08-11T20:00:00Z
+      es: 2019-08-11T22:56:44Z
+      timeElapsed: 2.945556 h
+      leadingArea: 62135635.0000 km^2 s
+      leadingCoef: 1.94260998
+  - - - '116'
+      - Roger Irby
+    - breakdown:
+        distance: 401
+        leading: 22.4
+        arrival: 9
+        time: 254.6
+        effort: 0
+        reach: 0
+      place: '5'
+      total: 687
+      fractions:
+        distance: 1
+        leading: 0.21374046
+        arrival: 0.12016021
+        time: 0.60728637
+        effort: 0
+        reach: 0
+      reach:
+        extra: 139.527000 km
+        flown: 139.527000 km
+      landedMade: 139.526000 km
+      ss: 2019-08-11T20:30:00Z
+      es: 2019-08-11T23:19:29Z
+      timeElapsed: 2.824722 h
+      leadingArea: 84036623.0000 km^2 s
+      leadingCoef: 2.62732301
+  - - - '101'
+      - Davis Straub
+    - breakdown:
+        distance: 401
+        leading: 64.4
+        arrival: 9.5
+        time: 193
+        effort: 0
+        reach: 0
+      place: '6'
+      total: 668
+      fractions:
+        distance: 1
+        leading: 0.61450382
+        arrival: 0.12683578
+        time: 0.46025518
+        effort: 0
+        reach: 0
+      reach:
+        extra: 139.527000 km
+        flown: 139.527000 km
+      landedMade: 139.526000 km
+      ss: 2019-08-11T20:15:00Z
+      es: 2019-08-11T23:18:35Z
+      timeElapsed: 3.059722 h
+      leadingArea: 64847355.0000 km^2 s
+      leadingCoef: 2.02738927
+  - - - '113'
+      - Rodolfo Gotes
+    - breakdown:
+        distance: 401
+        leading: 66
+        arrival: 18.7
+        time: 178.7
+        effort: 0
+        reach: 0
+      place: '7'
+      total: 664
+      fractions:
+        distance: 1
+        leading: 0.62977099
+        arrival: 0.24966622
+        time: 0.42609789
+        effort: 0
+        reach: 0
+      reach:
+        extra: 139.527000 km
+        flown: 139.527000 km
+      landedMade: 139.526000 km
+      ss: 2019-08-11T20:00:00Z
+      es: 2019-08-11T23:07:10Z
+      timeElapsed: 3.119444 h
+      leadingArea: 64263400.0000 km^2 s
+      leadingCoef: 2.00913248
+  - - - '106'
+      - Bruce Barmakian
+    - breakdown:
+        distance: 401
+        leading: 66.1
+        arrival: 17.2
+        time: 172.6
+        effort: 0
+        reach: 0
+      place: '8'
+      total: 657
+      fractions:
+        distance: 1
+        leading: 0.63072519
+        arrival: 0.22963952
+        time: 0.41163569
+        effort: 0
+        reach: 0
+      reach:
+        extra: 139.527000 km
+        flown: 139.527000 km
+      landedMade: 139.526000 km
+      ss: 2019-08-11T20:00:00Z
+      es: 2019-08-11T23:08:43Z
+      timeElapsed: 3.145278 h
+      leadingArea: 64215657.0000 km^2 s
+      leadingCoef: 2.00763985
+  - - - '112'
+      - Nathan Wreyford
+    - breakdown:
+        distance: 401
+        leading: 11.8
+        arrival: 6.4
+        time: 170.7
+        effort: 0
+        reach: 0
+      place: '9'
+      total: 590
+      fractions:
+        distance: 1
+        leading: 0.11259542
+        arrival: 8.544726e-2
+        time: 0.40716229
+        effort: 0
+        reach: 0
+      reach:
+        extra: 139.527000 km
+        flown: 139.527000 km
+      landedMade: 139.526000 km
+      ss: 2019-08-11T20:15:00Z
+      es: 2019-08-11T23:24:12Z
+      timeElapsed: 3.153333 h
+      leadingArea: 89866718.0000 km^2 s
+      leadingCoef: 2.80959524
+  - - - '107'
+      - Tom McGowan
+    - breakdown:
+        distance: 391.5
+        leading: 49.3
+        arrival: 0
+        time: 0
+        effort: 0
+        reach: 0
+      place: '10'
+      total: 441
+      fractions:
+        distance: 0.97630923
+        leading: 0.47041985
+        arrival: 0
+        time: 0
+        effort: 0
+        reach: 0
+      reach:
+        extra: 133.203000 km
+        flown: 132.907000 km
+      landedMade: 132.741000 km
+      ss: 2019-08-11T20:00:00Z
+      es: null
+      timeElapsed: null
+      leadingArea: 70986007.0000 km^2 s
+      leadingCoef: 2.21930822
+  - - - '108'
+      - Gary Anderson
+    - breakdown:
+        distance: 287.8
+        leading: 46.2
+        arrival: 0
+        time: 0
+        effort: 0
+        reach: 0
+      place: '11'
+      total: 334
+      fractions:
+        distance: 0.71770574
+        leading: 0.44083969
+        arrival: 0
+        time: 0
+        effort: 0
+        reach: 0
+      reach:
+        extra: 94.358000 km
+        flown: 93.327000 km
+      landedMade: 92.531000 km
+      ss: 2019-08-11T20:00:00Z
+      es: null
+      timeElapsed: null
+      leadingArea: 72359657.0000 km^2 s
+      leadingCoef: 2.26225406
+  - - - '105'
+      - David Proctor
+    - breakdown:
+        distance: 354.9
+        leading: 0
+        arrival: 0
+        time: 0
+        effort: 0
+        reach: 0
+      place: '12'
+      total: 208
+      fractions:
+        distance: 0.88503741
+        leading: 0
+        arrival: 0
+        time: 0
+        effort: 0
+        reach: 0
+      reach:
+        extra: 116.200000 km
+        flown: 116.200000 km
+      landedMade: 0.000000 km
+      ss: 2019-08-11T20:00:00Z
+      es: null
+      timeElapsed: null
+      leadingArea: 0.0000 km^2 s
+      leadingCoef: 0
+  - - - '114'
+      - Kinsley Sykes
+    - breakdown:
+        distance: 194.5
+        leading: 0
+        arrival: 0
+        time: 0
+        effort: 0
+        reach: 0
+      place: '13'
+      total: 195
+      fractions:
+        distance: 0.48503741
+        leading: 0
+        arrival: 0
+        time: 0
+        effort: 0
+        reach: 0
+      reach:
+        extra: 67.068000 km
+        flown: 66.718000 km
+      landedMade: 65.558000 km
+      ss: 2019-08-11T20:15:00Z
+      es: null
+      timeElapsed: null
+      leadingArea: 111428231.0000 km^2 s
+      leadingCoef: 3.48369491
+  - - - '111'
+      - Eduardo Panuco
+    - breakdown:
+        distance: 55.3
+        leading: 0
+        arrival: 0
+        time: 0
+        effort: 0
+        reach: 0
+      place: '14'
+      total: 55
+      fractions:
+        distance: 0.13790524
+        leading: 0
+        arrival: 0
+        time: 0
+        effort: 0
+        reach: 0
+      reach:
+        extra: 17.139000 km
+        flown: 17.985000 km
+      landedMade: 17.835000 km
+      ss: 2019-08-11T20:00:00Z
+      es: null
+      timeElapsed: null
+      leadingArea: 181794856.0000 km^2 s
+      leadingCoef: 5.68363877
+  - - - '109'
+      - Rich Reinauer
+    - breakdown:
+        distance: 18.7
+        leading: 0
+        arrival: 0
+        time: 0
+        effort: 0
+        reach: 0
+      place: '15'
+      total: 19
+      fractions:
+        distance: 4.663342e-2
+        leading: 0
+        arrival: 0
+        time: 0
+        effort: 0
+        reach: 0
+      reach:
+        extra: 0.000000 km
+        flown: 0.000000 km
+      landedMade: 0.000000 km
+      ss: null
+      es: null
+      timeElapsed: null
+      leadingArea: 0.0000 km^2 s
+      leadingCoef: 0
+  - - - '103'
+      - ! 'Antonio  Mendoza '
+    - breakdown:
+        distance: 18.7
+        leading: 0
+        arrival: 0
+        time: 0
+        effort: 0
+        reach: 0
+      place: '15'
+      total: 19
+      fractions:
+        distance: 4.663342e-2
+        leading: 0
+        arrival: 0
+        time: 0
+        effort: 0
+        reach: 0
+      reach:
+        extra: 0.000000 km
+        flown: 0.000000 km
+      landedMade: 0.000000 km
+      ss: null
+      es: null
+      timeElapsed: null
+      leadingArea: 0.0000 km^2 s
+      leadingCoef: 0
+- - - - '115'
+      - Erick Salgado
+    - breakdown:
+        distance: 422.4
+        leading: 92.9
+        arrival: 67.1
+        time: 391.3
+        effort: 0
+        reach: 0
+      place: '1'
+      total: 974
+      fractions:
+        distance: 1
+        leading: 0.91889219
+        arrival: 0.92936288
+        time: 0.96767396
+        effort: 0
+        reach: 0
+      reach:
+        extra: 151.791000 km
+        flown: 151.791000 km
+      landedMade: 151.790000 km
+      ss: 2019-08-12T19:30:00Z
+      es: 2019-08-12T22:09:00Z
+      timeElapsed: 2.650000 h
+      leadingArea: 75280426.0000 km^2 s
+      leadingCoef: 1.85210066
+  - - - '112'
+      - Nathan Wreyford
+    - breakdown:
+        distance: 422.4
+        leading: 85.4
+        arrival: 72.2
+        time: 404.3
+        effort: 0
+        reach: 0
+      place: '2'
+      total: 935
+      fractions:
+        distance: 1
+        leading: 0.84470821
+        arrival: 1
+        time: 1
+        effort: 0
+        reach: 0
+      reach:
+        extra: 151.791000 km
+        flown: 151.791000 km
+      landedMade: 151.790000 km
+      ss: 2019-08-12T19:28:24Z
+      es: 2019-08-12T22:06:50Z
+      timeElapsed: 2.640556 h
+      leadingArea: 77357712.0000 km^2 s
+      leadingCoef: 1.90320747
+  - - - '113'
+      - Rodolfo Gotes
+    - breakdown:
+        distance: 422.4
+        leading: 101.1
+        arrival: 54.6
+        time: 338.7
+        effort: 0
+        reach: 0
+      place: '3'
+      total: 917
+      fractions:
+        distance: 1
+        leading: 1
+        arrival: 0.75623269
+        time: 0.83755772
+        effort: 0
+        reach: 0
+      reach:
+        extra: 151.791000 km
+        flown: 151.791000 km
+      landedMade: 151.790000 km
+      ss: 2019-08-12T19:30:00Z
+      es: 2019-08-12T22:14:49Z
+      timeElapsed: 2.746944 h
+      leadingArea: 74026732.0000 km^2 s
+      leadingCoef: 1.82125642
+  - - - '104'
+      - Willy Dydo
+    - breakdown:
+        distance: 422.4
+        leading: 80.3
+        arrival: 55.7
+        time: 342.4
+        effort: 0
+        reach: 0
+      place: '4'
+      total: 901
+      fractions:
+        distance: 1
+        leading: 0.79426311
+        arrival: 0.77146814
+        time: 0.84673677
+        effort: 0
+        reach: 0
+      reach:
+        extra: 151.791000 km
+        flown: 151.791000 km
+      landedMade: 151.790000 km
+      ss: 2019-08-12T19:30:00Z
+      es: 2019-08-12T22:14:17Z
+      timeElapsed: 2.738056 h
+      leadingArea: 79127252.0000 km^2 s
+      leadingCoef: 1.94674291
+  - - - '102'
+      - Vic Hare
+    - breakdown:
+        distance: 422.4
+        leading: 74.3
+        arrival: 29.6
+        time: 256.4
+        effort: 0
+        reach: 0
+      place: '5'
+      total: 783
+      fractions:
+        distance: 1
+        leading: 0.73491592
+        arrival: 0.4099723
+        time: 0.63424572
+        effort: 0
+        reach: 0
+      reach:
+        extra: 151.791000 km
+        flown: 151.791000 km
+      landedMade: 151.790000 km
+      ss: 2019-08-12T19:30:00Z
+      es: 2019-08-12T22:30:00Z
+      timeElapsed: 3.000000 h
+      leadingArea: 81513383.0000 km^2 s
+      leadingCoef: 2.00544813
+  - - - '106'
+      - Bruce Barmakian
+    - breakdown:
+        distance: 422.4
+        leading: 71.4
+        arrival: 29.3
+        time: 255.6
+        effort: 0
+        reach: 0
+      place: '6'
+      total: 779
+      fractions:
+        distance: 1
+        leading: 0.70623145
+        arrival: 0.40581717
+        time: 0.63217585
+        effort: 0
+        reach: 0
+      reach:
+        extra: 151.791000 km
+        flown: 151.791000 km
+      landedMade: 151.790000 km
+      ss: 2019-08-12T19:30:00Z
+      es: 2019-08-12T22:30:11Z
+      timeElapsed: 3.003056 h
+      leadingArea: 82725617.0000 km^2 s
+      leadingCoef: 2.03527234
+  - - - '110'
+      - Kevin Carter
+    - breakdown:
+        distance: 422.4
+        leading: 55.5
+        arrival: 2.8
+        time: 118.2
+        effort: 0
+        reach: 0
+      place: '7'
+      total: 599
+      fractions:
+        distance: 1
+        leading: 0.54896142
+        arrival: 3.878116e-2
+        time: 0.29226792
+        effort: 0
+        reach: 0
+      reach:
+        extra: 151.791000 km
+        flown: 151.791000 km
+      landedMade: 151.790000 km
+      ss: 2019-08-12T19:30:00Z
+      es: 2019-08-12T23:06:29Z
+      timeElapsed: 3.608056 h
+      leadingArea: 90622434.0000 km^2 s
+      leadingCoef: 2.22955526
+  - - - '109'
+      - Rich Reinauer
+    - breakdown:
+        distance: 380.9
+        leading: 68.9
+        arrival: 0
+        time: 0
+        effort: 0
+        reach: 0
+      place: '8'
+      total: 450
+      fractions:
+        distance: 0.90175189
+        leading: 0.68150346
+        arrival: 0
+        time: 0
+        effort: 0
+        reach: 0
+      reach:
+        extra: 122.569000 km
+        flown: 122.014000 km
+      landedMade: 121.834000 km
+      ss: 2019-08-12T19:30:00Z
+      es: null
+      timeElapsed: null
+      leadingArea: 83877324.0000 km^2 s
+      leadingCoef: 2.06360743
+  - - - '101'
+      - Davis Straub
+    - breakdown:
+        distance: 373.6
+        leading: 61.1
+        arrival: 0
+        time: 0
+        effort: 0
+        reach: 0
+      place: '9'
+      total: 435
+      fractions:
+        distance: 0.8844697
+        leading: 0.60435213
+        arrival: 0
+        time: 0
+        effort: 0
+        reach: 0
+      reach:
+        extra: 121.860000 km
+        flown: 118.185000 km
+      landedMade: 113.087000 km
+      ss: 2019-08-12T19:30:00Z
+      es: null
+      timeElapsed: null
+      leadingArea: 87635749.0000 km^2 s
+      leadingCoef: 2.15607478
+  - - - '108'
+      - Gary Anderson
+    - breakdown:
+        distance: 339.4
+        leading: 58.5
+        arrival: 0
+        time: 0
+        effort: 0
+        reach: 0
+      place: '10'
+      total: 398
+      fractions:
+        distance: 0.80350379
+        leading: 0.57863501
+        arrival: 0
+        time: 0
+        effort: 0
+        reach: 0
+      reach:
+        extra: 110.797000 km
+        flown: 104.328000 km
+      landedMade: 101.452000 km
+      ss: 2019-08-12T19:30:00Z
+      es: null
+      timeElapsed: null
+      leadingArea: 89010892.0000 km^2 s
+      leadingCoef: 2.189907
+  - - - '116'
+      - Roger Irby
+    - breakdown:
+        distance: 305.5
+        leading: 46.4
+        arrival: 0
+        time: 0
+        effort: 0
+        reach: 0
+      place: '11'
+      total: 352
+      fractions:
+        distance: 0.72324811
+        leading: 0.45895153
+        arrival: 0
+        time: 0
+        effort: 0
+        reach: 0
+      reach:
+        extra: 97.116000 km
+        flown: 93.092000 km
+      landedMade: 91.567000 km
+      ss: 2019-08-12T19:30:00Z
+      es: null
+      timeElapsed: null
+      leadingArea: 95803132.0000 km^2 s
+      leadingCoef: 2.35701434
+  - - - '114'
+      - Kinsley Sykes
+    - breakdown:
+        distance: 222.9
+        leading: 4.7
+        arrival: 0
+        time: 0
+        effort: 0
+        reach: 0
+      place: '12'
+      total: 228
+      fractions:
+        distance: 0.52769886
+        leading: 4.648863e-2
+        arrival: 0
+        time: 0
+        effort: 0
+        reach: 0
+      reach:
+        extra: 75.168000 km
+        flown: 69.812000 km
+      landedMade: 68.195000 km
+      ss: 2019-08-12T19:30:00Z
+      es: null
+      timeElapsed: null
+      leadingArea: 125125553.0000 km^2 s
+      leadingCoef: 3.07842463
+  - - - '111'
+      - Eduardo Panuco
+    - breakdown:
+        distance: 184.1
+        leading: 0
+        arrival: 0
+        time: 0
+        effort: 0
+        reach: 0
+      place: '13'
+      total: 184
+      fractions:
+        distance: 0.4358428
+        leading: 0
+        arrival: 0
+        time: 0
+        effort: 0
+        reach: 0
+      reach:
+        extra: 61.413000 km
+        flown: 60.327000 km
+      landedMade: 59.621000 km
+      ss: 2019-08-12T19:30:00Z
+      es: null
+      timeElapsed: null
+      leadingArea: 141522277.0000 km^2 s
+      leadingCoef: 3.48182809
+  - - - '107'
+      - Tom McGowan
+    - breakdown:
+        distance: 12.6
+        leading: 0
+        arrival: 0
+        time: 0
+        effort: 0
+        reach: 0
+      place: '14'
+      total: 13
+      fractions:
+        distance: 2.982955e-2
+        leading: 0
+        arrival: 0
+        time: 0
+        effort: 0
+        reach: 0
+      reach:
+        extra: 13.469000 km
+        flown: 1.961000 km
+      landedMade: 0.000000 km
+      ss: null
+      es: null
+      timeElapsed: null
+      leadingArea: 0.0000 km^2 s
+      leadingCoef: 0
+- - - - '106'
+      - Bruce Barmakian
+    - breakdown:
+        distance: 365.5
+        leading: 25.8
+        arrival: 60.3
+        time: 422.1
+        effort: 0
+        reach: 0
+      place: '1'
+      total: 874
+      fractions:
+        distance: 1
+        leading: 0.24454976
+        arrival: 0.79973475
+        time: 1
+        effort: 0
+        reach: 0
+      reach:
+        extra: 99.158000 km
+        flown: 99.158000 km
+      landedMade: 99.157000 km
+      ss: 2019-08-13T20:00:00Z
+      es: 2019-08-13T21:41:50Z
+      timeElapsed: 1.697222 h
+      leadingArea: 36280903.0000 km^2 s
+      leadingCoef: 2.3038087
+  - - - '113'
+      - Rodolfo Gotes
+    - breakdown:
+        distance: 365.5
+        leading: 105.5
+        arrival: 74.9
+        time: 231.4
+        effort: 0
+        reach: 0
+      place: '2'
+      total: 777
+      fractions:
+        distance: 1
+        leading: 1
+        arrival: 0.9933687
+        time: 0.54825632
+        effort: 0
+        reach: 0
+      reach:
+        extra: 99.158000 km
+        flown: 99.158000 km
+      landedMade: 99.157000 km
+      ss: 2019-08-13T19:30:00Z
+      es: 2019-08-13T21:35:34Z
+      timeElapsed: 2.092778 h
+      leadingArea: 23611234.0000 km^2 s
+      leadingCoef: 1.49929475
+  - - - '102'
+      - Vic Hare
+    - breakdown:
+        distance: 365.5
+        leading: 102.1
+        arrival: 75.4
+        time: 232.5
+        effort: 0
+        reach: 0
+      place: '3'
+      total: 776
+      fractions:
+        distance: 1
+        leading: 0.96777251
+        arrival: 1
+        time: 0.55079778
+        effort: 0
+        reach: 0
+      reach:
+        extra: 99.158000 km
+        flown: 99.158000 km
+      landedMade: 99.157000 km
+      ss: 2019-08-13T19:30:00Z
+      es: 2019-08-13T21:35:22Z
+      timeElapsed: 2.089444 h
+      leadingArea: 23725630.0000 km^2 s
+      leadingCoef: 1.50655881
+  - - - '115'
+      - Erick Salgado
+    - breakdown:
+        distance: 365.5
+        leading: 83.3
+        arrival: 70.6
+        time: 222.3
+        effort: 0
+        reach: 0
+      place: '4'
+      total: 742
+      fractions:
+        distance: 1
+        leading: 0.78957346
+        arrival: 0.93633952
+        time: 0.5265207
+        effort: 0
+        reach: 0
+      reach:
+        extra: 99.158000 km
+        flown: 99.158000 km
+      landedMade: 99.157000 km
+      ss: 2019-08-13T19:30:00Z
+      es: 2019-08-13T21:37:18Z
+      timeElapsed: 2.121667 h
+      leadingArea: 25473346.0000 km^2 s
+      leadingCoef: 1.6175374
+  - - - '110'
+      - Kevin Carter
+    - breakdown:
+        distance: 365.5
+        leading: 0
+        arrival: 24.2
+        time: 241.4
+        effort: 0
+        reach: 0
+      place: '5'
+      total: 631
+      fractions:
+        distance: 1
+        leading: 0
+        arrival: 0.32095491
+        time: 0.57183055
+        effort: 0
+        reach: 0
+      reach:
+        extra: 99.158000 km
+        flown: 99.158000 km
+      landedMade: 99.157000 km
+      ss: 2019-08-13T20:00:00Z
+      es: 2019-08-13T22:03:44Z
+      timeElapsed: 2.062222 h
+      leadingArea: 43660075.0000 km^2 s
+      leadingCoef: 2.77238033
+  - - - '109'
+      - Rich Reinauer
+    - breakdown:
+        distance: 365.5
+        leading: 24.4
+        arrival: 34.5
+        time: 203.3
+        effort: 0
+        reach: 0
+      place: '6'
+      total: 628
+      fractions:
+        distance: 1
+        leading: 0.23127962
+        arrival: 0.45755968
+        time: 0.48150704
+        effort: 0
+        reach: 0
+      reach:
+        extra: 99.158000 km
+        flown: 99.158000 km
+      landedMade: 99.157000 km
+      ss: 2019-08-13T19:45:00Z
+      es: 2019-08-13T21:56:01Z
+      timeElapsed: 2.183611 h
+      leadingArea: 36616162.0000 km^2 s
+      leadingCoef: 2.32509739
+  - - - '116'
+      - Roger Irby
+    - breakdown:
+        distance: 365.5
+        leading: 72.5
+        arrival: 39.1
+        time: 146.6
+        effort: 0
+        reach: 0
+      place: '7'
+      total: 624
+      fractions:
+        distance: 1
+        leading: 0.68720379
+        arrival: 0.51856764
+        time: 0.34731819
+        effort: 0
+        reach: 0
+      reach:
+        extra: 99.158000 km
+        flown: 99.158000 km
+      landedMade: 99.157000 km
+      ss: 2019-08-13T19:30:00Z
+      es: 2019-08-13T21:53:03Z
+      timeElapsed: 2.384167 h
+      leadingArea: 26986786.0000 km^2 s
+      leadingCoef: 1.71363963
+  - - - '101'
+      - Davis Straub
+    - breakdown:
+        distance: 365.5
+        leading: 70.8
+        arrival: 25.2
+        time: 104.2
+        effort: 0
+        reach: 0
+      place: '8'
+      total: 566
+      fractions:
+        distance: 1
+        leading: 0.67109005
+        arrival: 0.33421751
+        time: 0.24692352
+        effort: 0
+        reach: 0
+      reach:
+        extra: 99.158000 km
+        flown: 99.158000 km
+      landedMade: 99.157000 km
+      ss: 2019-08-13T19:30:00Z
+      es: 2019-08-13T22:02:55Z
+      timeElapsed: 2.548611 h
+      leadingArea: 27251933.0000 km^2 s
+      leadingCoef: 1.73047627
+  - - - '108'
+      - Gary Anderson
+    - breakdown:
+        distance: 365.5
+        leading: 68.6
+        arrival: 21
+        time: 89.3
+        effort: 0
+        reach: 0
+      place: '9'
+      total: 544
+      fractions:
+        distance: 1
+        leading: 0.65023697
+        arrival: 0.27851459
+        time: 0.2114652
+        effort: 0
+        reach: 0
+      reach:
+        extra: 99.158000 km
+        flown: 99.158000 km
+      landedMade: 99.157000 km
+      ss: 2019-08-13T19:30:00Z
+      es: 2019-08-13T22:06:34Z
+      timeElapsed: 2.609444 h
+      leadingArea: 27589398.0000 km^2 s
+      leadingCoef: 1.75190503
+  - - - '105'
+      - David Proctor
+    - breakdown:
+        distance: 365.5
+        leading: 26.7
+        arrival: 16.8
+        time: 72.4
+        effort: 0
+        reach: 0
+      place: '10'
+      total: 481
+      fractions:
+        distance: 1
+        leading: 0.25308057
+        arrival: 0.22281167
+        time: 0.17146892
+        effort: 0
+        reach: 0
+      reach:
+        extra: 99.158000 km
+        flown: 99.158000 km
+      landedMade: 99.157000 km
+      ss: 2019-08-13T19:30:00Z
+      es: 2019-08-13T22:10:47Z
+      timeElapsed: 2.679722 h
+      leadingArea: 36054574.0000 km^2 s
+      leadingCoef: 2.28943704
+  - - - '112'
+      - Nathan Wreyford
+    - breakdown:
+        distance: 352.1
+        leading: 0
+        arrival: 0
+        time: 0
+        effort: 0
+        reach: 0
+      place: '11'
+      total: 352
+      fractions:
+        distance: 0.96333789
+        leading: 0
+        arrival: 0
+        time: 0
+        effort: 0
+        reach: 0
+      reach:
+        extra: 92.532000 km
+        flown: 91.875000 km
+      landedMade: 91.456000 km
+      ss: 2019-08-13T19:30:00Z
+      es: null
+      timeElapsed: null
+      leadingArea: 45910937.0000 km^2 s
+      leadingCoef: 2.91530832
+  - - - '104'
+      - Willy Dydo
+    - breakdown:
+        distance: 196.8
+        leading: 0
+        arrival: 0
+        time: 0
+        effort: 0
+        reach: 0
+      place: '12'
+      total: 197
+      fractions:
+        distance: 0.53844049
+        leading: 0
+        arrival: 0
+        time: 0
+        effort: 0
+        reach: 0
+      reach:
+        extra: 39.789000 km
+        flown: 39.434000 km
+      landedMade: 39.207000 km
+      ss: 2019-08-13T19:30:00Z
+      es: null
+      timeElapsed: null
+      leadingArea: 48052144.0000 km^2 s
+      leadingCoef: 3.05127327
+  - - - '111'
+      - Eduardo Panuco
+    - breakdown:
+        distance: 168
+        leading: 0
+        arrival: 0
+        time: 0
+        effort: 0
+        reach: 0
+      place: '13'
+      total: 168
+      fractions:
+        distance: 0.45964432
+        leading: 0
+        arrival: 0
+        time: 0
+        effort: 0
+        reach: 0
+      reach:
+        extra: 33.170000 km
+        flown: 32.356000 km
+      landedMade: 31.802000 km
+      ss: 2019-08-13T19:30:00Z
+      es: null
+      timeElapsed: null
+      leadingArea: 58687897.0000 km^2 s
+      leadingCoef: 3.7266352
+  - - - '103'
+      - ! 'Antonio  Mendoza '
+    - breakdown:
+        distance: 144.8
+        leading: 0
+        arrival: 0
+        time: 0
+        effort: 0
+        reach: 0
+      place: '14'
+      total: 145
+      fractions:
+        distance: 0.39616963
+        leading: 0
+        arrival: 0
+        time: 0
+        effort: 0
+        reach: 0
+      reach:
+        extra: 30.057000 km
+        flown: 26.685000 km
+      landedMade: 26.374000 km
+      ss: 2019-08-13T19:30:00Z
+      es: null
+      timeElapsed: null
+      leadingArea: 66416823.0000 km^2 s
+      leadingCoef: 4.2174159
+  - - - '107'
+      - Tom McGowan
+    - breakdown:
+        distance: 32.1
+        leading: 0
+        arrival: 0
+        time: 0
+        effort: 0
+        reach: 0
+      place: '15'
+      total: 32
+      fractions:
+        distance: 8.78249e-2
+        leading: 0
+        arrival: 0
+        time: 0
+        effort: 0
+        reach: 0
+      reach:
+        extra: 8.992000 km
+        flown: 2.353000 km
+      landedMade: 0.000000 km
+      ss: null
+      es: null
+      timeElapsed: null
+      leadingArea: 0.0000 km^2 s
+      leadingCoef: 0
+- - - - '106'
+      - Bruce Barmakian
+    - breakdown:
+        distance: 368.7
+        leading: 46.4
+        arrival: 33.1
+        time: 185.6
+        effort: 0
+        reach: 0
+      place: '1'
+      total: 634
+      fractions:
+        distance: 1
+        leading: 1
+        arrival: 1
+        time: 1
+        effort: 0
+        reach: 0
+      reach:
+        extra: 118.090000 km
+        flown: 118.090000 km
+      landedMade: 118.089000 km
+      ss: 2019-08-14T20:00:00Z
+      es: 2019-08-14T23:26:40Z
+      timeElapsed: 3.444444 h
+      leadingArea: 79376803.0000 km^2 s
+      leadingCoef: 3.48217456
+  - - - '113'
+      - Rodolfo Gotes
+    - breakdown:
+        distance: 368.7
+        leading: 36.7
+        arrival: 11.9
+        time: 115.1
+        effort: 0
+        reach: 0
+      place: '2'
+      total: 532
+      fractions:
+        distance: 1
+        leading: 0.79094828
+        arrival: 0.35951662
+        time: 0.6200135
+        effort: 0
+        reach: 0
+      reach:
+        extra: 118.090000 km
+        flown: 118.090000 km
+      landedMade: 118.089000 km
+      ss: 2019-08-14T20:00:00Z
+      es: 2019-08-14T23:52:45Z
+      timeElapsed: 3.879167 h
+      leadingArea: 83411862.0000 km^2 s
+      leadingCoef: 3.65918826
+  - - - '115'
+      - Erick Salgado
+    - breakdown:
+        distance: 368.7
+        leading: 2.6
+        arrival: 1.1
+        time: 106
+        effort: 0
+        reach: 0
+      place: '3'
+      total: 478
+      fractions:
+        distance: 1
+        leading: 5.603448e-2
+        arrival: 3.323263e-2
+        time: 0.57090282
+        effort: 0
+        reach: 0
+      reach:
+        extra: 118.090000 km
+        flown: 118.090000 km
+      landedMade: 118.089000 km
+      ss: 2019-08-14T20:30:00Z
+      es: 2019-08-15T00:27:58Z
+      timeElapsed: 3.966111 h
+      leadingArea: 118383199.0000 km^2 s
+      leadingCoef: 5.19334299
+  - - - '101'
+      - Davis Straub
+    - breakdown:
+        distance: 253.7
+        leading: 4.2
+        arrival: 0
+        time: 0
+        effort: 0
+        reach: 0
+      place: '4'
+      total: 258
+      fractions:
+        distance: 0.6880933
+        leading: 9.051724e-2
+        arrival: 0
+        time: 0
+        effort: 0
+        reach: 0
+      reach:
+        extra: 44.364000 km
+        flown: 44.456000 km
+      landedMade: 44.298000 km
+      ss: 2019-08-14T20:00:00Z
+      es: null
+      timeElapsed: null
+      leadingArea: 116233787.0000 km^2 s
+      leadingCoef: 5.09905062
+  - - - '110'
+      - Kevin Carter
+    - breakdown:
+        distance: 205
+        leading: 0
+        arrival: 0
+        time: 0
+        effort: 0
+        reach: 0
+      place: '5'
+      total: 205
+      fractions:
+        distance: 0.55600759
+        leading: 0
+        arrival: 0
+        time: 0
+        effort: 0
+        reach: 0
+      reach:
+        extra: 28.321000 km
+        flown: 29.018000 km
+      landedMade: 28.719000 km
+      ss: 2019-08-14T20:00:00Z
+      es: null
+      timeElapsed: null
+      leadingArea: 141166620.0000 km^2 s
+      leadingCoef: 6.19282703
+  - - - '104'
+      - Willy Dydo
+    - breakdown:
+        distance: 141.8
+        leading: 0
+        arrival: 0
+        time: 0
+        effort: 0
+        reach: 0
+      place: '6'
+      total: 142
+      fractions:
+        distance: 0.38459452
+        leading: 0
+        arrival: 0
+        time: 0
+        effort: 0
+        reach: 0
+      reach:
+        extra: 14.553000 km
+        flown: 15.772000 km
+      landedMade: 15.522000 km
+      ss: 2019-08-14T20:00:00Z
+      es: null
+      timeElapsed: null
+      leadingArea: 171579243.0000 km^2 s
+      leadingCoef: 7.52699595
+  - - - '102'
+      - Vic Hare
+    - breakdown:
+        distance: 73.3
+        leading: 0
+        arrival: 0
+        time: 0
+        effort: 0
+        reach: 0
+      place: '7'
+      total: 73
+      fractions:
+        distance: 0.19880662
+        leading: 0
+        arrival: 0
+        time: 0
+        effort: 0
+        reach: 0
+      reach:
+        extra: 4.812000 km
+        flown: 1.332000 km
+      landedMade: 0.000000 km
+      ss: null
+      es: null
+      timeElapsed: null
+      leadingArea: 0.0000 km^2 s
+      leadingCoef: 0
+  - - - '107'
+      - Tom McGowan
+    - breakdown:
+        distance: 73.3
+        leading: 0
+        arrival: 0
+        time: 0
+        effort: 0
+        reach: 0
+      place: '7'
+      total: 73
+      fractions:
+        distance: 0.19880662
+        leading: 0
+        arrival: 0
+        time: 0
+        effort: 0
+        reach: 0
+      reach:
+        extra: 3.310000 km
+        flown: 1.208000 km
+      landedMade: 0.000000 km
+      ss: null
+      es: null
+      timeElapsed: null
+      leadingArea: 0.0000 km^2 s
+      leadingCoef: 0
+  - - - '116'
+      - Roger Irby
+    - breakdown:
+        distance: 73.3
+        leading: 0
+        arrival: 0
+        time: 0
+        effort: 0
+        reach: 0
+      place: '7'
+      total: 73
+      fractions:
+        distance: 0.19880662
+        leading: 0
+        arrival: 0
+        time: 0
+        effort: 0
+        reach: 0
+      reach:
+        extra: 2.814000 km
+        flown: 1.218000 km
+      landedMade: 0.000000 km
+      ss: null
+      es: null
+      timeElapsed: null
+      leadingArea: 0.0000 km^2 s
+      leadingCoef: 0
+  - - - '109'
+      - Rich Reinauer
+    - breakdown:
+        distance: 73.3
+        leading: 0
+        arrival: 0
+        time: 0
+        effort: 0
+        reach: 0
+      place: '7'
+      total: 73
+      fractions:
+        distance: 0.19880662
+        leading: 0
+        arrival: 0
+        time: 0
+        effort: 0
+        reach: 0
+      reach:
+        extra: 3.198000 km
+        flown: 1.218000 km
+      landedMade: 0.000000 km
+      ss: null
+      es: null
+      timeElapsed: null
+      leadingArea: 0.0000 km^2 s
+      leadingCoef: 0
+  - - - '112'
+      - Nathan Wreyford
+    - breakdown:
+        distance: 73.3
+        leading: 0
+        arrival: 0
+        time: 0
+        effort: 0
+        reach: 0
+      place: '7'
+      total: 73
+      fractions:
+        distance: 0.19880662
+        leading: 0
+        arrival: 0
+        time: 0
+        effort: 0
+        reach: 0
+      reach:
+        extra: 0.000000 km
+        flown: 0.000000 km
+      landedMade: 0.000000 km
+      ss: null
+      es: null
+      timeElapsed: null
+      leadingArea: 0.0000 km^2 s
+      leadingCoef: 0
+  - - - '108'
+      - Gary Anderson
+    - breakdown:
+        distance: 73.3
+        leading: 0
+        arrival: 0
+        time: 0
+        effort: 0
+        reach: 0
+      place: '7'
+      total: 73
+      fractions:
+        distance: 0.19880662
+        leading: 0
+        arrival: 0
+        time: 0
+        effort: 0
+        reach: 0
+      reach:
+        extra: 2.770000 km
+        flown: 0.931000 km
+      landedMade: 0.000000 km
+      ss: null
+      es: null
+      timeElapsed: null
+      leadingArea: 0.0000 km^2 s
+      leadingCoef: 0
+- - - - '106'
+      - Bruce Barmakian
+    - breakdown:
+        distance: 383.7
+        leading: 70.9
+        arrival: 76.5
+        time: 428.6
+        effort: 0
+        reach: 0
+      place: '1'
+      total: 960
+      fractions:
+        distance: 1
+        leading: 0.6613806
+        arrival: 1
+        time: 1
+        effort: 0
+        reach: 0
+      reach:
+        extra: 73.092000 km
+        flown: 73.092000 km
+      landedMade: 73.091000 km
+      ss: 2019-08-15T18:30:00Z
+      es: 2019-08-15T20:25:47Z
+      timeElapsed: 1.929722 h
+      leadingArea: 15516769.0000 km^2 s
+      leadingCoef: 1.83753874
+  - - - '113'
+      - Rodolfo Gotes
+    - breakdown:
+        distance: 383.7
+        leading: 32.8
+        arrival: 44
+        time: 421.8
+        effort: 0
+        reach: 0
+      place: '2'
+      total: 882
+      fractions:
+        distance: 1
+        leading: 0.30597015
+        arrival: 0.5751634
+        time: 0.98412794
+        effort: 0
+        reach: 0
+      reach:
+        extra: 73.092000 km
+        flown: 73.092000 km
+      landedMade: 73.091000 km
+      ss: 2019-08-15T18:45:00Z
+      es: 2019-08-15T20:40:57Z
+      timeElapsed: 1.932500 h
+      leadingArea: 19567567.0000 km^2 s
+      leadingCoef: 2.31724553
+  - - - '115'
+      - Erick Salgado
+    - breakdown:
+        distance: 383.7
+        leading: 107.2
+        arrival: 70.9
+        time: 278.7
+        effort: 0
+        reach: 0
+      place: '3'
+      total: 841
+      fractions:
+        distance: 1
+        leading: 1
+        arrival: 0.92679739
+        time: 0.65011368
+        effort: 0
+        reach: 0
+      reach:
+        extra: 73.092000 km
+        flown: 73.092000 km
+      landedMade: 73.091000 km
+      ss: 2019-08-15T18:15:00Z
+      es: 2019-08-15T20:28:02Z
+      timeElapsed: 2.217222 h
+      leadingArea: 13421541.0000 km^2 s
+      leadingCoef: 1.5894161
+  - - - '101'
+      - Davis Straub
+    - breakdown:
+        distance: 383.7
+        leading: 33.8
+        arrival: 36.7
+        time: 366.7
+        effort: 0
+        reach: 0
+      place: '4'
+      total: 821
+      fractions:
+        distance: 1
+        leading: 0.31529851
+        arrival: 0.47973856
+        time: 0.85539326
+        effort: 0
+        reach: 0
+      reach:
+        extra: 73.092000 km
+        flown: 73.092000 km
+      landedMade: 73.091000 km
+      ss: 2019-08-15T18:45:00Z
+      es: 2019-08-15T20:45:22Z
+      timeElapsed: 2.006111 h
+      leadingArea: 19447216.0000 km^2 s
+      leadingCoef: 2.30299322
+  - - - '104'
+      - Willy Dydo
+    - breakdown:
+        distance: 383.7
+        leading: 28.3
+        arrival: 25.8
+        time: 308.4
+        effort: 0
+        reach: 0
+      place: '5'
+      total: 746
+      fractions:
+        distance: 1
+        leading: 0.26399254
+        arrival: 0.3372549
+        time: 0.71948294
+        effort: 0
+        reach: 0
+      reach:
+        extra: 73.092000 km
+        flown: 73.092000 km
+      landedMade: 73.091000 km
+      ss: 2019-08-15T18:45:00Z
+      es: 2019-08-15T20:53:10Z
+      timeElapsed: 2.136111 h
+      leadingArea: 20143585.0000 km^2 s
+      leadingCoef: 2.38545922
+  - - - '112'
+      - Nathan Wreyford
+    - breakdown:
+        distance: 383.7
+        leading: 43.2
+        arrival: 23.7
+        time: 215.9
+        effort: 0
+        reach: 0
+      place: '6'
+      total: 667
+      fractions:
+        distance: 1
+        leading: 0.40298507
+        arrival: 0.30980392
+        time: 0.50360591
+        effort: 0
+        reach: 0
+      reach:
+        extra: 73.092000 km
+        flown: 73.092000 km
+      landedMade: 73.091000 km
+      ss: 2019-08-15T18:30:00Z
+      es: 2019-08-15T20:54:56Z
+      timeElapsed: 2.415556 h
+      leadingArea: 18322258.0000 km^2 s
+      leadingCoef: 2.16977258
+  - - - '109'
+      - Rich Reinauer
+    - breakdown:
+        distance: 383.7
+        leading: 73.2
+        arrival: 15.7
+        time: 116
+        effort: 0
+        reach: 0
+      place: '7'
+      total: 589
+      fractions:
+        distance: 1
+        leading: 0.68283582
+        arrival: 0.20522876
+        time: 0.27064533
+        effort: 0
+        reach: 0
+      reach:
+        extra: 73.092000 km
+        flown: 73.092000 km
+      landedMade: 73.091000 km
+      ss: 2019-08-15T18:15:00Z
+      es: 2019-08-15T21:02:42Z
+      timeElapsed: 2.795000 h
+      leadingArea: 15320978.0000 km^2 s
+      leadingCoef: 1.81435271
+  - - - '102'
+      - Vic Hare
+    - breakdown:
+        distance: 383.7
+        leading: 0
+        arrival: 4.9
+        time: 170
+        effort: 0
+        reach: 0
+      place: '8'
+      total: 559
+      fractions:
+        distance: 1
+        leading: 0
+        arrival: 6.405229e-2
+        time: 0.39660023
+        effort: 0
+        reach: 0
+      reach:
+        extra: 73.092000 km
+        flown: 73.092000 km
+      landedMade: 73.091000 km
+      ss: 2019-08-15T18:45:00Z
+      es: 2019-08-15T21:19:51Z
+      timeElapsed: 2.580833 h
+      leadingArea: 27202310.0000 km^2 s
+      leadingCoef: 3.2213729
+  - - - '110'
+      - Kevin Carter
+    - breakdown:
+        distance: 383.7
+        leading: 0
+        arrival: 3.7
+        time: 156.3
+        effort: 0
+        reach: 0
+      place: '9'
+      total: 544
+      fractions:
+        distance: 1
+        leading: 0
+        arrival: 4.836601e-2
+        time: 0.36475313
+        effort: 0
+        reach: 0
+      reach:
+        extra: 73.092000 km
+        flown: 73.092000 km
+      landedMade: 73.091000 km
+      ss: 2019-08-15T18:45:00Z
+      es: 2019-08-15T21:22:59Z
+      timeElapsed: 2.633056 h
+      leadingArea: 33547803.0000 km^2 s
+      leadingCoef: 3.97282382
+  - - - '108'
+      - Gary Anderson
+    - breakdown:
+        distance: 383.7
+        leading: 12.6
+        arrival: 7.4
+        time: 128.8
+        effort: 0
+        reach: 0
+      place: '10'
+      total: 533
+      fractions:
+        distance: 1
+        leading: 0.11753731
+        arrival: 9.673203e-2
+        time: 0.30045399
+        effort: 0
+        reach: 0
+      reach:
+        extra: 73.092000 km
+        flown: 73.092000 km
+      landedMade: 73.091000 km
+      ss: 2019-08-15T18:30:00Z
+      es: 2019-08-15T21:14:33Z
+      timeElapsed: 2.742500 h
+      leadingArea: 22249106.0000 km^2 s
+      leadingCoef: 2.63480084
+  - - - '107'
+      - Tom McGowan
+    - breakdown:
+        distance: 318.9
+        leading: 0
+        arrival: 0
+        time: 0
+        effort: 0
+        reach: 0
+      place: '11'
+      total: 319
+      fractions:
+        distance: 0.83111806
+        leading: 0
+        arrival: 0
+        time: 0
+        effort: 0
+        reach: 0
+      reach:
+        extra: 48.600000 km
+        flown: 48.418000 km
+      landedMade: 48.412000 km
+      ss: 2019-08-15T18:45:00Z
+      es: null
+      timeElapsed: null
+      leadingArea: 27019753.0000 km^2 s
+      leadingCoef: 3.19975403
+  - - - '116'
+      - Roger Irby
+    - breakdown:
+        distance: 298.8
+        leading: 5.9
+        arrival: 0
+        time: 0
+        effort: 0
+        reach: 0
+      place: '12'
+      total: 305
+      fractions:
+        distance: 0.77873339
+        leading: 5.503731e-2
+        arrival: 0
+        time: 0
+        effort: 0
+        reach: 0
+      reach:
+        extra: 44.444000 km
+        flown: 44.005000 km
+      landedMade: 44.005000 km
+      ss: 2019-08-15T18:45:00Z
+      es: null
+      timeElapsed: null
+      leadingArea: 23203943.0000 km^2 s
+      leadingCoef: 2.74787522
+  - - - '111'
+      - Eduardo Panuco
+    - breakdown:
+        distance: 86
+        leading: 0
+        arrival: 0
+        time: 0
+        effort: 0
+        reach: 0
+      place: '13'
+      total: 86
+      fractions:
+        distance: 0.22413344
+        leading: 0
+        arrival: 0
+        time: 0
+        effort: 0
+        reach: 0
+      reach:
+        extra: 10.996000 km
+        flown: 10.908000 km
+      landedMade: 10.560000 km
+      ss: 2019-08-15T18:15:00Z
+      es: null
+      timeElapsed: null
+      leadingArea: 43879317.0000 km^2 s
+      leadingCoef: 5.19631031
+  - - - '105'
+      - David Proctor
+    - breakdown:
+        distance: 52.5
+        leading: 0
+        arrival: 0
+        time: 0
+        effort: 0
+        reach: 0
+      place: '14'
+      total: 53
+      fractions:
+        distance: 0.13682565
+        leading: 0
+        arrival: 0
+        time: 0
+        effort: 0
+        reach: 0
+      reach:
+        extra: 5.331000 km
+        flown: 0.238000 km
+      landedMade: 0.000000 km
+      ss: null
+      es: null
+      timeElapsed: null
+      leadingArea: 0.0000 km^2 s
+      leadingCoef: 0
+  - - - '103'
+      - ! 'Antonio  Mendoza '
+    - breakdown:
+        distance: 52.5
+        leading: 0
+        arrival: 0
+        time: 0
+        effort: 0
+        reach: 0
+      place: '14'
+      total: 53
+      fractions:
+        distance: 0.13682565
+        leading: 0
+        arrival: 0
+        time: 0
+        effort: 0
+        reach: 0
+      reach:
+        extra: 1.495000 km
+        flown: 0.000000 km
+      landedMade: 0.000000 km
+      ss: null
+      es: null
+      timeElapsed: null
+      leadingArea: 0.0000 km^2 s
+      leadingCoef: 0
+  - - - '114'
+      - Kinsley Sykes
+    - breakdown:
+        distance: 52.5
+        leading: 0
+        arrival: 0
+        time: 0
+        effort: 0
+        reach: 0
+      place: '14'
+      total: 53
+      fractions:
+        distance: 0.13682565
+        leading: 0
+        arrival: 0
+        time: 0
+        effort: 0
+        reach: 0
+      reach:
+        extra: 0.287000 km
+        flown: 0.000000 km
+      landedMade: 0.000000 km
+      ss: null
+      es: null
+      timeElapsed: null
+      leadingArea: 0.0000 km^2 s
+      leadingCoef: 0
+- - - - '115'
+      - Erick Salgado
+    - breakdown:
+        distance: 485.6
+        leading: 90
+        arrival: 64.3
+        time: 135.7
+        effort: 0
+        reach: 0
+      place: '1'
+      total: 776
+      fractions:
+        distance: 1
+        leading: 1
+        arrival: 1
+        time: 0.85719531
+        effort: 0
+        reach: 0
+      reach:
+        extra: 144.694000 km
+        flown: 144.694000 km
+      landedMade: 144.693000 km
+      ss: 2019-08-16T19:15:00Z
+      es: 2019-08-16T21:46:00Z
+      timeElapsed: 2.516667 h
+      leadingArea: 82047425.0000 km^2 s
+      leadingCoef: 2.42517715
+  - - - '113'
+      - Rodolfo Gotes
+    - breakdown:
+        distance: 485.6
+        leading: 46.8
+        arrival: 45.2
+        time: 187.1
+        effort: 0
+        reach: 0
+      place: '2'
+      total: 765
+      fractions:
+        distance: 1
+        leading: 0.52
+        arrival: 0.7029549
+        time: 1
+        effort: 0
+        reach: 0
+      reach:
+        extra: 144.694000 km
+        flown: 144.694000 km
+      landedMade: 144.693000 km
+      ss: 2019-08-16T19:30:00Z
+      es: 2019-08-16T21:55:57Z
+      timeElapsed: 2.432500 h
+      leadingArea: 99581275.0000 km^2 s
+      leadingCoef: 2.94344682
+  - - - '110'
+      - Kevin Carter
+    - breakdown:
+        distance: 485.6
+        leading: 44.8
+        arrival: 33.6
+        time: 119.8
+        effort: 0
+        reach: 0
+      place: '3'
+      total: 684
+      fractions:
+        distance: 1
+        leading: 0.49777778
+        arrival: 0.52255054
+        time: 0.81301019
+        effort: 0
+        reach: 0
+      reach:
+        extra: 144.694000 km
+        flown: 144.694000 km
+      landedMade: 144.693000 km
+      ss: 2019-08-16T19:30:00Z
+      es: 2019-08-16T22:03:31Z
+      timeElapsed: 2.558611 h
+      leadingArea: 100805435.0000 km^2 s
+      leadingCoef: 2.97963084
+  - - - '101'
+      - Davis Straub
+    - breakdown:
+        distance: 485.6
+        leading: 37.8
+        arrival: 32.4
+        time: 114.7
+        effort: 0
+        reach: 0
+      place: '4'
+      total: 671
+      fractions:
+        distance: 1
+        leading: 0.42
+        arrival: 0.50388802
+        time: 0.79899151
+        effort: 0
+        reach: 0
+      reach:
+        extra: 144.694000 km
+        flown: 144.694000 km
+      landedMade: 144.693000 km
+      ss: 2019-08-16T19:30:00Z
+      es: 2019-08-16T22:04:23Z
+      timeElapsed: 2.573056 h
+      leadingArea: 105302305.0000 km^2 s
+      leadingCoef: 3.11255037
+  - - - '102'
+      - Vic Hare
+    - breakdown:
+        distance: 485.6
+        leading: 36.2
+        arrival: 27.1
+        time: 92.8
+        effort: 0
+        reach: 0
+      place: '5'
+      total: 642
+      fractions:
+        distance: 1
+        leading: 0.40222222
+        arrival: 0.4214619
+        time: 0.73799432
+        effort: 0
+        reach: 0
+      reach:
+        extra: 144.694000 km
+        flown: 144.694000 km
+      landedMade: 144.693000 km
+      ss: 2019-08-16T19:30:00Z
+      es: 2019-08-16T22:08:30Z
+      timeElapsed: 2.641667 h
+      leadingArea: 106379840.0000 km^2 s
+      leadingCoef: 3.14440041
+  - - - '104'
+      - Willy Dydo
+    - breakdown:
+        distance: 485.6
+        leading: 26.7
+        arrival: 25.8
+        time: 87.2
+        effort: 0
+        reach: 0
+      place: '6'
+      total: 625
+      fractions:
+        distance: 1
+        leading: 0.29666667
+        arrival: 0.40124417
+        time: 0.72267441
+        effort: 0
+        reach: 0
+      reach:
+        extra: 144.694000 km
+        flown: 144.694000 km
+      landedMade: 144.693000 km
+      ss: 2019-08-16T19:30:00Z
+      es: 2019-08-16T22:09:37Z
+      timeElapsed: 2.660278 h
+      leadingArea: 113099549.0000 km^2 s
+      leadingCoef: 3.34302314
+  - - - '107'
+      - Tom McGowan
+    - breakdown:
+        distance: 474.2
+        leading: 46.4
+        arrival: 0
+        time: 0
+        effort: 0
+        reach: 0
+      place: '7'
+      total: 521
+      fractions:
+        distance: 0.97652389
+        leading: 0.51555556
+        arrival: 0
+        time: 0
+        effort: 0
+        reach: 0
+      reach:
+        extra: 137.909000 km
+        flown: 129.609000 km
+      landedMade: 129.609000 km
+      ss: 2019-08-16T19:15:00Z
+      es: null
+      timeElapsed: null
+      leadingArea: 99773165.0000 km^2 s
+      leadingCoef: 2.94911876
+  - - - '109'
+      - Rich Reinauer
+    - breakdown:
+        distance: 418.9
+        leading: 47.1
+        arrival: 0
+        time: 0
+        effort: 0
+        reach: 0
+      place: '8'
+      total: 466
+      fractions:
+        distance: 0.86264415
+        leading: 0.52333333
+        arrival: 0
+        time: 0
+        effort: 0
+        reach: 0
+      reach:
+        extra: 114.173000 km
+        flown: 101.938000 km
+      landedMade: 101.938000 km
+      ss: 2019-08-16T19:00:00Z
+      es: null
+      timeElapsed: null
+      leadingArea: 99383126.0000 km^2 s
+      leadingCoef: 2.93758987
+  - - - '112'
+      - Nathan Wreyford
+    - breakdown:
+        distance: 421.5
+        leading: 0
+        arrival: 0
+        time: 0
+        effort: 0
+        reach: 0
+      place: '9'
+      total: 422
+      fractions:
+        distance: 0.86799835
+        leading: 0
+        arrival: 0
+        time: 0
+        effort: 0
+        reach: 0
+      reach:
+        extra: 115.072000 km
+        flown: 104.582000 km
+      landedMade: 104.582000 km
+      ss: 2019-08-16T19:30:00Z
+      es: null
+      timeElapsed: null
+      leadingArea: 147514080.0000 km^2 s
+      leadingCoef: 4.36025599
+  - - - '114'
+      - Kinsley Sykes
+    - breakdown:
+        distance: 337.8
+        leading: 30.6
+        arrival: 0
+        time: 0
+        effort: 0
+        reach: 0
+      place: '10'
+      total: 368
+      fractions:
+        distance: 0.69563427
+        leading: 0.34
+        arrival: 0
+        time: 0
+        effort: 0
+        reach: 0
+      reach:
+        extra: 91.349000 km
+        flown: 90.815000 km
+      landedMade: 90.433000 km
+      ss: 2019-08-16T19:00:00Z
+      es: null
+      timeElapsed: null
+      leadingArea: 110314765.0000 km^2 s
+      leadingCoef: 3.26070985
+  - - - '108'
+      - Gary Anderson
+    - breakdown:
+        distance: 309
+        leading: 0
+        arrival: 0
+        time: 0
+        effort: 0
+        reach: 0
+      place: '11'
+      total: 309
+      fractions:
+        distance: 0.63632619
+        leading: 0
+        arrival: 0
+        time: 0
+        effort: 0
+        reach: 0
+      reach:
+        extra: 82.729000 km
+        flown: 75.179000 km
+      landedMade: 74.959000 km
+      ss: 2019-08-16T19:30:00Z
+      es: null
+      timeElapsed: null
+      leadingArea: 157413988.0000 km^2 s
+      leadingCoef: 4.65287978
+  - - - '106'
+      - Bruce Barmakian
+    - breakdown:
+        distance: 199
+        leading: 0
+        arrival: 0
+        time: 0
+        effort: 0
+        reach: 0
+      place: '12'
+      total: 199
+      fractions:
+        distance: 0.40980231
+        leading: 0
+        arrival: 0
+        time: 0
+        effort: 0
+        reach: 0
+      reach:
+        extra: 49.992000 km
+        flown: 50.285000 km
+      landedMade: 50.072000 km
+      ss: 2019-08-16T19:30:00Z
+      es: null
+      timeElapsed: null
+      leadingArea: 157813454.0000 km^2 s
+      leadingCoef: 4.66468731
+  - - - '105'
+      - David Proctor
+    - breakdown:
+        distance: 179.8
+        leading: 0
+        arrival: 0
+        time: 0
+        effort: 0
+        reach: 0
+      place: '13'
+      total: 180
+      fractions:
+        distance: 0.37026359
+        leading: 0
+        arrival: 0
+        time: 0
+        effort: 0
+        reach: 0
+      reach:
+        extra: 43.822000 km
+        flown: 44.358000 km
+      landedMade: 44.119000 km
+      ss: 2019-08-16T19:15:00Z
+      es: null
+      timeElapsed: null
+      leadingArea: 159667934.0000 km^2 s
+      leadingCoef: 4.71950247
+  - - - '103'
+      - ! 'Antonio  Mendoza '
+    - breakdown:
+        distance: 174.8
+        leading: 0
+        arrival: 0
+        time: 0
+        effort: 0
+        reach: 0
+      place: '14'
+      total: 175
+      fractions:
+        distance: 0.35996705
+        leading: 0
+        arrival: 0
+        time: 0
+        effort: 0
+        reach: 0
+      reach:
+        extra: 45.854000 km
+        flown: 42.947000 km
+      landedMade: 41.741000 km
+      ss: 2019-08-16T19:30:00Z
+      es: null
+      timeElapsed: null
+      leadingArea: 169659560.0000 km^2 s
+      leadingCoef: 5.01483729
+  - - - '111'
+      - Eduardo Panuco
+    - breakdown:
+        distance: 137
+        leading: 0
+        arrival: 0
+        time: 0
+        effort: 0
+        reach: 0
+      place: '15'
+      total: 137
+      fractions:
+        distance: 0.28212521
+        leading: 0
+        arrival: 0
+        time: 0
+        effort: 0
+        reach: 0
+      reach:
+        extra: 33.047000 km
+        flown: 32.989000 km
+      landedMade: 32.521000 km
+      ss: 2019-08-16T19:30:00Z
+      es: null
+      timeElapsed: null
+      leadingArea: 187683563.0000 km^2 s
+      leadingCoef: 5.54759504
+  - - - '116'
+      - Roger Irby
+    - breakdown:
+        distance: 20.6
+        leading: 0
+        arrival: 0
+        time: 0
+        effort: 0
+        reach: 0
+      place: '16'
+      total: 21
+      fractions:
+        distance: 4.242175e-2
+        leading: 0
+        arrival: 0
+        time: 0
+        effort: 0
+        reach: 0
+      reach:
+        extra: 3.408000 km
+        flown: 1.878000 km
+      landedMade: 0.000000 km
+      ss: null
+      es: null
+      timeElapsed: null
+      leadingArea: 0.0000 km^2 s
+      leadingCoef: 0
+- - - - '113'
+      - Rodolfo Gotes
+    - breakdown:
+        distance: 422.4
+        leading: 0
+        arrival: 28.5
+        time: 313.2
+        effort: 0
+        reach: 0
+      place: '1'
+      total: 764
+      fractions:
+        distance: 1
+        leading: 0
+        arrival: 0.509839
+        time: 1
+        effort: 0
+        reach: 0
+      reach:
+        extra: 64.309000 km
+        flown: 64.309000 km
+      landedMade: 64.308000 km
+      ss: 2019-08-17T20:00:00Z
+      es: 2019-08-17T21:58:23Z
+      timeElapsed: 1.973056 h
+      leadingArea: 18000765.0000 km^2 s
+      leadingCoef: 2.80491279
+  - - - '104'
+      - Willy Dydo
+    - breakdown:
+        distance: 422.4
+        leading: 78.3
+        arrival: 55.9
+        time: 167
+        effort: 0
+        reach: 0
+      place: '2'
+      total: 724
+      fractions:
+        distance: 1
+        leading: 1
+        arrival: 1
+        time: 0.53315275
+        effort: 0
+        reach: 0
+      reach:
+        extra: 64.309000 km
+        flown: 64.309000 km
+      landedMade: 64.308000 km
+      ss: 2019-08-17T19:15:00Z
+      es: 2019-08-17T21:40:16Z
+      timeElapsed: 2.421111 h
+      leadingArea: 9138556.0000 km^2 s
+      leadingCoef: 1.42398685
+  - - - '112'
+      - Nathan Wreyford
+    - breakdown:
+        distance: 422.4
+        leading: 0
+        arrival: 16.4
+        time: 227.1
+        effort: 0
+        reach: 0
+      place: '3'
+      total: 666
+      fractions:
+        distance: 1
+        leading: 0
+        arrival: 0.29338104
+        time: 0.72506064
+        effort: 0
+        reach: 0
+      reach:
+        extra: 64.309000 km
+        flown: 64.309000 km
+      landedMade: 64.308000 km
+      ss: 2019-08-17T20:00:00Z
+      es: 2019-08-17T22:10:32Z
+      timeElapsed: 2.175556 h
+      leadingArea: 18635429.0000 km^2 s
+      leadingCoef: 2.90380737
+  - - - '115'
+      - Erick Salgado
+    - breakdown:
+        distance: 422.4
+        leading: 0
+        arrival: 28
+        time: 212.1
+        effort: 0
+        reach: 0
+      place: '4'
+      total: 663
+      fractions:
+        distance: 1
+        leading: 0
+        arrival: 0.50089445
+        time: 0.67706344
+        effort: 0
+        reach: 0
+      reach:
+        extra: 64.309000 km
+        flown: 64.309000 km
+      landedMade: 64.308000 km
+      ss: 2019-08-17T19:45:00Z
+      es: 2019-08-17T21:58:51Z
+      timeElapsed: 2.230833 h
+      leadingArea: 17353562.0000 km^2 s
+      leadingCoef: 2.70406441
+  - - - '101'
+      - Davis Straub
+    - breakdown:
+        distance: 422.4
+        leading: 9.1
+        arrival: 23.2
+        time: 194
+        effort: 0
+        reach: 0
+      place: '5'
+      total: 649
+      fractions:
+        distance: 1
+        leading: 0.11621967
+        arrival: 0.41502683
+        time: 0.6194728
+        effort: 0
+        reach: 0
+      reach:
+        extra: 64.309000 km
+        flown: 64.309000 km
+      landedMade: 64.308000 km
+      ss: 2019-08-17T19:45:00Z
+      es: 2019-08-17T22:03:10Z
+      timeElapsed: 2.302778 h
+      leadingArea: 15501635.0000 km^2 s
+      leadingCoef: 2.41549379
+  - - - '106'
+      - Bruce Barmakian
+    - breakdown:
+        distance: 422.4
+        leading: 0
+        arrival: 13.2
+        time: 151.7
+        effort: 0
+        reach: 0
+      place: '6'
+      total: 587
+      fractions:
+        distance: 1
+        leading: 0
+        arrival: 0.23613596
+        time: 0.48442824
+        effort: 0
+        reach: 0
+      reach:
+        extra: 64.309000 km
+        flown: 64.309000 km
+      landedMade: 64.308000 km
+      ss: 2019-08-17T19:45:00Z
+      es: 2019-08-17T22:14:35Z
+      timeElapsed: 2.493056 h
+      leadingArea: 17917682.0000 km^2 s
+      leadingCoef: 2.79196668
+  - - - '105'
+      - David Proctor
+    - breakdown:
+        distance: 397.6
+        leading: 0
+        arrival: 0
+        time: 0
+        effort: 0
+        reach: 0
+      place: '7'
+      total: 398
+      fractions:
+        distance: 0.94128788
+        leading: 0
+        arrival: 0
+        time: 0
+        effort: 0
+        reach: 0
+      reach:
+        extra: 59.099000 km
+        flown: 56.760000 km
+      landedMade: 56.760000 km
+      ss: 2019-08-17T20:00:00Z
+      es: null
+      timeElapsed: null
+      leadingArea: 23671448.0000 km^2 s
+      leadingCoef: 3.68852925
+  - - - '110'
+      - Kevin Carter
+    - breakdown:
+        distance: 376.5
+        leading: 0
+        arrival: 0
+        time: 0
+        effort: 0
+        reach: 0
+      place: '8'
+      total: 377
+      fractions:
+        distance: 0.89133523
+        leading: 0
+        arrival: 0
+        time: 0
+        effort: 0
+        reach: 0
+      reach:
+        extra: 52.508000 km
+        flown: 52.026000 km
+      landedMade: 52.005000 km
+      ss: 2019-08-17T20:30:00Z
+      es: null
+      timeElapsed: null
+      leadingArea: 28938814.0000 km^2 s
+      leadingCoef: 4.50929998
+  - - - '107'
+      - Tom McGowan
+    - breakdown:
+        distance: 365.4
+        leading: 0
+        arrival: 0
+        time: 0
+        effort: 0
+        reach: 0
+      place: '9'
+      total: 365
+      fractions:
+        distance: 0.86505682
+        leading: 0
+        arrival: 0
+        time: 0
+        effort: 0
+        reach: 0
+      reach:
+        extra: 56.270000 km
+        flown: 50.061000 km
+      landedMade: 50.061000 km
+      ss: 2019-08-17T20:00:00Z
+      es: null
+      timeElapsed: null
+      leadingArea: 23593439.0000 km^2 s
+      leadingCoef: 3.67637367
+  - - - '109'
+      - Rich Reinauer
+    - breakdown:
+        distance: 285.2
+        leading: 0
+        arrival: 0
+        time: 0
+        effort: 0
+        reach: 0
+      place: '10'
+      total: 285
+      fractions:
+        distance: 0.67518939
+        leading: 0
+        arrival: 0
+        time: 0
+        effort: 0
+        reach: 0
+      reach:
+        extra: 41.800000 km
+        flown: 38.336000 km
+      landedMade: 36.938000 km
+      ss: 2019-08-17T19:45:00Z
+      es: null
+      timeElapsed: null
+      leadingArea: 23914157.0000 km^2 s
+      leadingCoef: 3.72634866
+  - - - '102'
+      - Vic Hare
+    - breakdown:
+        distance: 279.8
+        leading: 0
+        arrival: 0
+        time: 0
+        effort: 0
+        reach: 0
+      place: '11'
+      total: 280
+      fractions:
+        distance: 0.6624053
+        leading: 0
+        arrival: 0
+        time: 0
+        effort: 0
+        reach: 0
+      reach:
+        extra: 40.859000 km
+        flown: 37.653000 km
+      landedMade: 34.991000 km
+      ss: 2019-08-17T20:15:00Z
+      es: null
+      timeElapsed: null
+      leadingArea: 24131141.0000 km^2 s
+      leadingCoef: 3.76015941
+  - - - '103'
+      - ! 'Antonio  Mendoza '
+    - breakdown:
+        distance: 223.3
+        leading: 0
+        arrival: 0
+        time: 0
+        effort: 0
+        reach: 0
+      place: '12'
+      total: 223
+      fractions:
+        distance: 0.52864583
+        leading: 0
+        arrival: 0
+        time: 0
+        effort: 0
+        reach: 0
+      reach:
+        extra: 33.090000 km
+        flown: 30.210000 km
+      landedMade: 29.819000 km
+      ss: 2019-08-17T20:15:00Z
+      es: null
+      timeElapsed: null
+      leadingArea: 28494290.0000 km^2 s
+      leadingCoef: 4.44003349
+  - - - '108'
+      - Gary Anderson
+    - breakdown:
+        distance: 218.2
+        leading: 0
+        arrival: 0
+        time: 0
+        effort: 0
+        reach: 0
+      place: '13'
+      total: 218
+      fractions:
+        distance: 0.51657197
+        leading: 0
+        arrival: 0
+        time: 0
+        effort: 0
+        reach: 0
+      reach:
+        extra: 30.470000 km
+        flown: 29.457000 km
+      landedMade: 29.419000 km
+      ss: 2019-08-17T20:00:00Z
+      es: null
+      timeElapsed: null
+      leadingArea: 27030311.0000 km^2 s
+      leadingCoef: 4.21191349
+  - - - '116'
+      - Roger Irby
+    - breakdown:
+        distance: 218.2
+        leading: 0
+        arrival: 0
+        time: 0
+        effort: 0
+        reach: 0
+      place: '13'
+      total: 218
+      fractions:
+        distance: 0.51657197
+        leading: 0
+        arrival: 0
+        time: 0
+        effort: 0
+        reach: 0
+      reach:
+        extra: 34.290000 km
+        flown: 29.460000 km
+      landedMade: 26.802000 km
+      ss: 2019-08-17T20:30:00Z
+      es: null
+      timeElapsed: null
+      leadingArea: 29257447.0000 km^2 s
+      leadingCoef: 4.55895002
+  - - - '111'
+      - Eduardo Panuco
+    - breakdown:
+        distance: 117.4
+        leading: 0
+        arrival: 0
+        time: 0
+        effort: 0
+        reach: 0
+      place: '15'
+      total: 117
+      fractions:
+        distance: 0.27793561
+        leading: 0
+        arrival: 0
+        time: 0
+        effort: 0
+        reach: 0
+      reach:
+        extra: 18.919000 km
+        flown: 18.433000 km
+      landedMade: 18.090000 km
+      ss: 2019-08-17T20:00:00Z
+      es: null
+      timeElapsed: null
+      leadingArea: 33937614.0000 km^2 s
+      leadingCoef: 5.28822247
+  - - - '114'
+      - Kinsley Sykes
+    - breakdown:
+        distance: 28.5
+        leading: 0
+        arrival: 0
+        time: 0
+        effort: 0
+        reach: 0
+      place: '16'
+      total: 29
+      fractions:
+        distance: 6.747159e-2
+        leading: 0
+        arrival: 0
+        time: 0
+        effort: 0
+        reach: 0
+      reach:
+        extra: 1.175000 km
+        flown: 0.000000 km
+      landedMade: 0.000000 km
+      ss: null
+      es: null
+      timeElapsed: null
+      leadingArea: 0.0000 km^2 s
+      leadingCoef: 0

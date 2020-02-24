@@ -1,0 +1,844 @@
+bolster:
+- max: 139.666625 km
+  mean: 81.952357 km
+  stdDev: 66.642696 km
+- max: 151.866614 km
+  mean: 151.866614 km
+  stdDev: 0.000000 km
+- max: 99.410831 km
+  mean: 81.403998 km
+  stdDev: 32.343509 km
+- max: 117.962697 km
+  mean: 39.581573 km
+  stdDev: 46.708936 km
+- max: 73.210391 km
+  mean: 48.539993 km
+  stdDev: 29.579612 km
+- max: 0.000000 km
+  mean: -269653970229347386159395778618353710042696546841345985910145121736599013708251444699062715983611304031680170819807090036488184653221624933739271145959211186566651840137298227914453329401869141179179624428127508653257226023513694322210869665811240855745025766026879447359920868907719574457253034494436336205824.000000
+    km
+  stdDev: 0.000000 km
+- max: 64.324047 km
+  mean: 43.214952 km
+  stdDev: 19.423991 km
+reach:
+- max: 139.666625 km
+  mean: 79.826117 km
+  stdDev: 69.097876 km
+- max: 151.866614 km
+  mean: 151.866614 km
+  stdDev: 0.000000 km
+- max: 99.410831 km
+  mean: 81.154754 km
+  stdDev: 32.938344 km
+- max: 117.962697 km
+  mean: 37.826947 km
+  stdDev: 48.037424 km
+- max: 73.210391 km
+  mean: 47.410929 km
+  stdDev: 31.265452 km
+- max: 0.000000 km
+  mean: -269653970229347386159395778618353710042696546841345985910145121736599013708251444699062715983611304031680170819807090036488184653221624933739271145959211186566651840137298227914453329401869141179179624428127508653257226023513694322210869665811240855745025766026879447359920868907719574457253034494436336205824.000000
+    km
+  stdDev: 0.000000 km
+- max: 64.324047 km
+  mean: 42.739502 km
+  stdDev: 20.393395 km
+reachRank:
+- - - - '104'
+      - Willy Dydo
+    - frac: 1
+      reach: 139.666625 km
+  - - - '110'
+      - Kevin Carter
+    - frac: 1
+      reach: 139.666625 km
+  - - - '102'
+      - Vic Hare
+    - frac: 1
+      reach: 139.666625 km
+  - - - '113'
+      - Rodolfo Gotes
+    - frac: 1
+      reach: 139.666625 km
+  - - - '105'
+      - David Proctor
+    - frac: 0.83281969
+      reach: 0.116317 km
+  - - - '103'
+      - ! 'Antonio  Mendoza '
+    - frac: 0
+      reach: 0.000000 km
+  - - - '109'
+      - Rich Reinauer
+    - frac: 0
+      reach: 0.000000 km
+- - - - '104'
+      - Willy Dydo
+    - frac: 1
+      reach: 151.866614 km
+  - - - '113'
+      - Rodolfo Gotes
+    - frac: 1
+      reach: 151.866614 km
+  - - - '102'
+      - Vic Hare
+    - frac: 1
+      reach: 151.866614 km
+  - - - '110'
+      - Kevin Carter
+    - frac: 1
+      reach: 151.866614 km
+- - - - '102'
+      - Vic Hare
+    - frac: 1
+      reach: 99.410831 km
+  - - - '113'
+      - Rodolfo Gotes
+    - frac: 1
+      reach: 99.410831 km
+  - - - '115'
+      - Erick Salgado
+    - frac: 1
+      reach: 99.410831 km
+  - - - '106'
+      - Bruce Barmakian
+    - frac: 1
+      reach: 99.410831 km
+  - - - '116'
+      - Roger Irby
+    - frac: 1
+      reach: 99.410831 km
+  - - - '109'
+      - Rich Reinauer
+    - frac: 1
+      reach: 99.410831 km
+  - - - '101'
+      - Davis Straub
+    - frac: 1
+      reach: 99.410831 km
+  - - - '108'
+      - Gary Anderson
+    - frac: 1
+      reach: 99.410831 km
+  - - - '105'
+      - David Proctor
+    - frac: 1
+      reach: 99.410831 km
+  - - - '112'
+      - Nathan Wreyford
+    - frac: 0.92688925
+      reach: 92.142831 km
+  - - - '104'
+      - Willy Dydo
+    - frac: 0.39847601
+      reach: 39.612831 km
+  - - - '103'
+      - ! 'Antonio  Mendoza '
+    - frac: 0.26957657
+      reach: 26.798831 km
+  - - - '107'
+      - Tom McGowan
+    - frac: 1.770261e-2
+      reach: 1.759831 km
+- - - - '106'
+      - Bruce Barmakian
+    - frac: 1
+      reach: 117.962697 km
+  - - - '113'
+      - Rodolfo Gotes
+    - frac: 1
+      reach: 117.962697 km
+  - - - '115'
+      - Erick Salgado
+    - frac: 1
+      reach: 117.962697 km
+  - - - '101'
+      - Davis Straub
+    - frac: 0.37669279
+      reach: 44.435697 km
+  - - - '110'
+      - Kevin Carter
+    - frac: 0.24573613
+      reach: 28.987697 km
+  - - - '104'
+      - Willy Dydo
+    - frac: 0.13341249
+      reach: 15.737697 km
+  - - - '102'
+      - Vic Hare
+    - frac: 5.874482e-2
+      reach: 6.929697 km
+  - - - '116'
+      - Roger Irby
+    - frac: 1.024643e-2
+      reach: 1.208697 km
+  - - - '109'
+      - Rich Reinauer
+    - frac: 1.023796e-2
+      reach: 1.207697 km
+  - - - '107'
+      - Tom McGowan
+    - frac: 1.016166e-2
+      reach: 1.198697 km
+  - - - '108'
+      - Gary Anderson
+    - frac: 7.81346e-3
+      reach: 0.921697 km
+  - - - '112'
+      - Nathan Wreyford
+    - frac: -5.0211e-3
+      reach: -0.592303 km
+- - - - '106'
+      - Bruce Barmakian
+    - frac: 1
+      reach: 73.210391 km
+  - - - '115'
+      - Erick Salgado
+    - frac: 1
+      reach: 73.210391 km
+  - - - '113'
+      - Rodolfo Gotes
+    - frac: 1
+      reach: 73.210391 km
+  - - - '101'
+      - Davis Straub
+    - frac: 1
+      reach: 73.210391 km
+  - - - '112'
+      - Nathan Wreyford
+    - frac: 1
+      reach: 73.210391 km
+  - - - '109'
+      - Rich Reinauer
+    - frac: 1
+      reach: 73.210391 km
+  - - - '108'
+      - Gary Anderson
+    - frac: 1
+      reach: 73.210391 km
+  - - - '107'
+      - Tom McGowan
+    - frac: 0.66201519
+      reach: 48.466391 km
+  - - - '116'
+      - Roger Irby
+    - frac: 0.60162759
+      reach: 44.045391 km
+  - - - '111'
+      - Eduardo Panuco
+    - frac: 0.15073531
+      reach: 11.035391 km
+  - - - '105'
+      - David Proctor
+    - frac: 4.62217e-3
+      reach: 0.338391 km
+  - - - '103'
+      - ! 'Antonio  Mendoza '
+    - frac: 8.5222e-4
+      reach: 0.062391 km
+  - - - '114'
+      - Kinsley Sykes
+    - frac: -1.07374e-3
+      reach: -0.078609 km
+- []
+- - - - '113'
+      - Rodolfo Gotes
+    - frac: 1
+      reach: 64.324047 km
+  - - - '115'
+      - Erick Salgado
+    - frac: 1
+      reach: 64.324047 km
+  - - - '106'
+      - Bruce Barmakian
+    - frac: 1
+      reach: 64.324047 km
+  - - - '105'
+      - David Proctor
+    - frac: 0.89283945
+      reach: 57.431047 km
+  - - - '110'
+      - Kevin Carter
+    - frac: 0.80920044
+      reach: 52.051047 km
+  - - - '107'
+      - Tom McGowan
+    - frac: 0.80731934
+      reach: 51.930047 km
+  - - - '102'
+      - Vic Hare
+    - frac: 0.58631334
+      reach: 37.714047 km
+  - - - '103'
+      - ! 'Antonio  Mendoza '
+    - frac: 0.47041578
+      reach: 30.259047 km
+  - - - '108'
+      - Gary Anderson
+    - frac: 0.45877162
+      reach: 29.510047 km
+  - - - '111'
+      - Eduardo Panuco
+    - frac: 0.28756037
+      reach: 18.497047 km
+  - - - '114'
+      - Kinsley Sykes
+    - frac: -3.57491e-3
+      reach: -0.229953 km
+nigh:
+- []
+- []
+- - - - '112'
+      - Nathan Wreyford
+    - togo:
+        distance: 7.265447 km
+        flipSum:
+        - 7.265447 km
+        legs:
+        - 7.265447 km
+        legsSum:
+        - 7.265447 km
+        waypoints:
+        - lat: 31.45056667
+          lng: -101.93883333
+        - lat: 31.38535367
+          lng: -101.94359984
+      made: 92.142831 km
+  - - - '104'
+      - Willy Dydo
+    - togo:
+        distance: 59.797930 km
+        flipSum:
+        - 59.797930 km
+        legs:
+        - 59.797930 km
+        legsSum:
+        - 59.797930 km
+        waypoints:
+        - lat: 31.86953333
+          lng: -101.63781667
+        - lat: 31.37318288
+          lng: -101.88088122
+      made: 39.612831 km
+  - - - '103'
+      - ! 'Antonio  Mendoza '
+    - togo:
+        distance: 72.611656 km
+        flipSum:
+        - 72.611656 km
+        legs:
+        - 72.611656 km
+        legsSum:
+        - 72.611656 km
+        waypoints:
+        - lat: 32.0121
+          lng: -101.71163333
+        - lat: 31.38052518
+          lng: -101.90667307
+      made: 26.798831 km
+  - - - '107'
+      - Tom McGowan
+    - togo:
+        distance: 97.651924 km
+        flipSum:
+        - 97.651924 km
+        legs:
+        - 97.651924 km
+        legsSum:
+        - 97.651924 km
+        waypoints:
+        - lat: 32.20758333
+          lng: -101.55715
+        - lat: 31.3772479
+          lng: -101.89362307
+      made: 1.759831 km
+- - - - '101'
+      - Davis Straub
+    - togo:
+        distance: 73.526186 km
+        flipSum:
+        - 73.526186 km
+        - 58.725483 km
+        legs:
+        - 14.800703 km
+        - 58.725483 km
+        legsSum:
+        - 14.800703 km
+        - 73.526186 km
+        waypoints:
+        - lat: 32.44451667
+          lng: -101.92531667
+        - lat: 32.54699047
+          lng: -102.02603487
+        - lat: 32.66892103
+          lng: -102.63605109
+      made: 44.435697 km
+  - - - '110'
+      - Kevin Carter
+    - togo:
+        distance: 88.974615 km
+        flipSum:
+        - 88.974615 km
+        - 58.725483 km
+        legs:
+        - 30.249132 km
+        - 58.725483 km
+        legsSum:
+        - 30.249132 km
+        - 88.974615 km
+        waypoints:
+        - lat: 32.33916667
+          lng: -101.81803333
+        - lat: 32.54699047
+          lng: -102.02603487
+        - lat: 32.66892103
+          lng: -102.63605109
+      made: 28.987697 km
+  - - - '104'
+      - Willy Dydo
+    - togo:
+        distance: 102.224877 km
+        flipSum:
+        - 102.224877 km
+        - 58.742575 km
+        legs:
+        - 43.482302 km
+        - 58.742575 km
+        legsSum:
+        - 43.482302 km
+        - 102.224877 km
+        waypoints:
+        - lat: 32.25603333
+          lng: -101.71631667
+        - lat: 32.54690692
+          lng: -102.02587115
+        - lat: 32.66892103
+          lng: -102.63605109
+      made: 15.737697 km
+  - - - '102'
+      - Vic Hare
+    - togo:
+        distance: 111.032587 km
+        flipSum:
+        - 111.032587 km
+        - 58.777039 km
+        legs:
+        - 52.255548 km
+        - 58.777039 km
+        legsSum:
+        - 52.255548 km
+        - 111.032587 km
+        waypoints:
+        - lat: 32.22293333
+          lng: -101.62223333
+        - lat: 32.54674727
+          lng: -102.02553853
+        - lat: 32.66892103
+          lng: -102.63605109
+      made: 6.929697 km
+  - - - '107'
+      - Tom McGowan
+    - togo:
+        distance: 116.763816 km
+        flipSum:
+        - 116.763816 km
+        - 58.794399 km
+        legs:
+        - 57.969417 km
+        - 58.794399 km
+        legsSum:
+        - 57.969417 km
+        - 116.763816 km
+        waypoints:
+        - lat: 32.20268333
+          lng: -101.56153333
+        - lat: 32.54667123
+          lng: -102.02536974
+        - lat: 32.66892103
+          lng: -102.63605109
+      made: 1.198697 km
+  - - - '109'
+      - Rich Reinauer
+    - togo:
+        distance: 116.754410 km
+        flipSum:
+        - 116.754410 km
+        - 58.794399 km
+        legs:
+        - 57.960011 km
+        - 58.794399 km
+        legsSum:
+        - 57.960011 km
+        - 116.754410 km
+        waypoints:
+        - lat: 32.2023
+          lng: -101.56206667
+        - lat: 32.54667123
+          lng: -102.02536974
+        - lat: 32.66892103
+          lng: -102.63605109
+      made: 1.207697 km
+  - - - '108'
+      - Gary Anderson
+    - togo:
+        distance: 117.040369 km
+        flipSum:
+        - 117.040369 km
+        - 58.794399 km
+        legs:
+        - 58.245969 km
+        - 58.794399 km
+        legsSum:
+        - 58.245969 km
+        - 117.040369 km
+        waypoints:
+        - lat: 32.20188333
+          lng: -101.55845
+        - lat: 32.54667123
+          lng: -102.02536974
+        - lat: 32.66892103
+          lng: -102.63605109
+      made: 0.921697 km
+  - - - '112'
+      - Nathan Wreyford
+    - togo:
+        distance: 118.554774 km
+        flipSum:
+        - 118.554774 km
+        - 58.829349 km
+        legs:
+        - 59.725425 km
+        - 58.829349 km
+        legsSum:
+        - 59.725425 km
+        - 118.554774 km
+        waypoints:
+        - lat: 32.21078333
+          lng: -101.52858333
+        - lat: 32.54652682
+          lng: -102.02502746
+        - lat: 32.66892103
+          lng: -102.63605109
+      made: -0.592303 km
+  - - - '116'
+      - Roger Irby
+    - togo:
+        distance: 116.752958 km
+        flipSum:
+        - 116.752958 km
+        - 58.794399 km
+        legs:
+        - 57.958559 km
+        - 58.794399 km
+        legsSum:
+        - 57.958559 km
+        - 116.752958 km
+        waypoints:
+        - lat: 32.20406667
+          lng: -101.56025
+        - lat: 32.54667123
+          lng: -102.02536974
+        - lat: 32.66892103
+          lng: -102.63605109
+      made: 1.208697 km
+- - - - '107'
+      - Tom McGowan
+    - togo:
+        distance: 24.743575 km
+        flipSum:
+        - 24.743575 km
+        legs:
+        - 24.743575 km
+        legsSum:
+        - 24.743575 km
+        waypoints:
+        - lat: 32.44303333
+          lng: -101.54603333
+        - lat: 32.22120606
+          lng: -101.52520486
+      made: 48.466391 km
+  - - - '116'
+      - Roger Irby
+    - togo:
+        distance: 29.164983 km
+        flipSum:
+        - 29.164983 km
+        legs:
+        - 29.164983 km
+        legsSum:
+        - 29.164983 km
+        waypoints:
+        - lat: 32.48346667
+          lng: -101.53005
+        - lat: 32.2212147
+          lng: -101.52497628
+      made: 44.045391 km
+  - - - '111'
+      - Eduardo Panuco
+    - togo:
+        distance: 62.167663 km
+        flipSum:
+        - 62.167663 km
+        - 40.685167 km
+        - 30.354294 km
+        legs:
+        - 21.482496 km
+        - 10.330873 km
+        - 30.354294 km
+        legsSum:
+        - 21.482496 km
+        - 31.813369 km
+        - 62.167663 km
+        waypoints:
+        - lat: 32.315
+          lng: -101.56178333
+        - lat: 32.49220937
+          lng: -101.65292857
+        - lat: 32.49378469
+          lng: -101.54279325
+        - lat: 32.22121009
+          lng: -101.52512873
+      made: 11.035391 km
+  - - - '114'
+      - Kinsley Sykes
+    - togo:
+        distance: 73.284811 km
+        flipSum:
+        - 73.284811 km
+        - 40.756400 km
+        - 30.354294 km
+        legs:
+        - 32.528411 km
+        - 10.402106 km
+        - 30.354294 km
+        legsSum:
+        - 32.528411 km
+        - 42.930517 km
+        - 73.284811 km
+        waypoints:
+        - lat: 32.21916667
+          lng: -101.5265
+        - lat: 32.4912652
+          lng: -101.6536631
+        - lat: 32.49378469
+          lng: -101.54279325
+        - lat: 32.22121009
+          lng: -101.52512873
+      made: -0.078609 km
+  - - - '105'
+      - David Proctor
+    - togo:
+        distance: 72.867485 km
+        flipSum:
+        - 72.867485 km
+        - 40.756400 km
+        - 30.354294 km
+        legs:
+        - 32.111085 km
+        - 10.402106 km
+        - 30.354294 km
+        legsSum:
+        - 32.111085 km
+        - 42.513191 km
+        - 72.867485 km
+        waypoints:
+        - lat: 32.21985
+          lng: -101.5369
+        - lat: 32.4912652
+          lng: -101.6536631
+        - lat: 32.49378469
+          lng: -101.54279325
+        - lat: 32.22121009
+          lng: -101.52512873
+      made: 0.338391 km
+  - - - '103'
+      - ! 'Antonio  Mendoza '
+    - togo:
+        distance: 73.143338 km
+        flipSum:
+        - 73.143338 km
+        - 40.685167 km
+        - 30.354294 km
+        legs:
+        - 32.458172 km
+        - 10.330873 km
+        - 30.354294 km
+        legsSum:
+        - 32.458172 km
+        - 42.789045 km
+        - 73.143338 km
+        waypoints:
+        - lat: 32.22198333
+          lng: -101.52225
+        - lat: 32.49220937
+          lng: -101.65292857
+        - lat: 32.49378469
+          lng: -101.54279325
+        - lat: 32.22121009
+          lng: -101.52512873
+      made: 0.062391 km
+- []
+- - - - '105'
+      - David Proctor
+    - togo:
+        distance: 6.893153 km
+        flipSum:
+        - 6.893153 km
+        legs:
+        - 6.893153 km
+        legsSum:
+        - 6.893153 km
+        waypoints:
+        - lat: 32.22351667
+          lng: -101.60213333
+        - lat: 32.21792216
+          lng: -101.52915623
+      made: 57.431047 km
+  - - - '110'
+      - Kevin Carter
+    - togo:
+        distance: 12.273192 km
+        flipSum:
+        - 12.273192 km
+        legs:
+        - 12.273192 km
+        legsSum:
+        - 12.273192 km
+        waypoints:
+        - lat: 32.26868333
+          lng: -101.64538333
+        - lat: 32.2192182
+          lng: -101.52872129
+      made: 52.051047 km
+  - - - '107'
+      - Tom McGowan
+    - togo:
+        distance: 12.393589 km
+        flipSum:
+        - 12.393589 km
+        legs:
+        - 12.393589 km
+        legsSum:
+        - 12.393589 km
+        waypoints:
+        - lat: 32.32255
+          lng: -101.58071667
+        - lat: 32.22088856
+          lng: -101.52667523
+      made: 51.930047 km
+  - - - '102'
+      - Vic Hare
+    - togo:
+        distance: 26.610428 km
+        flipSum:
+        - 26.610428 km
+        - 22.314807 km
+        legs:
+        - 4.295620 km
+        - 22.314807 km
+        legsSum:
+        - 4.295620 km
+        - 26.610428 km
+        waypoints:
+        - lat: 32.3147
+          lng: -101.72275
+        - lat: 32.28553478
+          lng: -101.75272104
+        - lat: 32.21880268
+          lng: -101.52892987
+      made: 37.714047 km
+  - - - '103'
+      - ! 'Antonio  Mendoza '
+    - togo:
+        distance: 34.065272 km
+        flipSum:
+        - 34.065272 km
+        - 22.356768 km
+        legs:
+        - 11.708504 km
+        - 22.356768 km
+        legsSum:
+        - 11.708504 km
+        - 34.065272 km
+        waypoints:
+        - lat: 32.37346667
+          lng: -101.68328333
+        - lat: 32.28615385
+          lng: -101.75293598
+        - lat: 32.21880268
+          lng: -101.52892987
+      made: 30.259047 km
+  - - - '108'
+      - Gary Anderson
+    - togo:
+        distance: 34.813711 km
+        flipSum:
+        - 34.813711 km
+        - 22.324892 km
+        legs:
+        - 12.488819 km
+        - 22.324892 km
+        legsSum:
+        - 12.488819 km
+        - 34.813711 km
+        waypoints:
+        - lat: 32.37246667
+          lng: -101.66838333
+        - lat: 32.28569074
+          lng: -101.75276986
+        - lat: 32.21880268
+          lng: -101.52892987
+      made: 29.510047 km
+  - - - '111'
+      - Eduardo Panuco
+    - togo:
+        distance: 45.826910 km
+        flipSum:
+        - 45.826910 km
+        - 42.935894 km
+        - 22.286226 km
+        legs:
+        - 2.891017 km
+        - 20.649668 km
+        - 22.286226 km
+        legsSum:
+        - 2.891017 km
+        - 23.540684 km
+        - 45.826910 km
+        waypoints:
+        - lat: 32.3816
+          lng: -101.57693333
+        - lat: 32.40639789
+          lng: -101.58618604
+        - lat: 32.28506283
+          lng: -101.75259443
+        - lat: 32.21880268
+          lng: -101.52892987
+      made: 18.497047 km
+  - - - '114'
+      - Kinsley Sykes
+    - togo:
+        distance: 64.553091 km
+        flipSum:
+        - 64.553091 km
+        - 42.926294 km
+        - 22.286226 km
+        legs:
+        - 21.626798 km
+        - 20.640068 km
+        - 22.286226 km
+        legsSum:
+        - 21.626798 km
+        - 42.266866 km
+        - 64.553091 km
+        waypoints:
+        - lat: 32.2189
+          lng: -101.5254
+        - lat: 32.40644472
+          lng: -101.58636891
+        - lat: 32.28506283
+          lng: -101.75259443
+        - lat: 32.21880268
+          lng: -101.52892987
+      made: -0.229953 km

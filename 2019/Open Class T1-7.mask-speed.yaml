@@ -1,0 +1,361 @@
+ssBestTime:
+- 2.418037 h
+- 2.680421 h
+- 1.644329 h
+- 2.891146 h
+- 1.888985 h
+- null
+- 1.965079 h
+gsBestTime:
+- 2.440464 h
+- 2.738230 h
+- 1.696754 h
+- 3.444392 h
+- 1.929838 h
+- null
+- 1.973040 h
+taskDistance:
+- 139.666625 km
+- 151.866614 km
+- 99.410831 km
+- 117.962697 km
+- 73.210391 km
+- 145.016765 km
+- 64.324047 km
+taskSpeedDistance:
+- 133.444663 km
+- 150.304345 km
+- 93.792495 km
+- 112.410439 km
+- 68.610391 km
+- 137.416765 km
+- 59.724047 km
+ssSpeed:
+- - - - '110'
+      - Kevin Carter
+    - time: 2.418037 h
+      frac: 1
+  - - - '104'
+      - Willy Dydo
+    - time: 2.491252 h
+      frac: 0.86960976
+  - - - '102'
+      - Vic Hare
+    - time: 2.563881 h
+      frac: 0.79357134
+  - - - '113'
+      - Rodolfo Gotes
+    - time: 3.032681 h
+      frac: 0.4614063
+- - - - '113'
+      - Rodolfo Gotes
+    - time: 2.680421 h
+      frac: 1
+  - - - '104'
+      - Willy Dydo
+    - time: 2.722687 h
+      frac: 0.91265198
+  - - - '102'
+      - Vic Hare
+    - time: 2.984659 h
+      frac: 0.67435754
+  - - - '110'
+      - Kevin Carter
+    - time: 3.593401 h
+      frac: 0.32250475
+- - - - '106'
+      - Bruce Barmakian
+    - time: 1.644329 h
+      frac: 1
+  - - - '102'
+      - Vic Hare
+    - time: 2.077453 h
+      frac: 0.51499613
+  - - - '113'
+      - Rodolfo Gotes
+    - time: 2.084687 h
+      frac: 0.50961047
+  - - - '115'
+      - Erick Salgado
+    - time: 2.100706 h
+      frac: 0.49778911
+  - - - '109'
+      - Rich Reinauer
+    - time: 2.160885 h
+      frac: 0.45455779
+  - - - '116'
+      - Roger Irby
+    - time: 2.365168 h
+      frac: 0.31887128
+  - - - '101'
+      - Davis Straub
+    - time: 2.538742 h
+      frac: 0.21350526
+  - - - '105'
+      - David Proctor
+    - time: 2.574444 h
+      frac: 0.19271267
+  - - - '108'
+      - Gary Anderson
+    - time: 2.595632 h
+      frac: 0.18049832
+- - - - '115'
+      - Erick Salgado
+    - time: 2.891146 h
+      frac: 1
+  - - - '106'
+      - Bruce Barmakian
+    - time: 3.437676 h
+      frac: 0.53076995
+  - - - '113'
+      - Rodolfo Gotes
+    - time: 3.876517 h
+      frac: 0.30490654
+- - - - '113'
+      - Rodolfo Gotes
+    - time: 1.888985 h
+      frac: 1
+  - - - '106'
+      - Bruce Barmakian
+    - time: 1.920999 h
+      frac: 0.91843983
+  - - - '101'
+      - Davis Straub
+    - time: 1.997996 h
+      frac: 0.81539831
+  - - - '115'
+      - Erick Salgado
+    - time: 2.151944 h
+      frac: 0.66796615
+  - - - '112'
+      - Nathan Wreyford
+    - time: 2.372020 h
+      frac: 0.50198482
+  - - - '108'
+      - Gary Anderson
+    - time: 2.707841 h
+      frac: 0.29195295
+  - - - '109'
+      - Rich Reinauer
+    - time: 2.713189 h
+      frac: 0.28887378
+- []
+- - - - '113'
+      - Rodolfo Gotes
+    - time: 1.965079 h
+      frac: 1
+  - - - '115'
+      - Erick Salgado
+    - time: 2.061451 h
+      frac: 0.83218072
+  - - - '106'
+      - Bruce Barmakian
+    - time: 2.322535 h
+      frac: 0.59788055
+gsSpeed:
+- - - - '110'
+      - Kevin Carter
+    - time: 2.440464 h
+      frac: 1
+  - - - '104'
+      - Willy Dydo
+    - time: 2.564195 h
+      frac: 0.81557111
+  - - - '102'
+      - Vic Hare
+    - time: 2.587260 h
+      frac: 0.79331055
+  - - - '113'
+      - Rodolfo Gotes
+    - time: 3.119465 h
+      frac: 0.42620573
+- - - - '104'
+      - Willy Dydo
+    - time: 2.738230 h
+      frac: 1
+  - - - '113'
+      - Rodolfo Gotes
+    - time: 2.747111 h
+      frac: 0.96934756
+  - - - '102'
+      - Vic Hare
+    - time: 3.000187 h
+      frac: 0.70736225
+  - - - '110'
+      - Kevin Carter
+    - time: 3.608091 h
+      frac: 0.34865686
+- - - - '106'
+      - Bruce Barmakian
+    - time: 1.696754 h
+      frac: 1
+  - - - '102'
+      - Vic Hare
+    - time: 2.089009 h
+      frac: 0.55073151
+  - - - '113'
+      - Rodolfo Gotes
+    - time: 2.092380 h
+      frac: 0.54816134
+  - - - '115'
+      - Erick Salgado
+    - time: 2.121271 h
+      frac: 0.5264233
+  - - - '109'
+      - Rich Reinauer
+    - time: 2.183207 h
+      frac: 0.48141398
+  - - - '116'
+      - Roger Irby
+    - time: 2.383708 h
+      frac: 0.34725192
+  - - - '101'
+      - Davis Straub
+    - time: 2.547976 h
+      frac: 0.24695263
+  - - - '108'
+      - Gary Anderson
+    - time: 2.608896 h
+      frac: 0.21143919
+  - - - '105'
+      - David Proctor
+    - time: 2.679041 h
+      frac: 0.17151244
+- - - - '106'
+      - Bruce Barmakian
+    - time: 3.444392 h
+      frac: 1
+  - - - '113'
+      - Rodolfo Gotes
+    - time: 3.879114 h
+      frac: 0.62001154
+  - - - '115'
+      - Erick Salgado
+    - time: 3.966214 h
+      frac: 0.5708153
+- - - - '106'
+      - Bruce Barmakian
+    - time: 1.929838 h
+      frac: 1
+  - - - '113'
+      - Rodolfo Gotes
+    - time: 1.932513 h
+      frac: 0.98452431
+  - - - '101'
+      - Davis Straub
+    - time: 2.006353 h
+      frac: 0.85523732
+  - - - '115'
+      - Erick Salgado
+    - time: 2.217213 h
+      frac: 0.65022223
+  - - - '112'
+      - Nathan Wreyford
+    - time: 2.415613 h
+      frac: 0.50365602
+  - - - '108'
+      - Gary Anderson
+    - time: 2.742647 h
+      frac: 0.30045046
+  - - - '109'
+      - Rich Reinauer
+    - time: 2.795009 h
+      frac: 0.27072046
+- []
+- - - - '113'
+      - Rodolfo Gotes
+    - time: 1.973040 h
+      frac: 1
+  - - - '115'
+      - Erick Salgado
+    - time: 2.230991 h
+      frac: 0.67691753
+  - - - '106'
+      - Bruce Barmakian
+    - time: 2.493093 h
+      frac: 0.48439131
+altStopped:
+- []
+- []
+- - - - '103'
+      - ! 'Antonio  Mendoza '
+    - 772.000 m
+  - - - '112'
+      - Nathan Wreyford
+    - 830.000 m
+  - - - '107'
+      - Tom McGowan
+    - 752.000 m
+  - - - '104'
+      - Willy Dydo
+    - 802.000 m
+- - - - '101'
+      - Davis Straub
+    - 785.000 m
+  - - - '108'
+      - Gary Anderson
+    - 716.000 m
+  - - - '110'
+      - Kevin Carter
+    - 736.000 m
+  - - - '112'
+      - Nathan Wreyford
+    - 718.000 m
+  - - - '109'
+      - Rich Reinauer
+    - 801.000 m
+  - - - '116'
+      - Roger Irby
+    - 698.000 m
+  - - - '107'
+      - Tom McGowan
+    - 714.000 m
+  - - - '102'
+      - Vic Hare
+    - 699.000 m
+  - - - '104'
+      - Willy Dydo
+    - 725.000 m
+- - - - '103'
+      - ! 'Antonio  Mendoza '
+    - 717.000 m
+  - - - '105'
+      - David Proctor
+    - 697.000 m
+  - - - '111'
+      - Eduardo Panuco
+    - 719.000 m
+  - - - '114'
+      - Kinsley Sykes
+    - 714.000 m
+  - - - '116'
+      - Roger Irby
+    - 843.000 m
+  - - - '107'
+      - Tom McGowan
+    - 790.000 m
+- []
+- - - - '103'
+      - ! 'Antonio  Mendoza '
+    - 801.000 m
+  - - - '105'
+      - David Proctor
+    - 946.000 m
+  - - - '111'
+      - Eduardo Panuco
+    - 801.000 m
+  - - - '108'
+      - Gary Anderson
+    - 795.000 m
+  - - - '110'
+      - Kevin Carter
+    - 769.000 m
+  - - - '114'
+      - Kinsley Sykes
+    - 785.000 m
+  - - - '107'
+      - Tom McGowan
+    - 1629.000 m
+  - - - '102'
+      - Vic Hare
+    - 796.000 m

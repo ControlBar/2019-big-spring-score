@@ -1,0 +1,1073 @@
+comp:
+  compName: 2019 Big Spring Nationals (Pre-Pan-Americans) Class 1 Open
+  discipline: hg
+  earthMath: Haversines
+  location: Big Spring, Texas, USA
+  from: 2019-08-10
+  to: 2019-08-17
+  civilId: '0'
+  utcOffset:
+    timeZoneMinutes: -300
+  scoreBack: 900.000 s
+  give:
+    giveFraction: 5.0e-3
+    giveDistance: null
+  earth:
+    sphere:
+      radius: 6371000.0 m
+nominal:
+  launch: 0.96
+  goal: 0.25
+  distance: 80.0 km
+  free: 5.000 km
+  time: 2.000000 h
+compTweak:
+  arrivalRank: false
+  arrivalTime: true
+  leadingWeightScaling: null
+tasks:
+- taskName: Task 1
+  zones:
+    raw:
+    - zoneName: BIGSPR
+      lat: 32.2176
+      lng: -101.5249
+      radius: 400.0 m
+      giveIn: 398.0 m
+      giveOut: 402.0 m
+      alt: 771.000 m
+    - zoneName: WEST5K
+      lat: 32.21625
+      lng: -101.57717
+      radius: 6000.0 m
+      giveIn: 5970.0 m
+      giveOut: 6030.0 m
+      alt: 754.000 m
+    - zoneName: LAMESA
+      lat: 32.7592
+      lng: -101.9192
+      radius: 400.0 m
+      giveIn: 398.0 m
+      giveOut: 402.0 m
+      alt: 914.000 m
+    - zoneName: TBAR
+      lat: 33.1743
+      lng: -101.8234
+      radius: 8000.0 m
+      giveIn: 7960.0 m
+      giveOut: 8040.0 m
+      alt: 963.000 m
+    - zoneName: BROWN
+      lat: 33.1745
+      lng: -102.195
+      radius: 400.0 m
+      giveIn: 398.0 m
+      giveOut: 402.0 m
+      alt: 997.000 m
+    raceKind:
+      prolog:
+      - cylinder:
+          center:
+          - 32.21760000 deg
+          - -101.52490000 deg
+          radius: 400.0 m
+      race:
+      - cylinder:
+          center:
+          - 32.21625000 deg
+          - -101.57717000 deg
+          radius: 6000.0 m
+      - cylinder:
+          center:
+          - 32.75920000 deg
+          - -101.91920000 deg
+          radius: 400.0 m
+      - cylinder:
+          center:
+          - 33.17430000 deg
+          - -101.82340000 deg
+          radius: 8000.0 m
+      race-ess-is-goal:
+        circle:
+          center:
+          - 33.17450000 deg
+          - -102.19500000 deg
+          radius: 400.0 m
+    openKind: null
+  speedSection:
+  - 2
+  - 5
+  zoneTimes:
+  - open: 2019-08-11T20:00:00Z
+    close: 2019-08-12T01:00:00Z
+  startGates:
+  - 2019-08-11T20:00:00Z
+  - 2019-08-11T20:15:00Z
+  - 2019-08-11T20:30:00Z
+  - 2019-08-11T20:45:00Z
+  stopped: null
+  taskTweak:
+    arrivalRank: false
+    arrivalTime: true
+    leadingWeightScaling: null
+  earlyStart:
+    earliest: 300 s
+    earlyPenalty: 2 s
+    tooEarlyReset: 0
+  penalsAuto: []
+  penals:
+  - - - '105'
+      - David Proctor
+    - - penalty-points: 146.5
+    - Jump the gun by 293 seconds
+- taskName: '2'
+  zones:
+    raw:
+    - zoneName: BIGSPR
+      lat: 32.2176
+      lng: -101.5249
+      radius: 400.0 m
+      giveIn: 398.0 m
+      giveOut: 402.0 m
+      alt: 771.000 m
+    - zoneName: 50KM
+      lat: 32.27197
+      lng: -101.69353
+      radius: 18000.0 m
+      giveIn: 17910.0 m
+      giveOut: 18090.0 m
+      alt: 764.000 m
+    - zoneName: FISH
+      lat: 32.8238
+      lng: -100.4131
+      radius: 18000.0 m
+      giveIn: 17910.0 m
+      giveOut: 18090.0 m
+      alt: 591.000 m
+    - zoneName: JAYTON
+      lat: 33.24055
+      lng: -100.57138
+      radius: 2000.0 m
+      giveIn: 1990.0 m
+      giveOut: 2010.0 m
+      alt: 614.000 m
+    raceKind:
+      prolog:
+      - cylinder:
+          center:
+          - 32.21760000 deg
+          - -101.52490000 deg
+          radius: 400.0 m
+      race:
+      - cylinder:
+          center:
+          - 32.27197000 deg
+          - -101.69353000 deg
+          radius: 18000.0 m
+      - cylinder:
+          center:
+          - 32.82380000 deg
+          - -100.41310000 deg
+          radius: 18000.0 m
+      race-ess-is-goal:
+        circle:
+          center:
+          - 33.24055000 deg
+          - -100.57138000 deg
+          radius: 2000.0 m
+    openKind: null
+  speedSection:
+  - 2
+  - 4
+  zoneTimes:
+  - open: 2019-08-12T18:30:00Z
+    close: 2019-08-13T01:00:00Z
+  - open: 2019-08-12T19:30:00Z
+    close: 2019-08-13T01:00:00Z
+  - open: 2019-08-12T19:30:00Z
+    close: 2019-08-13T01:00:00Z
+  - open: 2019-08-12T19:30:00Z
+    close: 2019-08-13T01:00:00Z
+  startGates:
+  - 2019-08-12T19:30:00Z
+  - 2019-08-12T19:45:00Z
+  - 2019-08-12T20:00:00Z
+  - 2019-08-12T20:15:00Z
+  - 2019-08-12T20:30:00Z
+  stopped: null
+  taskTweak:
+    arrivalRank: false
+    arrivalTime: true
+    leadingWeightScaling: null
+  earlyStart:
+    earliest: 300 s
+    earlyPenalty: 2 s
+    tooEarlyReset: 0
+  penalsAuto:
+  - - - '112'
+      - Nathan Wreyford
+    - - penalty-points: 48
+    - Jumped the gun by 1:36
+  penals:
+  - - - '112'
+      - Nathan Wreyford
+    - - penalty-points: 1
+    - ''
+- taskName: Task 3
+  zones:
+    raw:
+    - zoneName: BIGSPR
+      lat: 32.2176
+      lng: -101.5249
+      radius: 400.0 m
+      giveIn: 398.0 m
+      giveOut: 402.0 m
+      alt: 771.000 m
+    - zoneName: 59T
+      lat: 32.26408
+      lng: -101.49168
+      radius: 12000.0 m
+      giveIn: 11940.0 m
+      giveOut: 12060.0 m
+      alt: 762.000 m
+    - zoneName: RANKIN
+      lat: 31.2229
+      lng: -101.9538
+      radius: 18000.0 m
+      giveIn: 17910.0 m
+      giveOut: 18090.0 m
+      alt: 765.000 m
+    raceKind:
+      prolog:
+      - cylinder:
+          center:
+          - 32.21760000 deg
+          - -101.52490000 deg
+          radius: 400.0 m
+      race:
+      - cylinder:
+          center:
+          - 32.26408000 deg
+          - -101.49168000 deg
+          radius: 12000.0 m
+      race-ess-is-goal:
+        circle:
+          center:
+          - 31.22290000 deg
+          - -101.95380000 deg
+          radius: 18000.0 m
+    openKind: null
+  speedSection:
+  - 2
+  - 3
+  zoneTimes:
+  - open: 2019-08-13T18:30:00Z
+    close: 2019-08-14T01:00:00Z
+  - open: 2019-08-13T19:30:00Z
+    close: 2019-08-14T01:00:00Z
+  - open: 2019-08-13T19:30:00Z
+    close: 2019-08-14T01:00:00Z
+  startGates:
+  - 2019-08-13T19:30:00Z
+  - 2019-08-13T19:45:00Z
+  - 2019-08-13T20:00:00Z
+  stopped: null
+  taskTweak:
+    arrivalRank: false
+    arrivalTime: true
+    leadingWeightScaling: null
+  earlyStart:
+    earliest: 300 s
+    earlyPenalty: 2 s
+    tooEarlyReset: 0
+  penalsAuto: []
+  penals: []
+- taskName: '4'
+  zones:
+    raw:
+    - zoneName: BIGSPR
+      lat: 32.2176
+      lng: -101.5249
+      radius: 400.0 m
+      giveIn: 398.0 m
+      giveOut: 402.0 m
+      alt: 771.000 m
+    - zoneName: EAST10
+      lat: 32.22147
+      lng: -101.41937
+      radius: 15000.0 m
+      giveIn: 14925.0 m
+      giveOut: 15075.0 m
+      alt: 794.000 m
+    - zoneName: 48T
+      lat: 32.55468
+      lng: -102.0204
+      radius: 1000.0 m
+      giveIn: 995.0 m
+      giveOut: 1005.0 m
+      alt: 914.000 m
+    - zoneName: GAINES
+      lat: 32.671
+      lng: -102.6465
+      radius: 1000.0 m
+      giveIn: 995.0 m
+      giveOut: 1005.0 m
+      alt: 1006.000 m
+    raceKind:
+      prolog:
+      - cylinder:
+          center:
+          - 32.21760000 deg
+          - -101.52490000 deg
+          radius: 400.0 m
+      race:
+      - cylinder:
+          center:
+          - 32.22147000 deg
+          - -101.41937000 deg
+          radius: 15000.0 m
+      - cylinder:
+          center:
+          - 32.55468000 deg
+          - -102.02040000 deg
+          radius: 1000.0 m
+      race-ess-is-goal:
+        circle:
+          center:
+          - 32.67100000 deg
+          - -102.64650000 deg
+          radius: 1000.0 m
+    openKind: null
+  speedSection:
+  - 2
+  - 4
+  zoneTimes:
+  - open: 2019-08-14T19:00:00Z
+    close: 2019-08-15T01:00:00Z
+  - open: 2019-08-14T20:00:00Z
+    close: 2019-08-15T01:00:00Z
+  - open: 2019-08-14T20:00:00Z
+    close: 2019-08-15T01:00:00Z
+  - open: 2019-08-14T20:00:00Z
+    close: 2019-08-15T01:00:00Z
+  startGates:
+  - 2019-08-14T20:00:00Z
+  - 2019-08-14T20:15:00Z
+  - 2019-08-14T20:30:00Z
+  stopped: null
+  taskTweak:
+    arrivalRank: false
+    arrivalTime: true
+    leadingWeightScaling: null
+  earlyStart:
+    earliest: 300 s
+    earlyPenalty: 2 s
+    tooEarlyReset: 0
+  penalsAuto: []
+  penals: []
+- taskName: '5'
+  zones:
+    raw:
+    - zoneName: BIGSPR
+      lat: 32.2176
+      lng: -101.5249
+      radius: 400.0 m
+      giveIn: 398.0 m
+      giveOut: 402.0 m
+      alt: 771.000 m
+    - zoneName: BIGSPR
+      lat: 32.2176
+      lng: -101.5249
+      radius: 5000.0 m
+      giveIn: 4975.0 m
+      giveOut: 5025.0 m
+      alt: 771.000 m
+    - zoneName: ACKERL
+      lat: 32.52643
+      lng: -101.71603
+      radius: 7000.0 m
+      giveIn: 6965.0 m
+      giveOut: 7035.0 m
+      alt: 846.000 m
+    - zoneName: 11T
+      lat: 32.5401
+      lng: -101.49168
+      radius: 7000.0 m
+      giveIn: 6965.0 m
+      giveOut: 7035.0 m
+      alt: 762.000 m
+    - zoneName: BIGSPR
+      lat: 32.2176
+      lng: -101.5249
+      radius: 400.0 m
+      giveIn: 398.0 m
+      giveOut: 402.0 m
+      alt: 771.000 m
+    raceKind:
+      prolog:
+      - cylinder:
+          center:
+          - 32.21760000 deg
+          - -101.52490000 deg
+          radius: 400.0 m
+      race:
+      - cylinder:
+          center:
+          - 32.21760000 deg
+          - -101.52490000 deg
+          radius: 5000.0 m
+      - cylinder:
+          center:
+          - 32.52643000 deg
+          - -101.71603000 deg
+          radius: 7000.0 m
+      - cylinder:
+          center:
+          - 32.54010000 deg
+          - -101.49168000 deg
+          radius: 7000.0 m
+      race-ess-is-goal:
+        circle:
+          center:
+          - 32.21760000 deg
+          - -101.52490000 deg
+          radius: 400.0 m
+    openKind: null
+  speedSection:
+  - 2
+  - 5
+  zoneTimes:
+  - open: 2019-08-15T17:00:00Z
+    close: 2019-08-16T01:00:00Z
+  - open: 2019-08-15T18:15:00Z
+    close: 2019-08-16T01:00:00Z
+  - open: 2019-08-15T18:15:00Z
+    close: 2019-08-16T01:00:00Z
+  - open: 2019-08-15T18:15:00Z
+    close: 2019-08-16T01:00:00Z
+  - open: 2019-08-15T18:15:00Z
+    close: 2019-08-16T01:00:00Z
+  startGates:
+  - 2019-08-15T18:15:00Z
+  - 2019-08-15T18:30:00Z
+  - 2019-08-15T18:45:00Z
+  stopped: null
+  taskTweak:
+    arrivalRank: false
+    arrivalTime: true
+    leadingWeightScaling: null
+  earlyStart:
+    earliest: 300 s
+    earlyPenalty: 2 s
+    tooEarlyReset: 0
+  penalsAuto: []
+  penals: []
+- taskName: '6'
+  zones:
+    raw:
+    - zoneName: BIGSPR
+      lat: 32.2176
+      lng: -101.5249
+      radius: 400.0 m
+      giveIn: 398.0 m
+      giveOut: 402.0 m
+      alt: 771.000 m
+    - zoneName: BIGSPR
+      lat: 32.2176
+      lng: -101.5249
+      radius: 8000.0 m
+      giveIn: 7960.0 m
+      giveOut: 8040.0 m
+      alt: 771.000 m
+    - zoneName: LAMESA
+      lat: 32.7592
+      lng: -101.9192
+      radius: 10000.0 m
+      giveIn: 9950.0 m
+      giveOut: 10050.0 m
+      alt: 914.000 m
+    - zoneName: TOWN
+      lat: 33.4834
+      lng: -101.8117
+      radius: 1000.0 m
+      giveIn: 995.0 m
+      giveOut: 1005.0 m
+      alt: 975.000 m
+    raceKind:
+      prolog:
+      - cylinder:
+          center:
+          - 32.21760000 deg
+          - -101.52490000 deg
+          radius: 400.0 m
+      race:
+      - cylinder:
+          center:
+          - 32.21760000 deg
+          - -101.52490000 deg
+          radius: 8000.0 m
+      - cylinder:
+          center:
+          - 32.75920000 deg
+          - -101.91920000 deg
+          radius: 10000.0 m
+      race-ess-is-goal:
+        circle:
+          center:
+          - 33.48340000 deg
+          - -101.81170000 deg
+          radius: 1000.0 m
+    openKind: null
+  speedSection:
+  - 2
+  - 4
+  zoneTimes:
+  - open: 2019-08-16T18:00:00Z
+    close: 2019-08-17T01:00:00Z
+  - open: 2019-08-16T19:00:00Z
+    close: 2019-08-17T01:00:00Z
+  - open: 2019-08-16T19:00:00Z
+    close: 2019-08-17T01:00:00Z
+  - open: 2019-08-16T19:00:00Z
+    close: 2019-08-17T01:00:00Z
+  startGates:
+  - 2019-08-16T19:00:00Z
+  - 2019-08-16T19:15:00Z
+  - 2019-08-16T19:30:00Z
+  stopped:
+    announced: 2019-08-16T22:46:00Z
+    retroactive: 2019-08-16T22:31:00Z
+  taskTweak:
+    arrivalRank: false
+    arrivalTime: true
+    leadingWeightScaling: null
+  earlyStart:
+    earliest: 300 s
+    earlyPenalty: 2 s
+    tooEarlyReset: 0
+  penalsAuto: []
+  penals: []
+- taskName: '7'
+  zones:
+    raw:
+    - zoneName: BIGSPR
+      lat: 32.2176
+      lng: -101.5249
+      radius: 400.0 m
+      giveIn: 398.0 m
+      giveOut: 402.0 m
+      alt: 771.000 m
+    - zoneName: BIGSPR
+      lat: 32.2176
+      lng: -101.5249
+      radius: 5000.0 m
+      giveIn: 4975.0 m
+      giveOut: 5025.0 m
+      alt: 771.000 m
+    - zoneName: 13T
+      lat: 32.41507
+      lng: -101.58317
+      radius: 1000.0 m
+      giveIn: 995.0 m
+      giveOut: 1005.0 m
+      alt: 823.000 m
+    - zoneName: 10T
+      lat: 32.2833
+      lng: -101.76308
+      radius: 1000.0 m
+      giveIn: 995.0 m
+      giveOut: 1005.0 m
+      alt: 802.000 m
+    - zoneName: BIGSPR
+      lat: 32.2176
+      lng: -101.5249
+      radius: 400.0 m
+      giveIn: 398.0 m
+      giveOut: 402.0 m
+      alt: 771.000 m
+    raceKind:
+      prolog:
+      - cylinder:
+          center:
+          - 32.21760000 deg
+          - -101.52490000 deg
+          radius: 400.0 m
+      race:
+      - cylinder:
+          center:
+          - 32.21760000 deg
+          - -101.52490000 deg
+          radius: 5000.0 m
+      - cylinder:
+          center:
+          - 32.41507000 deg
+          - -101.58317000 deg
+          radius: 1000.0 m
+      - cylinder:
+          center:
+          - 32.28330000 deg
+          - -101.76308000 deg
+          radius: 1000.0 m
+      race-ess-is-goal:
+        circle:
+          center:
+          - 32.21760000 deg
+          - -101.52490000 deg
+          radius: 400.0 m
+    openKind: null
+  speedSection:
+  - 2
+  - 5
+  zoneTimes:
+  - open: 2019-08-17T18:00:00Z
+    close: 2019-08-17T23:00:00Z
+  - open: 2019-08-17T19:00:00Z
+    close: 2019-08-17T23:00:00Z
+  - open: 2019-08-17T19:00:00Z
+    close: 2019-08-17T23:00:00Z
+  - open: 2019-08-17T19:00:00Z
+    close: 2019-08-17T23:00:00Z
+  - open: 2019-08-17T19:00:00Z
+    close: 2019-08-17T23:00:00Z
+  startGates:
+  - 2019-08-17T19:00:00Z
+  - 2019-08-17T19:15:00Z
+  - 2019-08-17T19:30:00Z
+  - 2019-08-17T19:45:00Z
+  - 2019-08-17T20:00:00Z
+  - 2019-08-17T20:15:00Z
+  - 2019-08-17T20:30:00Z
+  - 2019-08-17T20:45:00Z
+  stopped: null
+  taskTweak:
+    arrivalRank: false
+    arrivalTime: true
+    leadingWeightScaling: null
+  earlyStart:
+    earliest: 300 s
+    earlyPenalty: 2 s
+    tooEarlyReset: 0
+  penalsAuto: []
+  penals: []
+taskFolders:
+- - Open Class Task 1
+- - Open Class Task 2
+- - Open T3
+- - Open T4
+- - Open T5
+- - ! 'E:'
+  - 2019 Pre-Pan Americans
+  - Open T6
+- - Open Task 7
+pilots:
+- - - - '103'
+      - ! 'Antonio  Mendoza '
+    - null
+  - - - '106'
+      - Bruce Barmakian
+    - t1.barmakian.106.IGC
+  - - - '105'
+      - David Proctor
+    - null
+  - - - '101'
+      - Davis Straub
+    - t1.straub.101.IGC
+  - - - '111'
+      - Eduardo Panuco
+    - t1.panuco.111.IGC
+  - - - '115'
+      - Erick Salgado
+    - t1.salgado.115.IGC
+  - - - '108'
+      - Gary Anderson
+    - t1.anderson.108.IGC
+  - - - '110'
+      - Kevin Carter
+    - T1.carter.110.igc
+  - - - '114'
+      - Kinsley Sykes
+    - t1.sykes.114.IGC
+  - - - '112'
+      - Nathan Wreyford
+    - t1.wreyford.112.igc
+  - - - '109'
+      - Rich Reinauer
+    - null
+  - - - '113'
+      - Rodolfo Gotes
+    - t1.gotes.113.igc
+  - - - '116'
+      - Roger Irby
+    - t1.irby.116.IGC
+  - - - '107'
+      - Tom McGowan
+    - t1.mcgowan.107.IGC
+  - - - '102'
+      - Vic Hare
+    - t1.hare.102.igc
+  - - - '104'
+      - Willy Dydo
+    - t1.Dydo.104.IGC
+- - - - '106'
+      - Bruce Barmakian
+    - T2.Barmakian.106.IGC
+  - - - '105'
+      - David Proctor
+    - null
+  - - - '101'
+      - Davis Straub
+    - t2.straub.101.IGC
+  - - - '111'
+      - Eduardo Panuco
+    - t2.panuco.111.IGC
+  - - - '115'
+      - Erick Salgado
+    - t2.salgado.115.IGC
+  - - - '108'
+      - Gary Anderson
+    - T2.Anderson.108.IGC
+  - - - '110'
+      - Kevin Carter
+    - t2.carter.110.igc
+  - - - '114'
+      - Kinsley Sykes
+    - T2.sykes.114.IGC
+  - - - '112'
+      - Nathan Wreyford
+    - t2.wreyford.112.igc
+  - - - '109'
+      - Rich Reinauer
+    - t2.reinaur.109.igc
+  - - - '113'
+      - Rodolfo Gotes
+    - t2.gotes.113.IGC
+  - - - '116'
+      - Roger Irby
+    - T2.Irby.116.IGC
+  - - - '107'
+      - Tom McGowan
+    - t2.mcgowan.107.IGC
+  - - - '102'
+      - Vic Hare
+    - T2.HARE.102.igc
+  - - - '104'
+      - Willy Dydo
+    - t2.dydo.104.IGC
+- - - - '103'
+      - ! 'Antonio  Mendoza '
+    - LiveTrack Antonio  Mendoza .823784.20190813-191025.10821.103.igc
+  - - - '106'
+      - Bruce Barmakian
+    - LiveTrack Bruce Barmakian.880495.20190813-190136.8035.106.igc
+  - - - '105'
+      - David Proctor
+    - LiveTrack David Proctor.806421.20190813-185031.6131.105.igc
+  - - - '101'
+      - Davis Straub
+    - LiveTrack Davis Straub.226405.20190813-184855.6143.101.igc
+  - - - '111'
+      - Eduardo Panuco
+    - t3.panuco.111.igc
+  - - - '115'
+      - Erick Salgado
+    - LiveTrack Erick Salgado.902683.20190813-182730.10436.115.igc
+  - - - '108'
+      - Gary Anderson
+    - LiveTrack Gary Anderson.229946.20190813-184416.44370.108.igc
+  - - - '110'
+      - Kevin Carter
+    - t3.carter.110.igc
+  - - - '114'
+      - Kinsley Sykes
+    - null
+  - - - '112'
+      - Nathan Wreyford
+    - LiveTrack Nathan Wreyford.838609.20190813-183215.34492.112.igc
+  - - - '109'
+      - Rich Reinauer
+    - LiveTrack Rich Reinauer.874985.20190813-184529.60630.109.igc
+  - - - '113'
+      - Rodolfo Gotes
+    - LiveTrack Rodolfo Gotes.931602.20190813-183513.12376.113.igc
+  - - - '116'
+      - Roger Irby
+    - LiveTrack Roger Irby.957404.20190813-185229.25829.116.igc
+  - - - '107'
+      - Tom McGowan
+    - LiveTrack Tom McGowan.836489.20190813-190256.7817.107.igc
+  - - - '102'
+      - Vic Hare
+    - LiveTrack Vic Hare.855940.20190813-183343.24476.102.igc
+  - - - '104'
+      - Willy Dydo
+    - LiveTrack Willy Dydo.936556.20190813-184231.65212.104.igc
+- - - - '103'
+      - ! 'Antonio  Mendoza '
+    - null
+  - - - '106'
+      - Bruce Barmakian
+    - LiveTrack Bruce Barmakian.880495.20190814-191735.8035.106.igc
+  - - - '101'
+      - Davis Straub
+    - LiveTrack Davis Straub.226405.20190814-193333.6143.101.igc
+  - - - '111'
+      - Eduardo Panuco
+    - null
+  - - - '115'
+      - Erick Salgado
+    - LiveTrack Erick Salgado.902683.20190814-202606.10436.115.igc
+  - - - '108'
+      - Gary Anderson
+    - LiveTrack Gary Anderson.229946.20190814-192208.44370.108.igc
+  - - - '110'
+      - Kevin Carter
+    - LiveTrack Kevin Carter.882452.20190814-190659.6871.110.igc
+  - - - '114'
+      - Kinsley Sykes
+    - null
+  - - - '112'
+      - Nathan Wreyford
+    - LiveTrack Nathan Wreyford.838609.20190814-191851.34492.112.igc
+  - - - '109'
+      - Rich Reinauer
+    - LiveTrack Rich Reinauer.874985.20190814-192513.60630.109.igc
+  - - - '113'
+      - Rodolfo Gotes
+    - LiveTrack Rodolfo Gotes.931602.20190814-191137.12376.113.igc
+  - - - '116'
+      - Roger Irby
+    - LiveTrack Roger Irby.957404.20190814-192018.25829.116.igc
+  - - - '107'
+      - Tom McGowan
+    - LiveTrack Tom McGowan.836489.20190814-192849.7817.107.igc
+  - - - '102'
+      - Vic Hare
+    - LiveTrack Vic Hare.855940.20190814-185753.24476.102.igc
+  - - - '104'
+      - Willy Dydo
+    - LiveTrack Willy Dydo.936556.20190814-191515.65212.104.igc
+- - - - '103'
+      - ! 'Antonio  Mendoza '
+    - LiveTrack Antonio  Mendoza .823784.20190815-170512.10821.103.igc
+  - - - '106'
+      - Bruce Barmakian
+    - LiveTrack Bruce Barmakian.880495.20190815-173937.8035.106.igc
+  - - - '105'
+      - David Proctor
+    - LiveTrack David Proctor.806421.20190815-175128.6131.105.igc
+  - - - '101'
+      - Davis Straub
+    - LiveTrack Davis Straub.226405.20190815-174154.6143.101.igc
+  - - - '111'
+      - Eduardo Panuco
+    - LiveTrack Eduardo Panuco.326263.20190815-165814.9753.111.igc
+  - - - '115'
+      - Erick Salgado
+    - LiveTrack Erick Salgado.902683.20190815-170049.10436.115.igc
+  - - - '108'
+      - Gary Anderson
+    - LiveTrack Gary Anderson.229946.20190815-174801.44370.108.igc
+  - - - '110'
+      - Kevin Carter
+    - t5.carter.110.igc
+  - - - '114'
+      - Kinsley Sykes
+    - LiveTrack Kinsley Sykes.299968.20190815-180319.25828.114.igc
+  - - - '112'
+      - Nathan Wreyford
+    - LiveTrack Nathan Wreyford.838609.20190815-172438.34492.112.igc
+  - - - '109'
+      - Rich Reinauer
+    - LiveTrack Rich Reinauer.874985.20190815-164936.60630.109.igc
+  - - - '113'
+      - Rodolfo Gotes
+    - LiveTrack Rodolfo Gotes.931602.20190815-172939.12376.113.igc
+  - - - '116'
+      - Roger Irby
+    - LiveTrack Roger Irby.957404.20190815-174455.25829.116.igc
+  - - - '107'
+      - Tom McGowan
+    - LiveTrack Tom McGowan.836489.20190815-172801.7817.107.igc
+  - - - '102'
+      - Vic Hare
+    - t5.hare.102.igc
+  - - - '104'
+      - Willy Dydo
+    - t5.dydo.104.igc
+- - - - '103'
+      - ! 'Antonio  Mendoza '
+    - LiveTrack Antonio  Mendoza .823784.20190816-170210.10821.103.igc
+  - - - '106'
+      - Bruce Barmakian
+    - LiveTrack Bruce Barmakian.880495.20190816-162516.8035.106.igc
+  - - - '105'
+      - David Proctor
+    - LiveTrack David Proctor.806421.20190816-162427.6131.105.igc
+  - - - '101'
+      - Davis Straub
+    - t6.straub.101.igc
+  - - - '111'
+      - Eduardo Panuco
+    - LiveTrack Eduardo Panuco.326263.20190816-170211.9753.111.igc
+  - - - '115'
+      - Erick Salgado
+    - LiveTrack Erick Salgado.902683.20190816-170210.10436.115.igc
+  - - - '108'
+      - Gary Anderson
+    - LiveTrack Gary Anderson.229946.20190816-170210.44370.108.igc
+  - - - '110'
+      - Kevin Carter
+    - t6.carter.110.igc
+  - - - '114'
+      - Kinsley Sykes
+    - LiveTrack Kinsley Sykes.299968.20190816-170210.25828.114.igc
+  - - - '112'
+      - Nathan Wreyford
+    - LiveTrack Nathan Wreyford.838609.20190816-170211.34492.112.igc
+  - - - '109'
+      - Rich Reinauer
+    - LiveTrack Rich Reinauer.874985.20190816-162709.60630.109.igc
+  - - - '113'
+      - Rodolfo Gotes
+    - LiveTrack Rodolfo Gotes.931602.20190816-170210.12376.113.igc
+  - - - '116'
+      - Roger Irby
+    - LiveTrack Roger Irby.957404.20190816-170211.25829.116.igc
+  - - - '107'
+      - Tom McGowan
+    - LiveTrack Tom McGowan.836489.20190816-170211.7817.107.igc
+  - - - '102'
+      - Vic Hare
+    - t6.hare.102.igc
+  - - - '104'
+      - Willy Dydo
+    - t6.dydo.104.igc
+- - - - '103'
+      - ! 'Antonio  Mendoza '
+    - LiveTrack Antonio  Mendoza .823784.20190817-180116.10821.103.igc
+  - - - '106'
+      - Bruce Barmakian
+    - LiveTrack Bruce Barmakian.880495.20190817-192012.8035.106.igc
+  - - - '105'
+      - David Proctor
+    - LiveTrack David Proctor.806421.20190817-194740.6131.105.igc
+  - - - '101'
+      - Davis Straub
+    - t7.straub.101.igc
+  - - - '111'
+      - Eduardo Panuco
+    - LiveTrack Eduardo Panuco.326263.20190817-175038.9753.111.igc
+  - - - '115'
+      - Erick Salgado
+    - LiveTrack Erick Salgado.902683.20190817-193340.10436.115.igc
+  - - - '108'
+      - Gary Anderson
+    - LiveTrack Gary Anderson.229946.20190817-193646.44370.108.igc
+  - - - '110'
+      - Kevin Carter
+    - LiveTrack Kevin Carter.882452.20190817-181554.6871.110.igc
+  - - - '114'
+      - Kinsley Sykes
+    - LiveTrack Kinsley Sykes.299968.20190817-194843.25828.114.igc
+  - - - '112'
+      - Nathan Wreyford
+    - LiveTrack Nathan Wreyford.874985.20190817-175103.60630.112.igc
+  - - - '109'
+      - Rich Reinauer
+    - LiveTrack. Rich Reinauer.838609.20190817-192539.34492.109.igc
+  - - - '113'
+      - Rodolfo Gotes
+    - LiveTrack Rodolfo Gotes.931602.20190817-192407.12376.113.igc
+  - - - '116'
+      - Roger Irby
+    - t7.irby.116.igc
+  - - - '107'
+      - Tom McGowan
+    - LiveTrack Tom McGowan.836489.20190817-194134.7817.107.igc
+  - - - '102'
+      - Vic Hare
+    - LiveTrack Vic Hare.855940.20190817-175338.24476.102.igc
+  - - - '104'
+      - Willy Dydo
+    - t7.dydo.104.igc
+pilotGroups:
+- absent: []
+  didFlyNoTracklog:
+  - pilot:
+    - '103'
+    - ! 'Antonio  Mendoza '
+    awardedReach:
+      extra:
+        awardedMade: 0.000000 km
+        awardedTask: 139.526000 km
+        awardedFrac: 0
+      flown:
+        awardedMade: 0.000000 km
+        awardedTask: 139.526000 km
+        awardedFrac: 0
+    awardedVelocity:
+      ss: null
+      es: null
+  - pilot:
+    - '105'
+    - David Proctor
+    awardedReach:
+      extra:
+        awardedMade: 116.200000 km
+        awardedTask: 139.526000 km
+        awardedFrac: 0.8328196895202328
+      flown:
+        awardedMade: 116.200000 km
+        awardedTask: 139.526000 km
+        awardedFrac: 0.8328196895202328
+    awardedVelocity:
+      ss: 2019-08-11T20:00:00Z
+      es: null
+  - pilot:
+    - '109'
+    - Rich Reinauer
+    awardedReach:
+      extra:
+        awardedMade: 0.000000 km
+        awardedTask: 139.526000 km
+        awardedFrac: 0
+      flown:
+        awardedMade: 0.000000 km
+        awardedTask: 139.526000 km
+        awardedFrac: 0
+    awardedVelocity:
+      ss: null
+      es: null
+  dnf: []
+- absent:
+  - - '103'
+    - ! 'Antonio  Mendoza '
+  didFlyNoTracklog: []
+  dnf:
+  - - '105'
+    - David Proctor
+- absent: []
+  didFlyNoTracklog: []
+  dnf:
+  - - '114'
+    - Kinsley Sykes
+- absent:
+  - - '105'
+    - David Proctor
+  didFlyNoTracklog: []
+  dnf:
+  - - '103'
+    - ! 'Antonio  Mendoza '
+  - - '111'
+    - Eduardo Panuco
+  - - '114'
+    - Kinsley Sykes
+- absent: []
+  didFlyNoTracklog: []
+  dnf: []
+- absent: []
+  didFlyNoTracklog: []
+  dnf: []
+- absent: []
+  didFlyNoTracklog: []
+  dnf: []

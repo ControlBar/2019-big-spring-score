@@ -1,0 +1,332 @@
+raceTime:
+- openTask: 2019-08-11T20:00:00Z
+  closeTask: 2019-08-12T01:00:00Z
+  firstStart: 2019-08-11T20:04:22.595801172118Z
+  firstLead: 2019-08-11T20:04:22.595801172118Z
+  lastArrival: 2019-08-11T23:07:10.0751750002Z
+  leadAllDown: 11046.404
+  leadArrival: 10967.479
+  leadClose: 17737.404
+  openClose: 18000
+  tickClose: 17737.404
+- openTask: 2019-08-12T19:30:00Z
+  closeTask: 2019-08-13T01:00:00Z
+  firstStart: 2019-08-12T19:30:52.884520096555Z
+  firstLead: 2019-08-12T19:30:52.884520096555Z
+  lastArrival: 2019-08-12T23:06:29.127408571847Z
+  leadAllDown: 13296.115
+  leadArrival: 12936.243
+  leadClose: 19747.115
+  openClose: 19800
+  tickClose: 19747.115
+- openTask: 2019-08-13T19:30:00Z
+  closeTask: 2019-08-14T01:00:00Z
+  firstStart: 2019-08-13T19:30:16.461932461517Z
+  firstLead: 2019-08-13T19:30:16.461932461517Z
+  lastArrival: 2019-08-13T22:10:44.548461277466Z
+  leadAllDown: 11897.538
+  leadArrival: 9628.087
+  leadClose: 19783.538
+  openClose: 19800
+  tickClose: 19783.538
+- openTask: 2019-08-14T20:00:00Z
+  closeTask: 2019-08-15T01:00:00Z
+  firstStart: 2019-08-14T20:00:09.348589016875Z
+  firstLead: 2019-08-14T20:00:09.348589016875Z
+  lastArrival: 2019-08-15T00:27:58.371595790295Z
+  leadAllDown: 16269.651
+  leadArrival: 16069.023
+  leadClose: 17990.651
+  openClose: 18000
+  tickClose: 17990.651
+- openTask: 2019-08-15T18:15:00Z
+  closeTask: 2019-08-16T01:00:00Z
+  firstStart: 2019-08-15T18:18:54.9687343879Z
+  firstLead: 2019-08-15T18:18:54.9687343879Z
+  lastArrival: 2019-08-15T21:14:33.528776185627Z
+  leadAllDown: 10720.031
+  leadArrival: 10538.56
+  leadClose: 24065.031
+  openClose: 24300
+  tickClose: 24065.031
+- openTask: 2019-08-16T19:00:00Z
+  closeTask: 2019-08-16T22:31:00Z
+  firstStart: null
+  firstLead: null
+  lastArrival: 2019-08-16T22:31:00Z
+  leadAllDown: null
+  leadArrival: null
+  leadClose: null
+  openClose: 12660
+  tickClose: null
+- openTask: 2019-08-17T19:00:00Z
+  closeTask: 2019-08-17T23:00:00Z
+  firstStart: 2019-08-17T19:55:10.344296340196Z
+  firstLead: 2019-08-17T19:55:10.344296340196Z
+  lastArrival: 2019-08-17T22:14:35.13630382876Z
+  leadAllDown: 11304.656
+  leadArrival: 8364.792
+  leadClose: 11089.656
+  openClose: 14400
+  tickClose: 11089.656
+sumDistance:
+- 538.666500 km
+- 587.466456 km
+- 993.251972 km
+- 414.978879 km
+- 566.019910 km
+- null
+- 420.364470 km
+leadAreaToCoef:
+- 0.00000003119788 km^-2 s^-1
+- 0.00000002459147 km^-2 s^-1
+- 0.00000006315261 km^-2 s^-1
+- 0.00000004396572 km^-2 s^-1
+- 0.00000011801785 km^-2 s^-1
+- 0.00000002942036 km^-2 s^-1
+- 0.00000015575035 km^-2 s^-1
+leadCoefMin:
+- 1.6082691
+- 1.74356767
+- 1.4934581
+- 3.50240749
+- 1.58297186
+- null
+- 1.39584208
+leadRank:
+- - - - '104'
+      - Willy Dydo
+    - area: 51550590.1944 km^2 s
+      coef: 1.6082691
+      frac: 1
+  - - - '113'
+      - Rodolfo Gotes
+    - area: 60982254.8412 km^2 s
+      coef: 1.90251704
+      frac: 0.62240806
+  - - - '110'
+      - Kevin Carter
+    - area: 77433932.3050 km^2 s
+      coef: 2.41577449
+      frac: 0.25986539
+  - - - '102'
+      - Vic Hare
+    - area: 80206643.8023 km^2 s
+      coef: 2.50227721
+      frac: 0.20790963
+- - - - '113'
+      - Rodolfo Gotes
+    - area: 70901330.0421 km^2 s
+      coef: 1.74356767
+      frac: 1
+  - - - '104'
+      - Willy Dydo
+    - area: 75785826.9716 km^2 s
+      coef: 1.86368461
+      frac: 0.79773383
+  - - - '102'
+      - Vic Hare
+    - area: 78220201.5851 km^2 s
+      coef: 1.92354945
+      frac: 0.73514627
+  - - - '110'
+      - Kevin Carter
+    - area: 87300497.4785 km^2 s
+      coef: 2.14684724
+      frac: 0.54648546
+- - - - '113'
+      - Rodolfo Gotes
+    - area: 23648397.9416 km^2 s
+      coef: 1.4934581
+      frac: 1
+  - - - '102'
+      - Vic Hare
+    - area: 23764696.9832 km^2 s
+      coef: 1.50080269
+      frac: 0.96694423
+  - - - '115'
+      - Erick Salgado
+    - area: 25516163.4494 km^2 s
+      coef: 1.61141237
+      frac: 0.78958432
+  - - - '116'
+      - Roger Irby
+    - area: 27033102.5325 km^2 s
+      coef: 1.70721103
+      frac: 0.6872406
+  - - - '101'
+      - Davis Straub
+    - area: 27333577.3959 km^2 s
+      coef: 1.72618681
+      frac: 0.66899418
+  - - - '108'
+      - Gary Anderson
+    - area: 27637234.4082 km^2 s
+      coef: 1.74536354
+      frac: 0.65105202
+  - - - '105'
+      - David Proctor
+    - area: 36138244.6621 km^2 s
+      coef: 2.28222454
+      frac: 0.25314791
+  - - - '106'
+      - Bruce Barmakian
+    - area: 36366972.7509 km^2 s
+      coef: 2.29666932
+      frac: 0.24405738
+  - - - '109'
+      - Rich Reinauer
+    - area: 36578659.3446 km^2 s
+      coef: 2.31003788
+      frac: 0.23569259
+  - - - '104'
+      - Willy Dydo
+    - area: 40031026.8596 km^2 s
+      coef: 2.5280639
+      frac: 0.10507716
+  - - - '112'
+      - Nathan Wreyford
+    - area: 45958083.5741 km^2 s
+      coef: 2.90237302
+      frac: 0
+  - - - '103'
+      - ! 'Antonio  Mendoza '
+    - area: 54665434.7564 km^2 s
+      coef: 3.45226499
+      frac: 0
+- - - - '106'
+      - Bruce Barmakian
+    - area: 79662231.2257 km^2 s
+      coef: 3.50240749
+      frac: 1
+  - - - '113'
+      - Rodolfo Gotes
+    - area: 83521933.4720 km^2 s
+      coef: 3.67210209
+      frac: 0.79816811
+  - - - '101'
+      - Davis Straub
+    - area: 116424555.1757 km^2 s
+      coef: 5.1186896
+      frac: 9.310734e-2
+  - - - '115'
+      - Erick Salgado
+    - area: 117908227.3132 km^2 s
+      coef: 5.18392032
+      frac: 6.886805e-2
+  - - - '110'
+      - Kevin Carter
+    - area: 141357625.9474 km^2 s
+      coef: 6.21489005
+      frac: 0
+  - - - '104'
+      - Willy Dydo
+    - area: 171853110.5741 km^2 s
+      coef: 7.55564604
+      frac: 0
+  - - - '102'
+      - Vic Hare
+    - area: 198949364.8239 km^2 s
+      coef: 8.74695242
+      frac: 0
+- - - - '115'
+      - Erick Salgado
+    - area: 13412986.5364 km^2 s
+      coef: 1.58297186
+      frac: 1
+  - - - '109'
+      - Rich Reinauer
+    - area: 15329682.4815 km^2 s
+      coef: 1.8091762
+      frac: 0.68145102
+  - - - '106'
+      - Bruce Barmakian
+    - area: 15506859.2659 km^2 s
+      coef: 1.83008622
+      frac: 0.66211084
+  - - - '112'
+      - Nathan Wreyford
+    - area: 18416060.1556 km^2 s
+      coef: 2.17342386
+      frac: 0.39609958
+  - - - '101'
+      - Davis Straub
+    - area: 19118125.8464 km^2 s
+      coef: 2.25628015
+      frac: 0.34084901
+  - - - '113'
+      - Rodolfo Gotes
+    - area: 19575566.7232 km^2 s
+      coef: 2.31026634
+      frac: 0.30606979
+  - - - '116'
+      - Roger Irby
+    - area: 22282756.7144 km^2 s
+      coef: 2.62976309
+      frac: 0.11539583
+  - - - '108'
+      - Gary Anderson
+    - area: 22355356.4732 km^2 s
+      coef: 2.63833115
+      frac: 0.11057535
+  - - - '107'
+      - Tom McGowan
+    - area: 26260630.5926 km^2 s
+      coef: 3.09922322
+      frac: 0
+  - - - '111'
+      - Eduardo Panuco
+    - area: 41186234.4233 km^2 s
+      coef: 4.86071092
+      frac: 0
+- []
+- - - - '115'
+      - Erick Salgado
+    - area: 8962047.6716 km^2 s
+      coef: 1.39584208
+      frac: 1
+  - - - '106'
+      - Bruce Barmakian
+    - area: 9526725.5100 km^2 s
+      coef: 1.48379085
+      frac: 0.82304028
+  - - - '113'
+      - Rodolfo Gotes
+    - area: 9614283.4811 km^2 s
+      coef: 1.49742804
+      frac: 0.8051904
+  - - - '102'
+      - Vic Hare
+    - area: 13802324.5106 km^2 s
+      coef: 2.14971691
+      frac: 0.25882505
+  - - - '107'
+      - Tom McGowan
+    - area: 14676879.8586 km^2 s
+      coef: 2.28592921
+      frac: 0.17203956
+  - - - '105'
+      - David Proctor
+    - area: 15201632.5380 km^2 s
+      coef: 2.36765962
+      frac: 0.12210133
+  - - - '108'
+      - Gary Anderson
+    - area: 15451211.0895 km^2 s
+      coef: 2.40653157
+      frac: 9.88445e-2
+  - - - '103'
+      - ! 'Antonio  Mendoza '
+    - area: 16951563.8967 km^2 s
+      coef: 2.64021205
+      frac: 0
+  - - - '110'
+      - Kevin Carter
+    - area: 19269881.1771 km^2 s
+      coef: 3.00129078
+      frac: 0
+  - - - '111'
+      - Eduardo Panuco
+    - area: 19798273.3594 km^2 s
+      coef: 3.08358805
+      frac: 0

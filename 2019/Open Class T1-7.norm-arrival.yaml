@@ -1,0 +1,264 @@
+pilotsAtEss:
+- 9
+- 7
+- 10
+- 3
+- 10
+- 6
+- 6
+arrivalRank:
+- - - - '104'
+      - Willy Dydo
+    - lag: 0.000000 h
+      rank: '1'
+      frac: 1
+  - - - '110'
+      - Kevin Carter
+    - lag: 0.376111 h
+      rank: '2'
+      frac: 0.42062623
+  - - - '115'
+      - Erick Salgado
+    - lag: 0.381389 h
+      rank: '3'
+      frac: 0.41472824
+  - - - '102'
+      - Vic Hare
+    - lag: 0.523056 h
+      rank: '4'
+      frac: 0.27627133
+  - - - '113'
+      - Rodolfo Gotes
+    - lag: 0.555278 h
+      rank: '5'
+      frac: 0.24982656
+  - - - '106'
+      - Bruce Barmakian
+    - lag: 0.581111 h
+      rank: '6'
+      frac: 0.22988743
+  - - - '101'
+      - Davis Straub
+    - lag: 0.745556 h
+      rank: '7'
+      frac: 0.12723542
+  - - - '116'
+      - Roger Irby
+    - lag: 0.760556 h
+      rank: '8'
+      frac: 0.11979615
+  - - - '112'
+      - Nathan Wreyford
+    - lag: 0.839167 h
+      rank: '9'
+      frac: 8.550707e-2
+- - - - '112'
+      - Nathan Wreyford
+    - lag: 0.000000 h
+      rank: '1'
+      frac: 1
+  - - - '115'
+      - Erick Salgado
+    - lag: 0.036111 h
+      rank: '2'
+      frac: 0.92950251
+  - - - '104'
+      - Willy Dydo
+    - lag: 0.124167 h
+      rank: '3'
+      frac: 0.77165594
+  - - - '113'
+      - Rodolfo Gotes
+    - lag: 0.133056 h
+      rank: '4'
+      frac: 0.75679598
+  - - - '102'
+      - Vic Hare
+    - lag: 0.386111 h
+      rank: '5'
+      frac: 0.40949805
+  - - - '106'
+      - Bruce Barmakian
+    - lag: 0.389167 h
+      rank: '6'
+      frac: 0.40613735
+  - - - '110'
+      - Kevin Carter
+    - lag: 0.994167 h
+      rank: '7'
+      frac: 3.834852e-2
+- - - - '102'
+      - Vic Hare
+    - lag: 0.000000 h
+      rank: '1'
+      frac: 1
+  - - - '113'
+      - Rodolfo Gotes
+    - lag: 0.003333 h
+      rank: '2'
+      frac: 0.99334814
+  - - - '115'
+      - Erick Salgado
+    - lag: 0.032222 h
+      rank: '3'
+      frac: 0.93693
+  - - - '106'
+      - Bruce Barmakian
+    - lag: 0.107778 h
+      rank: '4'
+      frac: 0.79956156
+  - - - '116'
+      - Roger Irby
+    - lag: 0.294722 h
+      rank: '5'
+      frac: 0.51878531
+  - - - '109'
+      - Rich Reinauer
+    - lag: 0.344167 h
+      rank: '6'
+      frac: 0.45752188
+  - - - '101'
+      - Davis Straub
+    - lag: 0.459167 h
+      rank: '7'
+      frac: 0.33409486
+  - - - '110'
+      - Kevin Carter
+    - lag: 0.472778 h
+      rank: '8'
+      frac: 0.32115851
+  - - - '108'
+      - Gary Anderson
+    - lag: 0.520000 h
+      rank: '9'
+      frac: 0.2788717
+  - - - '105'
+      - David Proctor
+    - lag: 0.590278 h
+      rank: '10'
+      frac: 0.22307589
+- - - - '106'
+      - Bruce Barmakian
+    - lag: 0.000000 h
+      rank: '1'
+      frac: 1
+  - - - '113'
+      - Rodolfo Gotes
+    - lag: 0.434722 h
+      rank: '2'
+      frac: 0.35819113
+  - - - '115'
+      - Erick Salgado
+    - lag: 1.021667 h
+      rank: '3'
+      frac: 3.242785e-2
+- - - - '106'
+      - Bruce Barmakian
+    - lag: 0.000000 h
+      rank: '1'
+      frac: 1
+  - - - '115'
+      - Erick Salgado
+    - lag: 0.037500 h
+      rank: '2'
+      frac: 0.92685937
+  - - - '113'
+      - Rodolfo Gotes
+    - lag: 0.252778 h
+      rank: '3'
+      frac: 0.57485425
+  - - - '101'
+      - Davis Straub
+    - lag: 0.326389 h
+      rank: '4'
+      frac: 0.47895958
+  - - - '104'
+      - Willy Dydo
+    - lag: 0.456389 h
+      rank: '5'
+      frac: 0.33677691
+  - - - '112'
+      - Nathan Wreyford
+    - lag: 0.485833 h
+      rank: '6'
+      frac: 0.30906813
+  - - - '109'
+      - Rich Reinauer
+    - lag: 0.615278 h
+      rank: '7'
+      frac: 0.20518567
+  - - - '108'
+      - Gary Anderson
+    - lag: 0.812778 h
+      rank: '8'
+      frac: 9.616517e-2
+  - - - '102'
+      - Vic Hare
+    - lag: 0.901111 h
+      rank: '9'
+      frac: 6.36451e-2
+  - - - '110'
+      - Kevin Carter
+    - lag: 0.953333 h
+      rank: '10'
+      frac: 4.840542e-2
+- - - - '115'
+      - Erick Salgado
+    - lag: 0.000000 h
+      rank: '1'
+      frac: 1
+  - - - '113'
+      - Rodolfo Gotes
+    - lag: 0.165833 h
+      rank: '2'
+      frac: 0.70364966
+  - - - '110'
+      - Kevin Carter
+    - lag: 0.291944 h
+      rank: '3'
+      frac: 0.52238048
+  - - - '101'
+      - Davis Straub
+    - lag: 0.306389 h
+      rank: '4'
+      frac: 0.50386568
+  - - - '102'
+      - Vic Hare
+    - lag: 0.375000 h
+      rank: '5'
+      frac: 0.421875
+  - - - '104'
+      - Willy Dydo
+    - lag: 0.393611 h
+      rank: '6'
+      frac: 0.40128196
+- - - - '104'
+      - Willy Dydo
+    - lag: 0.000000 h
+      rank: '1'
+      frac: 1
+  - - - '113'
+      - Rodolfo Gotes
+    - lag: 0.301944 h
+      rank: '2'
+      frac: 0.50951514
+  - - - '115'
+      - Erick Salgado
+    - lag: 0.309722 h
+      rank: '3'
+      frac: 0.49965611
+  - - - '101'
+      - Davis Straub
+    - lag: 0.381667 h
+      rank: '4'
+      frac: 0.41441936
+  - - - '112'
+      - Nathan Wreyford
+    - lag: 0.504444 h
+      rank: '5'
+      frac: 0.29236321
+  - - - '106'
+      - Bruce Barmakian
+    - lag: 0.571944 h
+      rank: '6'
+      frac: 0.23683623

@@ -1,0 +1,392 @@
+minDistance: 5.000 km
+bestDistance:
+- 139.666625 km
+- 151.866614 km
+- 99.410831 km
+- 117.962697 km
+- 73.210391 km
+- null
+- 64.324047 km
+chunking:
+- startChunk:
+  - 0
+  - 0.0 km
+  endChunk:
+  - 1401
+  - 140.1 km
+  sumOf: 1266
+- startChunk:
+  - 0
+  - 0.0 km
+  endChunk:
+  - 1521
+  - 152.1 km
+  sumOf: 0
+- startChunk:
+  - 0
+  - 0.0 km
+  endChunk:
+  - 1001
+  - 100.1 km
+  sumOf: 1407
+- startChunk:
+  - 0
+  - 0.0 km
+  endChunk:
+  - 1181
+  - 118.1 km
+  sumOf: 903
+- startChunk:
+  - 0
+  - 0.0 km
+  endChunk:
+  - 741
+  - 74.1 km
+  sumOf: 842
+- null
+- startChunk:
+  - 0
+  - 0.0 km
+  endChunk:
+  - 651
+  - 65.1 km
+  sumOf: 1630
+landout:
+- 3
+- 0
+- 4
+- 9
+- 6
+- 0
+- 8
+lookahead:
+- 1397
+- 30
+- 746
+- 393
+- 366
+- null
+- 241
+difficulty:
+- - chunk: 50
+    startChunk: 5.0 km
+    endChunk: 5.1 km
+    endAhead: 144.8 km
+    down: 2
+    downs:
+    - 5.000 km
+    - 5.000 km
+    downers:
+    - - '103'
+      - ! 'Antonio  Mendoza '
+    - - '109'
+      - Rich Reinauer
+    downward: 3
+    rel: 1.18483e-3
+    frac: 6.042654e-2
+  - chunk: 1163
+    startChunk: 116.3 km
+    endChunk: 116.4 km
+    endAhead: 256.1 km
+    down: 1
+    downs:
+    - 116.317 km
+    downers:
+    - - '105'
+      - David Proctor
+    downward: 1
+    rel: 3.9494e-4
+    frac: 0.5
+- []
+- - chunk: 1
+    startChunk: 0.1 km
+    endChunk: 0.2 km
+    endAhead: 74.8 km
+    down: 1
+    downs:
+    - 0.158 km
+    downers:
+    - - '107'
+      - Tom McGowan
+    downward: 3
+    rel: 1.0661e-3
+    frac: 2.1322e-3
+  - chunk: 264
+    startChunk: 26.4 km
+    endChunk: 26.5 km
+    endAhead: 101.1 km
+    down: 1
+    downs:
+    - 26.470 km
+    downers:
+    - - '103'
+      - ! 'Antonio  Mendoza '
+    downward: 3
+    rel: 1.0661e-3
+    frac: 0.22210377
+  - chunk: 393
+    startChunk: 39.3 km
+    endChunk: 39.4 km
+    endAhead: 114.0 km
+    down: 1
+    downs:
+    - 39.314 km
+    downers:
+    - - '104'
+      - Willy Dydo
+    downward: 2
+    rel: 7.1073e-4
+    frac: 0.3137882
+  - chunk: 917
+    startChunk: 91.7 km
+    endChunk: 91.8 km
+    endAhead: 166.4 km
+    down: 1
+    downs:
+    - 91.775 km
+    downers:
+    - - '112'
+      - Nathan Wreyford
+    downward: 1
+    rel: 3.5537e-4
+    frac: 0.5
+- - chunk: 0
+    startChunk: 0.0 km
+    endChunk: 0.1 km
+    endAhead: 39.4 km
+    down: 5
+    downs:
+    - -1.017 km
+    - -0.976 km
+    - -0.809 km
+    - -0.591 km
+    - -0.522 km
+    downers:
+    - - '116'
+      - Roger Irby
+    - - '112'
+      - Nathan Wreyford
+    - - '108'
+      - Gary Anderson
+    - - '109'
+      - Rich Reinauer
+    - - '107'
+      - Tom McGowan
+    downward: 8
+    rel: 4.42968e-3
+    frac: 4.42968e-3
+  - chunk: 62
+    startChunk: 6.2 km
+    endChunk: 6.3 km
+    endAhead: 45.6 km
+    down: 1
+    downs:
+    - 6.244 km
+    downers:
+    - - '102'
+      - Vic Hare
+    downward: 4
+    rel: 2.21484e-3
+    frac: 0.11461794
+  - chunk: 154
+    startChunk: 15.4 km
+    endChunk: 15.5 km
+    endAhead: 54.8 km
+    down: 1
+    downs:
+    - 15.490 km
+    downers:
+    - - '104'
+      - Willy Dydo
+    downward: 3
+    rel: 1.66113e-3
+    frac: 0.26744186
+  - chunk: 286
+    startChunk: 28.6 km
+    endChunk: 28.7 km
+    endAhead: 68.0 km
+    down: 1
+    downs:
+    - 28.673 km
+    downers:
+    - - '110'
+      - Kevin Carter
+    downward: 2
+    rel: 1.10742e-3
+    frac: 0.41362126
+  - chunk: 442
+    startChunk: 44.2 km
+    endChunk: 44.3 km
+    endAhead: 83.6 km
+    down: 1
+    downs:
+    - 44.259 km
+    downers:
+    - - '101'
+      - Davis Straub
+    downward: 1
+    rel: 5.5371e-4
+    frac: 0.5
+- - chunk: 0
+    startChunk: 0.0 km
+    endChunk: 0.1 km
+    endAhead: 36.7 km
+    down: 3
+    downs:
+    - -0.980 km
+    - -0.781 km
+    - -0.438 km
+    downers:
+    - - '103'
+      - ! 'Antonio  Mendoza '
+    - - '105'
+      - David Proctor
+    - - '114'
+      - Kinsley Sykes
+    downward: 4
+    rel: 2.3753e-3
+    frac: 2.3753e-3
+  - chunk: 106
+    startChunk: 10.6 km
+    endChunk: 10.7 km
+    endAhead: 47.3 km
+    down: 1
+    downs:
+    - 10.676 km
+    downers:
+    - - '111'
+      - Eduardo Panuco
+    downward: 2
+    rel: 1.18765e-3
+    frac: 8.432304e-2
+  - chunk: 440
+    startChunk: 44.0 km
+    endChunk: 44.1 km
+    endAhead: 80.7 km
+    down: 1
+    downs:
+    - 44.045 km
+    downers:
+    - - '116'
+      - Roger Irby
+    downward: 2
+    rel: 1.18765e-3
+    frac: 0.47387173
+  - chunk: 484
+    startChunk: 48.4 km
+    endChunk: 48.5 km
+    endAhead: 85.1 km
+    down: 1
+    downs:
+    - 48.467 km
+    downers:
+    - - '107'
+      - Tom McGowan
+    downward: 1
+    rel: 5.9382e-4
+    frac: 0.5
+- null
+- - chunk: 0
+    startChunk: 0.0 km
+    endChunk: 0.1 km
+    endAhead: 24.2 km
+    down: 1
+    downs:
+    - -0.558 km
+    downers:
+    - - '114'
+      - Kinsley Sykes
+    downward: 2
+    rel: 6.135e-4
+    frac: 6.135e-4
+  - chunk: 182
+    startChunk: 18.2 km
+    endChunk: 18.3 km
+    endAhead: 42.4 km
+    down: 1
+    downs:
+    - 18.272 km
+    downers:
+    - - '111'
+      - Eduardo Panuco
+    downward: 4
+    rel: 1.22699e-3
+    frac: 0.15644172
+  - chunk: 295
+    startChunk: 29.5 km
+    endChunk: 29.6 km
+    endAhead: 53.7 km
+    down: 1
+    downs:
+    - 29.506 km
+    downers:
+    - - '108'
+      - Gary Anderson
+    downward: 5
+    rel: 1.53374e-3
+    frac: 0.27055215
+  - chunk: 298
+    startChunk: 29.8 km
+    endChunk: 29.9 km
+    endAhead: 54.0 km
+    down: 1
+    downs:
+    - 29.896 km
+    downers:
+    - - '103'
+      - ! 'Antonio  Mendoza '
+    downward: 4
+    rel: 1.22699e-3
+    frac: 0.27423313
+  - chunk: 350
+    startChunk: 35.0 km
+    endChunk: 35.1 km
+    endAhead: 59.2 km
+    down: 1
+    downs:
+    - 35.097 km
+    downers:
+    - - '102'
+      - Vic Hare
+    downward: 4
+    rel: 1.22699e-3
+    frac: 0.32730061
+  - chunk: 519
+    startChunk: 51.9 km
+    endChunk: 52.0 km
+    endAhead: 76.1 km
+    down: 1
+    downs:
+    - 51.930 km
+    downers:
+    - - '107'
+      - Tom McGowan
+    downward: 3
+    rel: 9.2025e-4
+    frac: 0.48282209
+  - chunk: 520
+    startChunk: 52.0 km
+    endChunk: 52.1 km
+    endAhead: 76.2 km
+    down: 1
+    downs:
+    - 52.051 km
+    downers:
+    - - '110'
+      - Kevin Carter
+    downward: 2
+    rel: 6.135e-4
+    frac: 0.48343558
+  - chunk: 574
+    startChunk: 57.4 km
+    endChunk: 57.5 km
+    endAhead: 81.6 km
+    down: 1
+    downs:
+    - 57.431 km
+    downers:
+    - - '105'
+      - David Proctor
+    downward: 1
+    rel: 3.0675e-4
+    frac: 0.5

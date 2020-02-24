@@ -1,0 +1,131 @@
+bestEffort:
+- 139.666625 km
+- 151.866614 km
+- 99.410831 km
+- 117.962697 km
+- 73.210391 km
+- null
+- 64.324047 km
+land:
+- - - - '105'
+      - David Proctor
+    - togo: 23.349510 km
+      made: 116.317115 km
+  - - - '103'
+      - ! 'Antonio  Mendoza '
+    - togo: 134.666625 km
+      made: 5.000000 km
+  - - - '109'
+      - Rich Reinauer
+    - togo: 134.666625 km
+      made: 5.000000 km
+- []
+- - - - '112'
+      - Nathan Wreyford
+    - togo: 7.636076 km
+      made: 91.774755 km
+  - - - '104'
+      - Willy Dydo
+    - togo: 60.096539 km
+      made: 39.314292 km
+  - - - '103'
+      - ! 'Antonio  Mendoza '
+    - togo: 72.940632 km
+      made: 26.470199 km
+  - - - '107'
+      - Tom McGowan
+    - togo: 99.252353 km
+      made: 0.158478 km
+- - - - '101'
+      - Davis Straub
+    - togo: 73.704180 km
+      made: 44.258517 km
+  - - - '110'
+      - Kevin Carter
+    - togo: 89.289801 km
+      made: 28.672896 km
+  - - - '104'
+      - Willy Dydo
+    - togo: 102.472900 km
+      made: 15.489797 km
+  - - - '102'
+      - Vic Hare
+    - togo: 111.719185 km
+      made: 6.243512 km
+  - - - '107'
+      - Tom McGowan
+    - togo: 118.484266 km
+      made: -0.521569 km
+  - - - '109'
+      - Rich Reinauer
+    - togo: 118.554186 km
+      made: -0.591489 km
+  - - - '108'
+      - Gary Anderson
+    - togo: 118.772149 km
+      made: -0.809452 km
+  - - - '112'
+      - Nathan Wreyford
+    - togo: 118.938990 km
+      made: -0.976293 km
+  - - - '116'
+      - Roger Irby
+    - togo: 118.979257 km
+      made: -1.016560 km
+- - - - '107'
+      - Tom McGowan
+    - togo: 24.743699 km
+      made: 48.466692 km
+  - - - '116'
+      - Roger Irby
+    - togo: 29.165009 km
+      made: 44.045382 km
+  - - - '111'
+      - Eduardo Panuco
+    - togo: 62.533937 km
+      made: 10.676454 km
+  - - - '114'
+      - Kinsley Sykes
+    - togo: 73.648052 km
+      made: -0.437661 km
+  - - - '105'
+      - David Proctor
+    - togo: 73.991132 km
+      made: -0.780741 km
+  - - - '103'
+      - ! 'Antonio  Mendoza '
+    - togo: 74.190706 km
+      made: -0.980315 km
+- []
+- - - - '105'
+      - David Proctor
+    - togo: 6.893153 km
+      made: 57.430894 km
+  - - - '110'
+      - Kevin Carter
+    - togo: 12.272621 km
+      made: 52.051426 km
+  - - - '107'
+      - Tom McGowan
+    - togo: 12.393589 km
+      made: 51.930458 km
+  - - - '102'
+      - Vic Hare
+    - togo: 29.226821 km
+      made: 35.097226 km
+  - - - '103'
+      - ! 'Antonio  Mendoza '
+    - togo: 34.428522 km
+      made: 29.895525 km
+  - - - '108'
+      - Gary Anderson
+    - togo: 34.817688 km
+      made: 29.506359 km
+  - - - '111'
+      - Eduardo Panuco
+    - togo: 46.052090 km
+      made: 18.271957 km
+  - - - '114'
+      - Kinsley Sykes
+    - togo: 64.882023 km
+      made: -0.557976 km
